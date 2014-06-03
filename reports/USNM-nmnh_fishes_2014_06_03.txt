@@ -1,0 +1,247 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1497
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Taiwan ; Times: 1
+	Country: Thailand ; Times: 20
+	Country: United States ; Times: 135
+	Country: Unknown ; Times: 32
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 8
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 3
+	Date: 2014-05-06 ; Times: 3
+	Date: 2014-05-07 ; Times: 17
+	Date: 2014-05-08 ; Times: 17
+	Date: 2014-05-09 ; Times: 16
+	Date: 2014-05-10 ; Times: 1
+	Date: 2014-05-12 ; Times: 21
+	Date: 2014-05-13 ; Times: 23
+	Date: 2014-05-14 ; Times: 16
+	Date: 2014-05-15 ; Times: 2
+	Date: 2014-05-16 ; Times: 28
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-19 ; Times: 3
+	Date: 2014-05-20 ; Times: 4
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 6
+	Date: 2014-05-23 ; Times: 13
+	Date: 2014-05-24 ; Times: 1
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-27 ; Times: 2
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 5
+	Date: 2014-05-30 ; Times: 5
+	Date: 2014-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "USNM 190.5000143" ; Times: 1
+	Query: "Pimelodella yuncensis" ; Times: 1
+	Query: "Potamotrygon" ; Times: 2
+	Query: "USNM 186510.5166382" ; Times: 1
+	Query: "USNM 186503.5166387" ; Times: 1
+	Query: "USNM 186514.5166378" ; Times: 1
+	Query: "djibouti" ; Times: 1
+	Query: "USNM 32630.5005437" ; Times: 1
+	Query: "lama year >= 1970" ; Times: 1
+	Query: "USNM 186498.5166361" ; Times: 1
+	Query: "USNM 986.5136328" ; Times: 1
+	Query: "USNM 239608.5098113" ; Times: 1
+	Query: "USNM 394491.5326603" ; Times: 1
+	Query: "fossil institutioncode:NMNH" ; Times: 1
+	Query: ""FMNH 1"" ; Times: 1
+	Query: "USNM 16896.5002094" ; Times: 1
+	Query: "Ammerman" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Aequidens" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1800 year <= 1950" ; Times: 1
+	Query: "USNM 186495.5166385" ; Times: 1
+	Query: "USNM 58603" ; Times: 1
+	Query: "USNM 186512.5166364" ; Times: 1
+	Query: "USNM 39449" ; Times: 1
+	Query: "USNM 269.5000205" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "USNM 20382.5002654" ; Times: 1
+	Query: "USNM 4470.5000945" ; Times: 1
+	Query: "USNM-5433" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "zapteryx" ; Times: 1
+	Query: "USNM 237821.5096328" ; Times: 1
+	Query: "adiastolus" ; Times: 2
+	Query: "USNM 229.5000178" ; Times: 1
+	Query: "panthera country:"egypt"" ; Times: 4
+	Query: "USNM 186505.5166369" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Astyanax" ; Times: 1
+	Query: "USNM 557.5000345" ; Times: 1
+	Query: "USNM 200113.5059741" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1900 year <= 1930" ; Times: 1
+	Query: "USNM 186508.5166377" ; Times: 1
+	Query: "Astroblepus chotae" ; Times: 1
+	Query: "USNM 47073.5011266" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1800 year <= 1900" ; Times: 1
+	Query: "Landonia latidens" ; Times: 1
+	Query: "USNM 20302.5002617" ; Times: 1
+	Query: "Pudu" ; Times: 1
+	Query: "USNM 30904.5004922" ; Times: 2
+	Query: "Bryconamericus brevirostris" ; Times: 4
+	Query: "USNM 8829.5001428" ; Times: 1
+	Query: "Aaptosyax" ; Times: 2
+	Query: "coryphopterus type:specimen mappable:1" ; Times: 1
+	Query: "USNM 7024.5001154" ; Times: 1
+	Query: "cuchia" ; Times: 2
+	Query: "Trichomycterus meridae" ; Times: 1
+	Query: "arenatus" ; Times: 2
+	Query: "USNM 31021.5004953" ; Times: 1
+	Query: "USNM 186507.5166384" ; Times: 1
+	Query: "Rhinichthys cataractae dulcis" ; Times: 1
+	Query: "USNM 186502.5166386" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:lucius genus:esox year >= 1800 year <= 1930" ; Times: 2
+	Query: "hypophthalmichthys nobilis" ; Times: 1
+	Query: "USNM 259596.5118047" ; Times: 1
+	Query: "USNM 23472.5166446" ; Times: 1
+	Query: "USNM 105859.5324392" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.551811369170466,-121.9482421875))<4978.806149131478" ; Times: 1
+	Query: "Cabinda" ; Times: 2
+	Query: "USNM 272078.5152177" ; Times: 1
+	Query: "Royal Ontario Museum ROM Fishes" ; Times: 1
+	Query: "Brycon dentex" ; Times: 1
+	Query: "USNM 259481.5117932" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Poeciliopsis" ; Times: 1
+	Query: "Pseudocurimata boulengeri" ; Times: 2
+	Query: "Astroblepus eigenmanni" ; Times: 1
+	Query: "Synbranchidae" ; Times: 9
+	Query: "USNM 186515.5166388" ; Times: 1
+	Query: "stateprovince:"Cabinda"" ; Times: 2
+	Query: "sand cat" ; Times: 1
+	Query: "Pimelodella elongata" ; Times: 1
+	Query: "Paracetopsis bleekeri" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Priapichthys" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Gephyrocharax" ; Times: 1
+	Query: "USNM 3246.5137713" ; Times: 2
+	Query: "USNM 176.5000129" ; Times: 1
+	Query: "USNM 30903.5004921" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1800 year <= 1925" ; Times: 2
+	Query: "USNM 20481.5002692" ; Times: 2
+	Query: "USNM 64160.5018303" ; Times: 1
+	Query: "azureus" ; Times: 1
+	Query: "Serranus atrobranchus" ; Times: 1
+	Query: "Mustelus" ; Times: 2
+	Query: "USNM 186501.5166362" ; Times: 1
+	Query: "astroblepus" ; Times: 4
+	Query: "USNM 39449.5326601" ; Times: 1
+	Query: "USNM 26965" ; Times: 2
+	Query: "USNM 326.5135903" ; Times: 1
+	Query: "USNM 38117.5007615" ; Times: 1
+	Query: "USNM 27428.5003976" ; Times: 1
+	Query: "aphia type:specimen" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Neoheterandria" ; Times: 1
+	Query: "Panthera" ; Times: 3
+	Query: "lower jaws type:specimen mappable:1" ; Times: 1
+	Query: "paraliparis cephalus" ; Times: 1
+	Query: "MSUM" ; Times: 1
+	Query: "Lipopterichthys carrioni" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Poecilia" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.17431693701001,-119.5535659790039))<6758" ; Times: 1
+	Query: "country:"Panama" genus:Astyanax" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Oxyzygonectes" ; Times: 1
+	Query: "Saccodon wagneri" ; Times: 1
+	Query: "USNM 186500.5166367" ; Times: 1
+	Query: "USNM 264787.5123226" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.6693585452454,-122.05810546875))<9436.132961545198" ; Times: 1
+	Query: "Amazona and country: brazil" ; Times: 1
+	Query: "USNM 8683.5001399" ; Times: 1
+	Query: "USNM 10562.5001647" ; Times: 1
+	Query: "USNM 4484.5000947" ; Times: 1
+	Query: "Pseudocurimata boehlkei" ; Times: 2
+	Query: "PECTORALIS type:specimen AND (NOT AVES NOT PEROMYSCUS)" ; Times: 1
+	Query: "Cichlasoma ornatum" ; Times: 1
+	Query: "USNM 186499.5166371" ; Times: 2
+	Query: "Pseudopoecilia fria" ; Times: 1
+	Query: "Myoxocephalus thompsonii" ; Times: 4
+	Query: "henni" ; Times: 1
+	Query: "crystallaria asprella" ; Times: 1
+	Query: "Macrotrema" ; Times: 2
+	Query: "aphia" ; Times: 1
+	Query: "Satan eurystomus" ; Times: 2
+	Query: "Poecilia sphenops" ; Times: 3
+	Query: "country:"libya"" ; Times: 1
+	Query: "USNM 237807.5096314" ; Times: 1
+	Query: "salvelinus namaycush stateprovince:"new york" year >= 1800 year <= 1925" ; Times: 1
+	Query: "salvelinus namaycush year >= 1800 year <= 1925" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(32.10118973232094,-121.201171875))<10905" ; Times: 1
+	Query: "USNM Satan" ; Times: 3
+	Query: "tapirus" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.6693585452454,-122.05810546875))<2395" ; Times: 1
+	Query: "pattern distribution" ; Times: 1
+	Query: "USNM 291516.5170369" ; Times: 1
+	Query: "USNM 15527.5001957" ; Times: 1
+	Query: "Mus tenellus" ; Times: 1
+	Query: "USNM 286823.5166349" ; Times: 1
+	Query: "Stylephorus" ; Times: 2
+	Query: "blue whale" ; Times: 2
+	Query: "caligans" ; Times: 1
+	Query: "USNM 186496.5166366" ; Times: 1
+	Query: "Physiculus rastrelliger" ; Times: 1
+	Query: "Pimelodella modesta" ; Times: 1
+	Query: "USNM 29663.5004643" ; Times: 1
+	Query: "USNM 186497.5166368" ; Times: 2
+	Query: "USNM 230.5000179" ; Times: 1
+	Query: "USNM 3589.5000863" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1679 download events in this period)
+Total number of records downloaded: 119 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 119
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-16 ; Times: 2
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zacatecas" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "Satan eurystomus" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+	Query: "monrovia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 578
+Total number of records retrieved from searches: 8023
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 12578
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 578
+Total number of records retrieved from searches: 8023
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 12578
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
