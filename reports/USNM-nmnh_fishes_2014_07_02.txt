@@ -1,0 +1,121 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 1146
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 2
+	Date: 2014-06-02 ; Times: 7
+	Date: 2014-06-03 ; Times: 9
+	Date: 2014-06-05 ; Times: 4
+	Date: 2014-06-08 ; Times: 1
+	Date: 2014-06-10 ; Times: 3
+	Date: 2014-06-11 ; Times: 5
+	Date: 2014-06-13 ; Times: 5
+	Date: 2014-06-14 ; Times: 3
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-20 ; Times: 1
+	Date: 2014-06-21 ; Times: 5
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-24 ; Times: 2
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-26 ; Times: 1
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-29 ; Times: 1
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "w56-118" ; Times: 1
+	Query: "type:specimen country:"guam"" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "larue" ; Times: 1
+	Query: "tokelau" ; Times: 1
+	Query: "astroblepus" ; Times: 3
+	Query: "Labeo" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:limi genus:umbra" ; Times: 2
+	Query: "Odontesthes regia" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "zebrasoma rostratum" ; Times: 2
+	Query: "distance(location,geopoint(32.10118973232094,-72.24609375))<100000" ; Times: 1
+	Query: "Labridae" ; Times: 1
+	Query: "zebrasoma" ; Times: 1
+	Query: "stegastes" ; Times: 1
+	Query: "reptiles in Congo basin" ; Times: 1
+	Query: "hyena type:specimen" ; Times: 1
+	Query: "country:"cameroon" genus:parauchenoglanis" ; Times: 1
+	Query: "Liparis adiastolus" ; Times: 1
+	Query: "Paraliparis cephalus" ; Times: 1
+	Query: "cottus asper year >= 1985 year <= 2014" ; Times: 1
+	Query: "distance(location,geopoint(35.746512259918504,-69.873046875))<100000" ; Times: 1
+	Query: "USNM Fishes 20481" ; Times: 1
+	Query: "lampris guttatus" ; Times: 4
+	Query: "Oneirodes acanthias" ; Times: 2
+	Query: "stateprovince:"New York" specificepithet:masquinongy genus:esox" ; Times: 2
+	Query: "type:specimen country:"samoa" AND (NOT "american samoa")" ; Times: 1
+	Query: "amnh pine" ; Times: 1
+	Query: "agonostomus" ; Times: 5
+	Query: "Commander Islands" ; Times: 1
+	Query: "institutioncode:NMNH (Bison bison)" ; Times: 1
+	Query: "USNM Fishes 8829" ; Times: 1
+	Query: "Bison bison institutioncode:NMNH" ; Times: 1
+	Query: "USNM Fishes 239608" ; Times: 1
+	Query: "Paraliparis albescens" ; Times: 3
+	Query: "oneirodes acanthias" ; Times: 2
+	Query: "type:specimen country:"french polynesia"" ; Times: 1
+	Query: "Epibulus" ; Times: 1
+	Query: "lampris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 278 download events in this period)
+Total number of records downloaded: 983 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 737
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-08 ; Times: 1
+	Date: 2014-06-10 ; Times: 1
+	Date: 2014-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "test" ; Times: 1
+	Query: "astroblepus" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "cottus asper" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 633
+Total number of records retrieved from searches: 9169
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 13561
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 633
+Total number of records retrieved from searches: 9169
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 13561
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
