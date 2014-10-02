@@ -1,0 +1,130 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 1497
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Germany ; Times: 7
+	Country: Romania ; Times: 1
+	Country: Russia ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 4
+	Date: 2014-09-03 ; Times: 6
+	Date: 2014-09-04 ; Times: 19
+	Date: 2014-09-05 ; Times: 5
+	Date: 2014-09-06 ; Times: 1
+	Date: 2014-09-07 ; Times: 4
+	Date: 2014-09-08 ; Times: 6
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-11 ; Times: 8
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 10
+	Date: 2014-09-16 ; Times: 6
+	Date: 2014-09-17 ; Times: 23
+	Date: 2014-09-19 ; Times: 1
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-22 ; Times: 2
+	Date: 2014-09-23 ; Times: 2
+	Date: 2014-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pimelodella yuncensis" ; Times: 6
+	Query: "Greenfield (marshall)" ; Times: 2
+	Query: "PLECOSTOMUS" ; Times: 1
+	Query: "Astyanax ruberrimus" ; Times: 3
+	Query: "usnm acentrogobius" ; Times: 4
+	Query: "Hypsoblennius maculipinna" ; Times: 3
+	Query: "usnm lepadichthys" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: "usnm lepadichthys erythraeus" ; Times: 1
+	Query: "231042" ; Times: 1
+	Query: "223937" ; Times: 1
+	Query: "feather plumas" ; Times: 2
+	Query: "wetmorella tanakai" ; Times: 2
+	Query: "Chaetostoma microps" ; Times: 5
+	Query: "oradea" ; Times: 1
+	Query: "anchovia macrolepidota" ; Times: 1
+	Query: "recordedby:d. t. wright" ; Times: 1
+	Query: "Astroblepus rosei" ; Times: 4
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "mystacina" ; Times: 1
+	Query: "223631" ; Times: 1
+	Query: "Ecuador Astyanax ruberrimus" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "otocinclus" ; Times: 1
+	Query: "wetmorella" ; Times: 1
+	Query: "labialis" ; Times: 2
+	Query: "Brachyhypopomus" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: "1933 marshall" ; Times: 1
+	Query: ""b marshall"" ; Times: 1
+	Query: "laguna de santa rosa" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "crocodile" ; Times: 1
+	Query: "hydrolagus mirabilis" ; Times: 2
+	Query: "233102" ; Times: 1
+	Query: "loricariidae uruguay" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "Crocodile" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "heterodon indiana" ; Times: 3
+	Query: "urophycis cirrata" ; Times: 27
+	Query: "tuatara" ; Times: 1
+	Query: "alopias pelagicus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 164 download events in this period)
+Total number of records downloaded: 243 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 135
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-12 ; Times: 1
+	Date: 2014-09-15 ; Times: 1
+	Date: 2014-09-17 ; Times: 4
+	Date: 2014-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "urophycis cirrata" ; Times: 4
+	Query: "sorex" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Brachyhypopomus" ; Times: 1
+	Query: "Chaetostoma microps" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 929
+Total number of records retrieved from searches: 13518
+Number of download events that retrieved data from the resource: 87
+Total number of records downloaded: 74181
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 929
+Total number of records retrieved from searches: 13518
+Number of download events that retrieved data from the resource: 87
+Total number of records downloaded: 74181
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
