@@ -1,0 +1,212 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1329
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Latvia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 89
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 1
+	Date: 2015-01-02 ; Times: 2
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 10
+	Date: 2015-01-06 ; Times: 5
+	Date: 2015-01-07 ; Times: 6
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 9
+	Date: 2015-01-11 ; Times: 2
+	Date: 2015-01-12 ; Times: 3
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 5
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 9
+	Date: 2015-01-20 ; Times: 3
+	Date: 2015-01-21 ; Times: 4
+	Date: 2015-01-22 ; Times: 14
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 6
+	Date: 2015-01-27 ; Times: 5
+	Date: 2015-01-28 ; Times: 10
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 12
+	Date: 2015-01-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Craig creek nc" ; Times: 1
+	Query: "169295 institutioncode:usnm" ; Times: 1
+	Query: "specificepithet:macropogon genus:Ventrifossa" ; Times: 2
+	Query: "royal ontario museum media:1" ; Times: 1
+	Query: "Kur Indonesia" ; Times: 2
+	Query: "usnm acentrogobius" ; Times: 1
+	Query: "Vipera l" ; Times: 1
+	Query: "Chinese Harbor" ; Times: 1
+	Query: "crossocheilus" ; Times: 2
+	Query: "usnm 142403" ; Times: 1
+	Query: "usnm 142402" ; Times: 2
+	Query: "Evermannella balbo" ; Times: 1
+	Query: "natural history museum of los angeles rhinichthys" ; Times: 2
+	Query: "22-Nov-1963" ; Times: 1
+	Query: "Tolugak Lake stateprovince:"Alaska" year >= 1949 year <= 1949" ; Times: 1
+	Query: "Stegastes acapulcoensis" ; Times: 1
+	Query: "natural history museum of los angeles genus:gila" ; Times: 3
+	Query: "263604" ; Times: 1
+	Query: "Wilson Caldwell County" ; Times: 1
+	Query: "nocomis biguttatus" ; Times: 1
+	Query: "294298" ; Times: 1
+	Query: "USNM 131585" ; Times: 2
+	Query: "virginia possum" ; Times: 2
+	Query: "Wilson Creek type:specimen county:"Caldwell" stateprovince:"North Carolina" year <= 2014" ; Times: 2
+	Query: "south fork catawba river nc" ; Times: 1
+	Query: "hyphessobrycon loretoensis" ; Times: 2
+	Query: "USNM 69226" ; Times: 1
+	Query: "specificepithet:pacificum genus:Diplectrum" ; Times: 2
+	Query: "country:"Mexico" specificepithet:aurata" ; Times: 1
+	Query: "Juchipila Zacatecas" ; Times: 1
+	Query: "distance(location,geopoint(-7.01366792756663,-85.693359375))<100000" ; Times: 1
+	Query: "Hiodon alosoides" ; Times: 1
+	Query: "USNM 232403" ; Times: 1
+	Query: "mystacina" ; Times: 1
+	Query: "Lou Island" ; Times: 1
+	Query: "Schindleria praematura" ; Times: 3
+	Query: "Amblygobius bynoensis usnm" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii" ; Times: 4
+	Query: "USNM 169295" ; Times: 5
+	Query: "Anguilla rostrata mexico" ; Times: 2
+	Query: "Page looks" ; Times: 1
+	Query: "distance(location,geopoint(-2.67968661580376,-88.79150390625))<100000" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "249985" ; Times: 1
+	Query: "SMNS Bleeker" ; Times: 1
+	Query: "specificepithet:clarkii genus:Oncorhynchus" ; Times: 1
+	Query: "county:"White" stateprovince:"Tennessee"" ; Times: 1
+	Query: "335390" ; Times: 1
+	Query: "mare island county:"solano" stateprovince:"California"" ; Times: 1
+	Query: "LORO" ; Times: 1
+	Query: "paedocypris" ; Times: 2
+	Query: "alvarezi" ; Times: 1
+	Query: "269305" ; Times: 1
+	Query: "cussewago creek" ; Times: 2
+	Query: "nocomis biguttatus pennsylvania" ; Times: 1
+	Query: "USNM 336098" ; Times: 1
+	Query: "county:"garfield" stateprovince:"nebraska"" ; Times: 1
+	Query: "parrots" ; Times: 1
+	Query: "salvelinus fontinalis" ; Times: 3
+	Query: "natural history museum of los angeles genus:hesperoleucus" ; Times: 2
+	Query: "Evans stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "ophidion marginatum" ; Times: 1
+	Query: "county:"Grayson" stateprovince:"Virginia" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "county:"sioux" stateprovince:"North dakota"" ; Times: 2
+	Query: "type:specimen (medusa)" ; Times: 1
+	Query: "valenciennea parva USNM" ; Times: 1
+	Query: "Priocharax pygmaeus" ; Times: 1
+	Query: "country:"France" genus:Lampetra" ; Times: 1
+	Query: "Poeciliopsis retropinna" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Actinopterygii" ; Times: 1
+	Query: "Amazonsprattus scintilla" ; Times: 1
+	Query: "wilson creek caldwell county" ; Times: 1
+	Query: "natural history museum of los angeles catostomus" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "natural history museum of los angeles gasterosteus" ; Times: 2
+	Query: "helcogramma fuscopinna" ; Times: 1
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "coryogalops usnm" ; Times: 5
+	Query: "usnm 49964" ; Times: 1
+	Query: "specificepithet:alosoides genus:Hiodon mappable:1" ; Times: 3
+	Query: "aru island" ; Times: 1
+	Query: "169295 institutioncode:USNM" ; Times: 2
+	Query: "wilson caldwell county" ; Times: 2
+	Query: "peckoltia" ; Times: 1
+	Query: "USNM 59489" ; Times: 2
+	Query: "Grasseichthys gabonensis" ; Times: 1
+	Query: "Anchoviella manamensis" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Poa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 445 download events in this period)
+Total number of records downloaded: 433 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 432
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-24 ; Times: 2
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gobiidae tissue:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Andaman Aves" ; Times: 1
+	Query: "chamela" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Indonesia (Kai OR Kei) AND (NOT Aves NOT Mammalia)" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: "Nicobar Aves" ; Times: 1
+	Query: "jalpa zacatecas" ; Times: 1
+	Query: "county:"Rosebud" stateprovince:"Montana"" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "Cuatro Cienegas" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1109
+Total number of records retrieved from searches: 15437
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 433
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1237
+Total number of records retrieved from searches: 16766
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 89137
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
