@@ -1,0 +1,144 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 670
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Hungary ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 4
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 4
+	Date: 2015-02-19 ; Times: 4
+	Date: 2015-02-20 ; Times: 7
+	Date: 2015-02-22 ; Times: 4
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Normandia" ; Times: 1
+	Query: "rabbits" ; Times: 1
+	Query: "Lako" ; Times: 3
+	Query: "JURUA type:specimen" ; Times: 1
+	Query: "danube river" ; Times: 1
+	Query: "tk 4723" ; Times: 1
+	Query: "mystax" ; Times: 1
+	Query: "usnm acentrogobius" ; Times: 2
+	Query: "USNM 8410" ; Times: 1
+	Query: "Etheostoma sitikuense" ; Times: 1
+	Query: "Ateleopus" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "Diaphus lucidus" ; Times: 1
+	Query: "lako" ; Times: 2
+	Query: "Anguilla rostrata mexico" ; Times: 3
+	Query: "USNM 293489" ; Times: 1
+	Query: "brook trout natural history museum" ; Times: 1
+	Query: "ateleopodidae" ; Times: 1
+	Query: "amblygobius bynoensis" ; Times: 1
+	Query: "ateleopus" ; Times: 1
+	Query: "usnm 49965" ; Times: 2
+	Query: "lepidosiren" ; Times: 1
+	Query: "USNM 214154" ; Times: 1
+	Query: "la manzanilla" ; Times: 1
+	Query: "Rivulus iridescens" ; Times: 1
+	Query: "mertoni" ; Times: 1
+	Query: "andrei" ; Times: 4
+	Query: "Truando" ; Times: 1
+	Query: "nannostomus" ; Times: 3
+	Query: "heterodon wisconsin" ; Times: 1
+	Query: "Gorgona Island" ; Times: 1
+	Query: ""Truando" colombia" ; Times: 1
+	Query: "Amphiprion" ; Times: 1
+	Query: "328138 institutioncode:USNM" ; Times: 1
+	Query: "Rio Tocantins type:specimen" ; Times: 1
+	Query: "muhlenberg county kentucky" ; Times: 2
+	Query: "279581" ; Times: 1
+	Query: "aquia creek" ; Times: 4
+	Query: "USNM 216850" ; Times: 1
+	Query: "Chanchamayo Peru" ; Times: 1
+	Query: "238793" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "rausch stateprovince:"alaska" year >= 1949 year <= 1949" ; Times: 1
+	Query: "amblygobius bynoensis usnm" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 326 download events in this period)
+Total number of records downloaded: 8988 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8967
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1170
+Total number of records retrieved from searches: 16107
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 9421
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1298
+Total number of records retrieved from searches: 17436
+Number of download events that retrieved data from the resource: 141
+Total number of records downloaded: 98125
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
