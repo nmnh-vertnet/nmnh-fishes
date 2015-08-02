@@ -1,0 +1,522 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 549
+Number of records retrieved in searches: 4044
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 4
+	Country: France ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Hungary ; Times: 2
+	Country: India ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 391
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 127
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 13
+	Date: 2015-07-02 ; Times: 20
+	Date: 2015-07-03 ; Times: 13
+	Date: 2015-07-05 ; Times: 4
+	Date: 2015-07-06 ; Times: 25
+	Date: 2015-07-07 ; Times: 44
+	Date: 2015-07-08 ; Times: 73
+	Date: 2015-07-09 ; Times: 47
+	Date: 2015-07-10 ; Times: 10
+	Date: 2015-07-11 ; Times: 5
+	Date: 2015-07-13 ; Times: 15
+	Date: 2015-07-14 ; Times: 29
+	Date: 2015-07-15 ; Times: 14
+	Date: 2015-07-16 ; Times: 6
+	Date: 2015-07-17 ; Times: 16
+	Date: 2015-07-18 ; Times: 22
+	Date: 2015-07-19 ; Times: 32
+	Date: 2015-07-20 ; Times: 22
+	Date: 2015-07-21 ; Times: 13
+	Date: 2015-07-22 ; Times: 35
+	Date: 2015-07-23 ; Times: 26
+	Date: 2015-07-24 ; Times: 19
+	Date: 2015-07-25 ; Times: 6
+	Date: 2015-07-26 ; Times: 4
+	Date: 2015-07-27 ; Times: 8
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 10
+	Date: 2015-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "plectorhinchus schotaf saudi arabia" ; Times: 1
+	Query: "coryphaena oman" ; Times: 1
+	Query: "hirculops" ; Times: 1
+	Query: "genus:Tiaroga" ; Times: 2
+	Query: "omobranchus punctatus arabian gulf" ; Times: 2
+	Query: "chaetodon jayakari" ; Times: 1
+	Query: "usnm acentrogobius" ; Times: 12
+	Query: "95741" ; Times: 1
+	Query: "amblyeleotris triguttata" ; Times: 2
+	Query: "Silao" ; Times: 1
+	Query: "ulua mentalis gulf" ; Times: 2
+	Query: "plagiotremus oman" ; Times: 3
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "chirocentrus nudus arabian" ; Times: 1
+	Query: "elagatis gulf" ; Times: 1
+	Query: "strongylura pakistan" ; Times: 1
+	Query: "stigmatura" ; Times: 1
+	Query: "sardinella persian gulf" ; Times: 1
+	Query: "carangoides praeustus" ; Times: 1
+	Query: "thalassoma oman" ; Times: 1
+	Query: "congromuraena oman" ; Times: 1
+	Query: "269820" ; Times: 1
+	Query: "tardoore" ; Times: 1
+	Query: "anodontostoma chacunda gulf" ; Times: 1
+	Query: "258734" ; Times: 1
+	Query: "chaetodon austriacus gulf" ; Times: 1
+	Query: "williamsi media:1" ; Times: 2
+	Query: "coris oman" ; Times: 2
+	Query: "pseudorhombus oman" ; Times: 1
+	Query: "Congridae oman" ; Times: 2
+	Query: "usnm 385958" ; Times: 1
+	Query: "recordedby:G. F. year <= 1900" ; Times: 2
+	Query: "naucrates gulf" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "platax persian gulf" ; Times: 1
+	Query: "chascanopsetta gulf" ; Times: 2
+	Query: "Ward type:specimen institutioncode:USNM" ; Times: 1
+	Query: "antennablennius bifilum" ; Times: 1
+	Query: "USNM 136964" ; Times: 2
+	Query: "thryssa setirostris" ; Times: 5
+	Query: "191043" ; Times: 1
+	Query: "wetmorella red sea" ; Times: 1
+	Query: "269860" ; Times: 1
+	Query: "gobiesox schultzi" ; Times: 1
+	Query: "drepane oman" ; Times: 1
+	Query: "Periophthalmus oman" ; Times: 1
+	Query: "millward" ; Times: 1
+	Query: "amblyeleotris sungami" ; Times: 1
+	Query: "jaydia smithi oman" ; Times: 2
+	Query: "50293" ; Times: 1
+	Query: "omobranchus oman" ; Times: 3
+	Query: "Atractosteus florida" ; Times: 1
+	Query: "bothidae oman" ; Times: 7
+	Query: "Hinsdale Colorado" ; Times: 1
+	Query: "Opisthopterus tardoore gulf" ; Times: 1
+	Query: "Centriscus oman" ; Times: 1
+	Query: "Antietam stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "gobiidae oman" ; Times: 1
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "cynoglossus kopsii" ; Times: 1
+	Query: "bathygobius oman]" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 4
+	Query: "coryogalops tessellatus" ; Times: 2
+	Query: "holapogon" ; Times: 1
+	Query: "diodon liturosus" ; Times: 2
+	Query: "cynoglossus arel" ; Times: 1
+	Query: "parablennius opercularis" ; Times: 1
+	Query: "Isla Colon" ; Times: 1
+	Query: "Boleophthalmus dussumieri" ; Times: 1
+	Query: "cynoglossus dispar" ; Times: 1
+	Query: "usnm 391790" ; Times: 2
+	Query: "sawda island" ; Times: 2
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "usnm 334237" ; Times: 1
+	Query: "usnm 334236" ; Times: 1
+	Query: "pomadasys aheneus" ; Times: 2
+	Query: "erythrocles schlegelii" ; Times: 2
+	Query: "istigobius arabian gulf" ; Times: 1
+	Query: "cynoglossus arabian gulf" ; Times: 2
+	Query: "dactyloptena gilberti" ; Times: 1
+	Query: "plectorhinchus gibbosus arabian gulf" ; Times: 1
+	Query: "155329" ; Times: 1
+	Query: "Periophthalmus kuwait" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "atule gulf" ; Times: 1
+	Query: "soleidae oman" ; Times: 1
+	Query: "Gnathanodon gulf" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "caranx sexfasciatus gulf" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "selaroides gulf" ; Times: 1
+	Query: "encrasicholina saudi arabia" ; Times: 1
+	Query: "carangoides armatus gulf" ; Times: 1
+	Query: "Centriscus gulf" ; Times: 1
+	Query: "antennablennius adenensis" ; Times: 2
+	Query: "conger cinereus saudi arabia" ; Times: 1
+	Query: "rio moa" ; Times: 2
+	Query: "cryptocentrus strigilliceps" ; Times: 2
+	Query: "UMMZ 121532" ; Times: 1
+	Query: "alepes melanoptera" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "alepes kleinii" ; Times: 1
+	Query: "antennablennius australis" ; Times: 1
+	Query: "ecsenius oman" ; Times: 4
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "batrachoididae oman" ; Times: 1
+	Query: "istiblennius pox oman" ; Times: 1
+	Query: "fusigobius neophytus saudi arabia" ; Times: 1
+	Query: "xiphasia gulf" ; Times: 1
+	Query: "istiblennius spilotus oman" ; Times: 1
+	Query: "phtheirichthys gulf" ; Times: 1
+	Query: "champsodon oman" ; Times: 1
+	Query: "snake utah" ; Times: 1
+	Query: "arcygobius" ; Times: 1
+	Query: "parablennius thysanius" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "acanthocepola indica" ; Times: 1
+	Query: "lipocheilus" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "Ostichthys oman" ; Times: 5
+	Query: "thryssa vitrirostris" ; Times: 1
+	Query: "chilomycterus reticulatus somalia]" ; Times: 1
+	Query: "parapercis oman" ; Times: 1
+	Query: "antennablennius hypenetes" ; Times: 1
+	Query: "Asterorhombus gulf" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "269856" ; Times: 1
+	Query: "269857" ; Times: 1
+	Query: "encrasicholina devisi" ; Times: 2
+	Query: "uranoscopus oman" ; Times: 6
+	Query: "netuma oman" ; Times: 2
+	Query: "omobranchus mekranensis" ; Times: 2
+	Query: "plagiotremus" ; Times: 2
+	Query: "apogon gularis" ; Times: 3
+	Query: "Emmelichthyidae arabian gulf" ; Times: 1
+	Query: "chilomycterus reticulatus" ; Times: 1
+	Query: "centriscus scutatus" ; Times: 1
+	Query: "Dracaena" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "enigmaticus" ; Times: 1
+	Query: "amblygobius nocturnus gulf" ; Times: 1
+	Query: "apogon omanensis" ; Times: 2
+	Query: "blenniella oman" ; Times: 4
+	Query: "ariidae oman" ; Times: 2
+	Query: "pomadasys maculatus oman" ; Times: 1
+	Query: "naucrates oman" ; Times: 1
+	Query: "callionymidae oman" ; Times: 1
+	Query: "serranidae oman" ; Times: 1
+	Query: "chaetodon auriga gulf" ; Times: 1
+	Query: "usnm 355423" ; Times: 2
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "russelii" ; Times: 1
+	Query: "congridae oman" ; Times: 5
+	Query: "myxodagnus opercularis" ; Times: 1
+	Query: "decapterus macarellus gulf" ; Times: 1
+	Query: "antennablennius" ; Times: 1
+	Query: "pomadasys stridens oman" ; Times: 1
+	Query: "zsm" ; Times: 1
+	Query: "pellona ditchela" ; Times: 3
+	Query: "dactyloptena cas" ; Times: 1
+	Query: "paragobiodon red sea" ; Times: 1
+	Query: "acentrogobius dayi" ; Times: 1
+	Query: "nematalosa arabian" ; Times: 1
+	Query: "dinoperca petersi" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:buchanani genus:Notropis" ; Times: 2
+	Query: "228897" ; Times: 1
+	Query: "chascanopsetta" ; Times: 1
+	Query: "sardinella sindensis" ; Times: 1
+	Query: "blenniidae oman" ; Times: 2
+	Query: "cheilopogon abei" ; Times: 2
+	Query: "155432" ; Times: 1
+	Query: "ilisha melastoma arabian" ; Times: 1
+	Query: "seriola gulf" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<41669" ; Times: 1
+	Query: "USNM 151506" ; Times: 1
+	Query: "psenopsis cyanea" ; Times: 2
+	Query: "Hyporhamphus sindensis" ; Times: 1
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "Cirrhilabrus rubriventralis" ; Times: 1
+	Query: "cynoglossus dubius" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "paraclinus altivelis" ; Times: 1
+	Query: "Scartelaos tenuis" ; Times: 1
+	Query: "usnm 90594" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+	Query: "chirocentrus gulf" ; Times: 1
+	Query: "omobranchus punctatus pakistan" ; Times: 1
+	Query: "scolecenchelys gymnota red sea" ; Times: 1
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "lepidamia oman" ; Times: 1
+	Query: "microgobius emblematicus" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "halichoeres oman" ; Times: 1
+	Query: "14470" ; Times: 2
+	Query: "dactylopteridae cas" ; Times: 1
+	Query: "eviota oman" ; Times: 2
+	Query: "ariidae arabian gulf" ; Times: 1
+	Query: "carangoides equula" ; Times: 2
+	Query: "dactyloptena gulf" ; Times: 2
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "jaydia oman" ; Times: 4
+	Query: "conger oman" ; Times: 1
+	Query: "hill 2 country:"mexico"" ; Times: 1
+	Query: "222738" ; Times: 1
+	Query: "scolecenchelys red sea" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "fistularia arabian gulf" ; Times: 1
+	Query: "notropis heterodon pennsylvania" ; Times: 1
+	Query: "210612" ; Times: 2
+	Query: "cynoglossus red sea" ; Times: 1
+	Query: "alepes vari" ; Times: 1
+	Query: "xenomystax trucidans" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "archamia oman" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "zsm type:specimen" ; Times: 3
+	Query: "amblygobius bahrain" ; Times: 1
+	Query: "ephippidae oman" ; Times: 1
+	Query: "lophodiodon" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 1
+	Query: "arnoglossus arabicus" ; Times: 1
+	Query: "Boleophthalmus" ; Times: 1
+	Query: "petroscirtes ancylodon" ; Times: 1
+	Query: "395820 institutioncode:USNM" ; Times: 2
+	Query: "USNM 102550" ; Times: 1
+	Query: "USNM 102553" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "cynoglossus gulf" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "trachurus indicus" ; Times: 2
+	Query: "usnm 355923" ; Times: 2
+	Query: "apogon truncatus" ; Times: 1
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "arius maculatus" ; Times: 1
+	Query: "stateprovince:"zanzibar" country:"tanzania" year >= 1950 year <= 1970" ; Times: 1
+	Query: "Xenisthmus red sea" ; Times: 1
+	Query: "congridae usnm oman" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "citharichthys xanthostigma" ; Times: 1
+	Query: "pomadasys olivaceus oman" ; Times: 1
+	Query: "xenisthmus red sea" ; Times: 1
+	Query: "cyclichthys orbicularis gulf" ; Times: 1
+	Query: "strongylura saudi arabia" ; Times: 1
+	Query: "palutrus oman" ; Times: 3
+	Query: "Scoloplax" ; Times: 1
+	Query: "carangoides gymnostethus gulf" ; Times: 1
+	Query: "canis stateprovince:"Alabama" country:"United States"" ; Times: 1
+	Query: "conger cinereus gulf" ; Times: 1
+	Query: "usnm 375999" ; Times: 1
+	Query: "Callionymus margaretae" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 2
+	Query: "callogobius oman" ; Times: 1
+	Query: "Periophthalmus saudi arabia" ; Times: 1
+	Query: "queketti" ; Times: 1
+	Query: "chilomycterus reticulatus somalia" ; Times: 1
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "apogonidae oman" ; Times: 5
+	Query: "Moxostoma hubbsi" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "alectis gulf" ; Times: 1
+	Query: "pereulixia" ; Times: 2
+	Query: "gobiidae red sea" ; Times: 2
+	Query: "stateprovince:"new york" specificepithet:margarita year >= 1850 year <= 2014" ; Times: 1
+	Query: "odonus niger" ; Times: 1
+	Query: "canthigaster papua" ; Times: 2
+	Query: "cheilodipterus persicus" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "gymnocaesio" ; Times: 1
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 2
+	Query: "USNM 364972" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "abalistes arabian gulf" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "chepo rd country:"panama"" ; Times: 1
+	Query: "ephippus oman" ; Times: 1
+	Query: "petroscirtes mitratus gulf" ; Times: 1
+	Query: "cynoglossus puncticeps gulf" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "engraulidae saudi arabia" ; Times: 1
+	Query: "darien country:"colombia"" ; Times: 2
+	Query: "aulopareia" ; Times: 1
+	Query: "scartella emarginata" ; Times: 1
+	Query: "echeneidae arabian gulf" ; Times: 1
+	Query: "platax bahrain" ; Times: 1
+	Query: "cynoglossus lachneri" ; Times: 1
+	Query: "echeneidae oman" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "bathymyrus" ; Times: 1
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "naucrates ductor gulf" ; Times: 1
+	Query: "drepane punctata" ; Times: 1
+	Query: "istiblennius oman" ; Times: 1
+	Query: "Ward institutioncode:USNM" ; Times: 1
+	Query: "178475" ; Times: 1
+	Query: "platax arabian gulf" ; Times: 1
+	Query: "callionymus oman" ; Times: 1
+	Query: "alticus oman" ; Times: 1
+	Query: "chirocentrus dorab arabian" ; Times: 1
+	Query: "parastromateus gulf" ; Times: 1
+	Query: "chaetodon nigropunctatus" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "Opisthopterus gulf" ; Times: 2
+	Query: "remorina somalia" ; Times: 1
+	Query: "trichopus" ; Times: 2
+	Query: "escualosa thoracata" ; Times: 2
+	Query: "fistularia bahrain" ; Times: 1
+	Query: "167529" ; Times: 1
+	Query: "strongylura arabian sea" ; Times: 1
+	Query: "bathygobius oman" ; Times: 3
+	Query: "73644" ; Times: 1
+	Query: "escualosa thoracata arabian" ; Times: 1
+	Query: "escualosa thoracata pakistan" ; Times: 1
+	Query: "Callionymus erythraeus" ; Times: 1
+	Query: "echeneidae persian gulf" ; Times: 1
+	Query: "arnoglossus macrolophus" ; Times: 1
+	Query: "carapidae gulf" ; Times: 2
+	Query: "dipterygonotus gulf" ; Times: 1
+	Query: "alepes gulf" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Callionymus oman" ; Times: 4
+	Query: "muraenichthys red sea" ; Times: 1
+	Query: "omobranchus punctatus arabian" ; Times: 1
+	Query: "Callionymus filamentosus gulf" ; Times: 1
+	Query: "Regalecus" ; Times: 9
+	Query: "pentaprion longimanus" ; Times: 1
+	Query: "cynoglossus arel oman" ; Times: 1
+	Query: "262148" ; Times: 1
+	Query: "ophiocara gulf" ; Times: 1
+	Query: "antennablennius simonyi" ; Times: 4
+	Query: "Regalecus florida" ; Times: 4
+	Query: "Tripterygiidae oman" ; Times: 1
+	Query: "caranx melampygus gulf" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "ephippidae bahrain" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "ophichthidae red sea" ; Times: 1
+	Query: "Hyporhamphus unicuspis" ; Times: 1
+	Query: "cynoglossus acutirostris" ; Times: 2
+	Query: "Colletteichthys" ; Times: 1
+	Query: "cryptocentroides arabicus" ; Times: 1
+	Query: "syngnathidae oman" ; Times: 1
+	Query: "Coregonus nipigon" ; Times: 1
+	Query: "engraulidae persian gulf" ; Times: 1
+	Query: "encrasicholina heteroloba" ; Times: 1
+	Query: "cynoglossus oman" ; Times: 3
+	Query: "62176" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "encrasicholina gulf" ; Times: 2
+	Query: "Mexico specificepithet:Olivaris genus:pylodictis" ; Times: 1
+	Query: "Regalecus mexico" ; Times: 6
+	Query: "engyprosopon gulf" ; Times: 1
+	Query: "fistularia oman" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "diodontidae oman" ; Times: 2
+	Query: "arius tenuispinis" ; Times: 1
+	Query: "eviota pardalota" ; Times: 1
+	Query: "antennablennius variopunctatus" ; Times: 1
+	Query: "hetereleotris zonata" ; Times: 1
+	Query: "country:"Virginia"" ; Times: 2
+	Query: "atropus" ; Times: 1
+	Query: "nematalosa gulf" ; Times: 1
+	Query: "capoeta" ; Times: 5
+	Query: "usnm 305600" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "centriscus scutatus oman" ; Times: 1
+	Query: "bathygobius meggitti" ; Times: 1
+	Query: "ilisha gulf" ; Times: 1
+	Query: "(albatross) media:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1084 download events in this period)
+Total number of records downloaded: 24346 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 22373
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Pakistan ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Regalecus" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Moxostoma hubbsi" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "LACM Pakistan" ; Times: 2
+	Query: "regalecus" ; Times: 1
+	Query: "Brazil Parana Curitiba" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2288
+Total number of records retrieved from searches: 25734
+Number of download events that retrieved data from the resource: 130
+Total number of records downloaded: 57390
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2416
+Total number of records retrieved from searches: 27063
+Number of download events that retrieved data from the resource: 248
+Total number of records downloaded: 146094
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
