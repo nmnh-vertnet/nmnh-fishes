@@ -1,0 +1,221 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1091
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 31
+	Country: France ; Times: 2
+	Country: United States ; Times: 102
+	Country: Germany ; Times: 8
+	Country: Russia ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 11
+	Date: 2015-12-08 ; Times: 22
+	Date: 2015-12-03 ; Times: 7
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-07 ; Times: 10
+	Date: 2015-12-05 ; Times: 5
+	Date: 2015-12-04 ; Times: 10
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-22 ; Times: 5
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 6
+	Date: 2015-12-26 ; Times: 6
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-14 ; Times: 10
+	Date: 2015-12-15 ; Times: 8
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-17 ; Times: 14
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-11 ; Times: 22
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-18 ; Times: 7
+	Date: 2015-12-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "USNM 229448" ; Times: 1
+	Query: "USNM 305241" ; Times: 1
+	Query: "USNM 298659" ; Times: 1
+	Query: "Hydrocynus goliath" ; Times: 1
+	Query: "USNM 349391" ; Times: 3
+	Query: "aetomylaeus milvus" ; Times: 3
+	Query: "USNM 305130" ; Times: 1
+	Query: "USNM 292198" ; Times: 1
+	Query: "Laemolyta orinocensis" ; Times: 1
+	Query: "USNM 303893" ; Times: 1
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "diplobatis" ; Times: 2
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "USNM 304439" ; Times: 1
+	Query: "USNM 305484" ; Times: 1
+	Query: "platax boersii" ; Times: 1
+	Query: "Myleus torquatus USNM" ; Times: 1
+	Query: "sargocentron shimizui usnm" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "type:specimen (Chamberlin) year &gt;= 1870 year &lt;= 1920" ; Times: 1
+	Query: "USNM 12522" ; Times: 1
+	Query: "garret county maryland" ; Times: 1
+	Query: "USNM 225764" ; Times: 1
+	Query: "recordedby:tuna" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "106669" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "taeniacara" ; Times: 1
+	Query: "erotelis armiger" ; Times: 1
+	Query: "USNM 229056" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "110949" ; Times: 1
+	Query: "228115" ; Times: 1
+	Query: "Ihering Rio Grande do Sul" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "Williams 1955-03-27" ; Times: 2
+	Query: "Aye aye" ; Times: 1
+	Query: "locality:Madiera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rhina" ; Times: 1
+	Query: "USNM 402629" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 2
+	Query: "USNM 310452" ; Times: 2
+	Query: "Epinephelus striatus" ; Times: 2
+	Query: "tapir" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "usnm 283467" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "Cyphocharax spilurus" ; Times: 2
+	Query: "zrc" ; Times: 1
+	Query: "guttatus maryland" ; Times: 1
+	Query: "torpedo" ; Times: 2
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "cynoglossus carpenteri" ; Times: 1
+	Query: "hemiramphus saltator" ; Times: 1
+	Query: "Reinhardtius hippoglossoides" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "USNM 61311" ; Times: 1
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "155921" ; Times: 1
+	Query: "chameleon media:1" ; Times: 4
+	Query: "94519" ; Times: 1
+	Query: "microphilypnus" ; Times: 1
+	Query: "Catostomus microps" ; Times: 2
+	Query: "USNM 348685" ; Times: 1
+	Query: "USNM 300676" ; Times: 1
+	Query: "Murie fox (Murie) year &gt;= 1920 year &lt;= 1990" ; Times: 1
+	Query: "USNM 365953" ; Times: 1
+	Query: "USNM 365954" ; Times: 1
+	Query: "locality:tahuayo country:&#34;peru&#34;" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "elf" ; Times: 8
+	Query: "126225" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "06011" ; Times: 1
+	Query: "trimma saudi arabia" ; Times: 1
+	Query: "Etheostoma chlorobranchium (Virginia)" ; Times: 1
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "Etheostoma variatum (Virginia) AND (Not West)" ; Times: 1
+	Query: "USNM 326332" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "USNM 228091" ; Times: 1
+	Query: "USNM 229089" ; Times: 3
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "minot" ; Times: 2
+	Query: "Percina rex" ; Times: 1
+	Query: "Etheostoma collis (Virginia)" ; Times: 1
+	Query: "USNM 225627" ; Times: 1
+	Query: "USNM 304256" ; Times: 1
+	Query: "Leporinus mormyrops" ; Times: 1
+	Query: "sargocentron spiniferum" ; Times: 4
+	Query: "Curimata roseni" ; Times: 1
+	Query: "malacoctenus puertoricensis" ; Times: 1
+	Query: "USNM 398311" ; Times: 1
+	Query: "Engraulisoma taeniatum USNM" ; Times: 1
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "USNM 409909" ; Times: 1
+	Query: "Williams 1955" ; Times: 4
+	Query: "USNM 270237" ; Times: 1
+	Query: "USNM 167827" ; Times: 1
+	Query: "USNM 273331" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 1
+	Query: "MCZ 19381" ; Times: 1
+	Query: "USNM 356661" ; Times: 1
+	Query: "USNM-108525" ; Times: 1
+	Query: "USNM 280717" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "USNM 280656" ; Times: 1
+	Query: "trimma filamentosus" ; Times: 1
+	Query: "leptophilypnus" ; Times: 1
+	Query: "discopyge" ; Times: 1
+	Query: "USNM 285630" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Colossoma macropomum USNM" ; Times: 1
+	Query: "USNM 383128" ; Times: 1
+	Query: "USNM 285893" ; Times: 1
+	Query: "USNM 311177" ; Times: 1
+	Query: "Catostomus microps stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Enneacanthus chaetodon (Virginia)" ; Times: 1
+	Query: "USNM 317779" ; Times: 1
+	Query: "USNM 332102" ; Times: 1
+	Query: "Mormyrus" ; Times: 1
+	Query: "USNM 326469" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "unicorn" ; Times: 12
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "USNM 309581" ; Times: 1
+	Query: "USNM 181691" ; Times: 1
+	Query: "distance(location,geopoint(33.99119576995599,-119.410400390625))&lt;1671" ; Times: 1
+	Query: "Curimatella alburna" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 889 download events in this period)
+Total number of records downloaded: 9262
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "locality:Rio Colorado country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
