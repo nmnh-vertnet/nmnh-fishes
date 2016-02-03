@@ -1,0 +1,386 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 3846
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 17
+	Country: United States ; Times: 200
+	Country: Malaysia ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 5
+	Date: 2015-09-10 ; Times: 7
+	Date: 2015-09-11 ; Times: 14
+	Date: 2015-09-12 ; Times: 5
+	Date: 2015-09-14 ; Times: 6
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-30 ; Times: 108
+	Date: 2015-09-02 ; Times: 14
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-07 ; Times: 7
+	Date: 2015-09-06 ; Times: 14
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 12
+	Date: 2015-09-03 ; Times: 7
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-25 ; Times: 24
+	Date: 2015-09-24 ; Times: 9
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 30
+	Date: 2015-09-21 ; Times: 6
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(22.8802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Porotergus" ; Times: 1
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "85908" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "callogobius red sea" ; Times: 1
+	Query: "distance(location,geopoint(28.3802369569,-112.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "USNM 354983" ; Times: 2
+	Query: "distance(location,geopoint(27.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "bryx" ; Times: 2
+	Query: "USNM-240035" ; Times: 1
+	Query: "bryx analicarens" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Paragobiodon xanthosomus" ; Times: 1
+	Query: "USNM 179172" ; Times: 2
+	Query: "Feia" ; Times: 1
+	Query: "Hexanchus" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "NMW" ; Times: 2
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &lt;= 1945" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "USNM 416689" ; Times: 1
+	Query: "distance(location,geopoint(23.7802369569,-109.449505705))&lt;10000" ; Times: 1
+	Query: "C&amp;S type:specimen institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(54.36775852406841,-171.8701171875))&lt;100000" ; Times: 1
+	Query: "panaque" ; Times: 3
+	Query: "usnm 339668" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "BMNH 81" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "indica Madagascar" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "&#34;B***&#34; &#34;americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Aulichthys" ; Times: 1
+	Query: "Paragobiodon xanthosomus Indonesia" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Pempheris Hurghada" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "usnm acentrogobius" ; Times: 4
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Neoclinus" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "USNM 167195" ; Times: 2
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.749505705))&lt;15000" ; Times: 1
+	Query: "cosmocampus banneri" ; Times: 2
+	Query: "minous red sea" ; Times: 1
+	Query: "San Miguel Island institutioncode:USNM" ; Times: 2
+	Query: "Callogobius Red Sea" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 2
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "USNM 406700" ; Times: 1
+	Query: "distance(location,geopoint(25.2802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.4802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "213611" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "glycerin type:specimen institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+	Query: "parapriacanthus red sea" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "usnm 337563" ; Times: 1
+	Query: "boa skeleton" ; Times: 2
+	Query: "minous monodactylus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Narcine entemedor" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "usnm 179172" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Aphos" ; Times: 3
+	Query: "distance(location,geopoint(24.2802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.7802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "USNM 76295" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "USNM-4744" ; Times: 1
+	Query: "pristis zijsron" ; Times: 1
+	Query: "usnm 416689" ; Times: 1
+	Query: "fasciatus sonora" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Pempheris Red Sea" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "USNM 196349" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "Monishia" ; Times: 2
+	Query: "distance(location,geopoint(25.5802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Coryogalops" ; Times: 2
+	Query: "distance(location,geopoint(27.2802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "pempheris schwenkii red sea" ; Times: 1
+	Query: "Myliobatis longirostris" ; Times: 1
+	Query: "parapriacanthus guentheri" ; Times: 3
+	Query: "distance(location,geopoint(28.6802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "USNM 283467" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "C. asprella" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "county:&#34;eddy&#34; stateprovince:&#34;north dakota&#34; AND (NOT UMMZ)" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "Pempheris schwenkii Red Sea" ; Times: 2
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "USNM 268970" ; Times: 2
+	Query: "tuatara" ; Times: 2
+	Query: "baxteri" ; Times: 1
+	Query: "Feia nympha" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "USNM 110819" ; Times: 1
+	Query: "usnm 263449" ; Times: 1
+	Query: "lake of bays" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "cosmocampus usnm" ; Times: 1
+	Query: "usnm 406700" ; Times: 2
+	Query: "distance(location,geopoint(53.69670647530323,-174.55078125))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.949505705))&lt;10000" ; Times: 1
+	Query: "corregidora" ; Times: 1
+	Query: "Barbus tyberinus" ; Times: 2
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.3802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "usnm 394732" ; Times: 1
+	Query: "anabas" ; Times: 3
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "geminatus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Bothrops mexico" ; Times: 1
+	Query: "locality:santo antonio da patrulha" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "USNM 372834" ; Times: 4
+	Query: "distance(location,geopoint(27.1802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.4802369569,-109.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "Keku" ; Times: 1
+	Query: "anoxypristis cuspidata" ; Times: 2
+	Query: "distance(location,geopoint(23.5802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.8802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "locality:taquara" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.2802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.949505705))&lt;10000" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "usnm 283467" ; Times: 1
+	Query: "199855" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "syngnathoides biaculeatus" ; Times: 3
+	Query: "distance(location,geopoint(31.2802369569,-113.749505705))&lt;10000" ; Times: 1
+	Query: "&#34;len:&#34;" ; Times: 2
+	Query: "distance(location,geopoint(24.0802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 11
+	Query: "distance(location,geopoint(25.3802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "Hypoptychus" ; Times: 1
+	Query: "Solenostomus usnm" ; Times: 1
+	Query: "Callogobius dori" ; Times: 2
+	Query: "amnh colombia" ; Times: 3
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "cosmocampus red sea" ; Times: 2
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-111.049505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1045 download events in this period)
+Total number of records downloaded: 45154
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 10
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-07 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "Etheostoma tallapoosae" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Moresby" ; Times: 1
+	Query: "Bothrops mexico" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "Nelson stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1905 year &lt;= 1906" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "Irian" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 1
+	Query: "Dasyatis dipterura" ; Times: 1
+	Query: "PNG" ; Times: 2
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
