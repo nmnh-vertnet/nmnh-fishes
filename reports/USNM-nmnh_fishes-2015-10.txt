@@ -1,0 +1,253 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 1711
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 2
+	Country: Azerbaijan ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 87
+	Country: Germany ; Times: 71
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Hungary ; Times: 2
+	Country: Dominican Republic ; Times: 3
+	Country: Russia ; Times: 15
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 7
+	Date: 2015-10-12 ; Times: 14
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 4
+	Date: 2015-10-18 ; Times: 7
+	Date: 2015-10-19 ; Times: 10
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 7
+	Date: 2015-10-26 ; Times: 17
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 11
+	Date: 2015-10-22 ; Times: 6
+	Date: 2015-10-21 ; Times: 11
+	Date: 2015-10-20 ; Times: 10
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 13
+	Date: 2015-10-07 ; Times: 13
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 11
+	Date: 2015-10-03 ; Times: 11
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 23
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "270479" ; Times: 1
+	Query: "usnm 163988" ; Times: 1
+	Query: "usnm 386829" ; Times: 1
+	Query: "amblygobius red sea" ; Times: 1
+	Query: "usnm acentrogobius" ; Times: 3
+	Query: "ridley sea turtle" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "usnm 214855" ; Times: 1
+	Query: "sarawak v" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Crenidens" ; Times: 1
+	Query: "usnm 324117" ; Times: 2
+	Query: "USNM 98889" ; Times: 1
+	Query: "sargocentron shimizui usnm" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "usnm 167415" ; Times: 1
+	Query: "usnm 167413" ; Times: 1
+	Query: "usnm 313174" ; Times: 3
+	Query: "usnm 167419" ; Times: 1
+	Query: "usnm 313172" ; Times: 1
+	Query: "usnm 214859" ; Times: 1
+	Query: "african clawed frog" ; Times: 2
+	Query: "211677" ; Times: 1
+	Query: "usnm 214850" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "USNM 226579" ; Times: 2
+	Query: "usnm 431787" ; Times: 1
+	Query: "usnm 102824" ; Times: 1
+	Query: "dendrochirus red sea" ; Times: 2
+	Query: "mcz 26999" ; Times: 1
+	Query: "usnm 375880" ; Times: 1
+	Query: "USNM 26289" ; Times: 1
+	Query: "USNM 12601" ; Times: 2
+	Query: "usnm 15306" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "noturus placidus" ; Times: 5
+	Query: "usnm 93528" ; Times: 2
+	Query: "etheostoma nuchale" ; Times: 1
+	Query: "baku" ; Times: 1
+	Query: "locality:Trinidade Island country:&#34;Brazil&#34;" ; Times: 1
+	Query: "usnm 255342" ; Times: 1
+	Query: "amnh papuensis" ; Times: 1
+	Query: "Remorina albescens" ; Times: 1
+	Query: "USNM 54760" ; Times: 1
+	Query: "heptranchias" ; Times: 1
+	Query: "usnm 216359" ; Times: 1
+	Query: "belice" ; Times: 1
+	Query: "wetmorella nigropinnata usnm" ; Times: 1
+	Query: "Omo" ; Times: 2
+	Query: "wetmorella tanakai" ; Times: 5
+	Query: "usnm 243667" ; Times: 2
+	Query: "pholis schultzi" ; Times: 1
+	Query: "usnm 159514" ; Times: 1
+	Query: "synagrops philippinensis" ; Times: 2
+	Query: "usnm 334301" ; Times: 1
+	Query: "USNM 194066" ; Times: 1
+	Query: "USNM 194067" ; Times: 1
+	Query: "uk otter" ; Times: 1
+	Query: "USNM 194068" ; Times: 1
+	Query: "Brasil Mato grosso do sul" ; Times: 1
+	Query: "etheostoma boschungi" ; Times: 1
+	Query: "BTG" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "fish country:&#34;kermadec&#34;" ; Times: 1
+	Query: "usnm 360643" ; Times: 1
+	Query: "bpbm indonesia" ; Times: 2
+	Query: "Stegastes leucorus" ; Times: 1
+	Query: "halichoeres scapularis" ; Times: 1
+	Query: "porotergus gymnotus" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen media:1" ; Times: 1
+	Query: "Stegastes" ; Times: 1
+	Query: "USNM 346561" ; Times: 1
+	Query: "Arrecife alacranes" ; Times: 3
+	Query: "minous red sea" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Salvin" ; Times: 1
+	Query: "blunt-nosed" ; Times: 1
+	Query: "USNM-316168" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 2
+	Query: "126521" ; Times: 1
+	Query: "Cottus kazika" ; Times: 4
+	Query: "uranoscopus red sea" ; Times: 1
+	Query: "Graham Island British Columbia 1931" ; Times: 1
+	Query: "USNM 103670" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "synagrops red sea" ; Times: 4
+	Query: "USNM 371372" ; Times: 3
+	Query: "newfoundland fish" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "wenatchee river" ; Times: 1
+	Query: "121841.5039310" ; Times: 1
+	Query: "usnm 112368" ; Times: 1
+	Query: "wetmorella nigropinnata" ; Times: 1
+	Query: "sargocentron lepros usnm" ; Times: 3
+	Query: "usnm 383473" ; Times: 1
+	Query: "rhabdotus" ; Times: 2
+	Query: "baxteri" ; Times: 1
+	Query: "USNM 207873" ; Times: 1
+	Query: "usnm 89968" ; Times: 2
+	Query: "Lako" ; Times: 2
+	Query: "dendrochirus brachypterus" ; Times: 5
+	Query: "zila" ; Times: 1
+	Query: "Amblyrhynchus hastypestatus:1" ; Times: 7
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "wetmorella nigropinnata usnm 379430" ; Times: 1
+	Query: "usnm 214866" ; Times: 1
+	Query: "211632" ; Times: 1
+	Query: "usnm 214862" ; Times: 1
+	Query: "usnm 201332" ; Times: 1
+	Query: "p358" ; Times: 1
+	Query: "Dysomma institutioncode:USNM" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "usnm 254088" ; Times: 1
+	Query: "wetmorella nigropinnata am" ; Times: 2
+	Query: "USNM 12498" ; Times: 2
+	Query: "USNM 120096" ; Times: 1
+	Query: "USNM 243654" ; Times: 2
+	Query: "USNM 120093" ; Times: 1
+	Query: "usnm 117887" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "tuvalu" ; Times: 2
+	Query: "xenisthmus" ; Times: 5
+	Query: "usnm 329666" ; Times: 1
+	Query: "usnm 329667" ; Times: 1
+	Query: "USNM 207771" ; Times: 3
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "ihering" ; Times: 1
+	Query: "saurida longimanus" ; Times: 8
+	Query: "blue whale" ; Times: 1
+	Query: "412356" ; Times: 1
+	Query: "USNM 197336" ; Times: 1
+	Query: "USNM 247285" ; Times: 1
+	Query: "242887" ; Times: 1
+	Query: "travancore cochin india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 823 download events in this period)
+Total number of records downloaded: 4080
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 3
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "PARAGUAY" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "marmorata" ; Times: 1
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 3
+
+
+End of report.
