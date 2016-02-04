@@ -1,0 +1,254 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 1065
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 90
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 13
+	Country: United Arab Emirates ; Times: 1
+	Country: Russia ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 5
+	Date: 2016-01-20 ; Times: 16
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-14 ; Times: 6
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 8
+	Date: 2016-01-19 ; Times: 13
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 13
+	Date: 2016-01-11 ; Times: 9
+	Date: 2016-01-10 ; Times: 17
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 4
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 11
+	Date: 2016-01-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "cheilinus fasciatus red sea" ; Times: 2
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "42565" ; Times: 1
+	Query: "388862" ; Times: 1
+	Query: "usnm 145194" ; Times: 1
+	Query: "usnm 327877" ; Times: 2
+	Query: "usnm 267503" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "USNM 31894" ; Times: 1
+	Query: "232223" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 3
+	Query: "usnm 4234" ; Times: 1
+	Query: "USNM-304182" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "wetmorella usnm 409070" ; Times: 1
+	Query: "USNM 229095" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "216878" ; Times: 1
+	Query: "usnm 23866" ; Times: 1
+	Query: "wetmorella usnm 268678" ; Times: 1
+	Query: "USNM-156012" ; Times: 1
+	Query: "scolopsis vosmeri usnm" ; Times: 1
+	Query: "usnm 221124" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "wetmorella usnm 404721" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "USNM 403693" ; Times: 1
+	Query: "ucla 296" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 2
+	Query: "Synodus capricornis" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "bacteria" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "wetmorella tanakai" ; Times: 1
+	Query: "yangi" ; Times: 1
+	Query: "mum" ; Times: 1
+	Query: "wetmorella usnm 400997" ; Times: 1
+	Query: "usnm 147058" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "minous" ; Times: 3
+	Query: "usnm 147065" ; Times: 1
+	Query: "usnm 7760" ; Times: 1
+	Query: "T. thynnus" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "240645" ; Times: 1
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Fish" ; Times: 1
+	Query: "CAS 33256" ; Times: 1
+	Query: "usnm 110604" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "usnm 32740" ; Times: 1
+	Query: "plicofollis dussumieri" ; Times: 1
+	Query: "usnm 405723" ; Times: 1
+	Query: "zacatlan" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "usnm 110599" ; Times: 1
+	Query: "USNM 174115" ; Times: 1
+	Query: "faku" ; Times: 1
+	Query: "usnm 83900" ; Times: 1
+	Query: "unicorn" ; Times: 8
+	Query: "wetmorella usnm 236516" ; Times: 1
+	Query: "locality:Revillagigedo year &gt;= 1865 year &lt;= 1900" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "wetmorella usnm 287795" ; Times: 1
+	Query: "USNM 20624" ; Times: 1
+	Query: "Synodus fuscus" ; Times: 1
+	Query: "sargocentron suborbitale" ; Times: 1
+	Query: "usnm 32738" ; Times: 1
+	Query: "usnm 382371" ; Times: 1
+	Query: "family:Lotidae country:&#34;United States&#34;" ; Times: 1
+	Query: "minous inermis" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "dormitor maculatus" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "usnm 17789" ; Times: 1
+	Query: "usnm 54748" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "distance(location,geopoint(34.43664633753353,-118.7570571899414))&lt;1602.3418660082177" ; Times: 1
+	Query: "USNM-390166" ; Times: 1
+	Query: "wilson hawaii" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+	Query: "USNM 4393" ; Times: 1
+	Query: "usnm 332412" ; Times: 1
+	Query: "ZMH" ; Times: 1
+	Query: "usnm 147076" ; Times: 1
+	Query: "USNM 34289." ; Times: 1
+	Query: "USNM j riley" ; Times: 1
+	Query: "Thoburnia hamiltoni" ; Times: 3
+	Query: "crenidens red sea" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "usnm 53026" ; Times: 1
+	Query: "usnm 42528" ; Times: 1
+	Query: "right whale" ; Times: 2
+	Query: "bdellostoma polytrema" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "rivularis brazil" ; Times: 1
+	Query: "usnm tulayan" ; Times: 1
+	Query: "arius eritrea" ; Times: 1
+	Query: "Lampetra appendix stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "usnm 147067" ; Times: 1
+	Query: "usnm 147064" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "usnm 147062" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 3
+	Query: "Synodus doaki" ; Times: 2
+	Query: "307865" ; Times: 1
+	Query: "genus:Microgadus country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM moose lake" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-110.637516))&lt;15000" ; Times: 1
+	Query: "232235" ; Times: 1
+	Query: "wetmorella usnm 373666" ; Times: 2
+	Query: "distance(location,geopoint(28.409036,-111.997516))&lt;15000" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "specificepithet:osgoodi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 507 download events in this period)
+Total number of records downloaded: 54782
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 19
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Scarinae" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))&lt;19662" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
