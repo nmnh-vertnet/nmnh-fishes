@@ -1,0 +1,130 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 519
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Puerto Rico ; Times: 4
+	Country: Russia ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-08 ; Times: 13
+	Date: 2016-03-09 ; Times: 6
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 10
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-13 ; Times: 16
+	Date: 2016-03-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "rhabdamia cypselurus" ; Times: 3
+	Query: "paraliparis dactylosus" ; Times: 1
+	Query: "rhabdamia" ; Times: 3
+	Query: "Noturus flavipinnis (Virginia)" ; Times: 1
+	Query: "gymnothorax johnsoni" ; Times: 3
+	Query: "sargocentron usnm red sea" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "uropterygius concolor usnm red sea" ; Times: 1
+	Query: "gymnothorax pseudoherrei usnm red sea" ; Times: 1
+	Query: "gymnothorax pindae usnm red sea" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "MCZ 54836" ; Times: 1
+	Query: "Percina williamsi" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "Gymnothorax rueppellii usnm red sea" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "4332 institutioncode:USNM" ; Times: 1
+	Query: "Hermosilla azurea" ; Times: 1
+	Query: "gymnothorax pictus red sea" ; Times: 2
+	Query: "276604" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "Amphistichus argenteus" ; Times: 1
+	Query: "gymnothorax flavimarginatus red sea" ; Times: 1
+	Query: "uropterygius golanii" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "rhabdamia cypselura" ; Times: 1
+	Query: "uropterygius polyspilus" ; Times: 2
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;100000" ; Times: 1
+	Query: "Bathydraco scotiae" ; Times: 5
+	Query: "Dacodraco hunteri" ; Times: 2
+	Query: "elassodiscus tremebundus" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;38485" ; Times: 1
+	Query: "centrophorus tessellatus" ; Times: 1
+	Query: "Antimora" ; Times: 1
+	Query: "Lythrypnus zebra" ; Times: 1
+	Query: "gymnothorax punctatus" ; Times: 1
+	Query: "enchelycore bayeri red sea" ; Times: 1
+	Query: "24734 institutioncode:USNM" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "uropterygius genie" ; Times: 2
+	Query: "235104" ; Times: 1
+	Query: "Xenistius californiensis" ; Times: 1
+	Query: "Sebastes umbrosus" ; Times: 1
+	Query: "Urobatis halleri" ; Times: 1
+	Query: "careproctus colletti" ; Times: 1
+	Query: "gymnothorax nudivomer red sea" ; Times: 1
+	Query: "sargocentron spiniferum usnm red sea" ; Times: 1
+	Query: "paraliparis pectoralis" ; Times: 2
+	Query: "cynoglossus red sea" ; Times: 1
+	Query: "sargocentron rubrum usnm red sea" ; Times: 1
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 2
+	Query: "179847.5054740" ; Times: 1
+	Query: "Gymnothorax undulatus usnm red sea" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "gymnothorax griseus red sea" ; Times: 1
+	Query: "Wetmorella tanakai" ; Times: 1
+	Query: "echidna nebulosa red sea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 230 download events in this period)
+Total number of records downloaded: 62063
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Indian Cove" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
