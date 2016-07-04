@@ -1,0 +1,514 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1272
+Number of records retrieved in searches: 57997
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 69
+	Country: India ; Times: 2
+	Country: France ; Times: 8
+	Country: United States ; Times: 1120
+	Country: Germany ; Times: 41
+	Country: Chile ; Times: 8
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 824
+	Date: 2016-06-24 ; Times: 19
+	Date: 2016-06-23 ; Times: 9
+	Date: 2016-06-08 ; Times: 13
+	Date: 2016-06-21 ; Times: 17
+	Date: 2016-06-20 ; Times: 9
+	Date: 2016-06-05 ; Times: 11
+	Date: 2016-06-07 ; Times: 23
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 127
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 65
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-22 ; Times: 6
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 20
+	Date: 2016-06-14 ; Times: 18
+	Date: 2016-06-15 ; Times: 21
+	Date: 2016-06-12 ; Times: 19
+	Date: 2016-06-13 ; Times: 35
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "usnm 154135" ; Times: 2
+	Query: "novaculoides" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "USNM-415747" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "239364" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "usnm 321577" ; Times: 1
+	Query: "usnm 321574" ; Times: 1
+	Query: "usnm 321575" ; Times: 1
+	Query: "usnm 76233" ; Times: 1
+	Query: "322089" ; Times: 1
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 6
+	Query: "usnm 321579" ; Times: 1
+	Query: "specificepithet:horrens genus:Prionotus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "usnm 121541" ; Times: 1
+	Query: "usnm 121540" ; Times: 1
+	Query: "Usnm 103528" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "usnm 226056" ; Times: 2
+	Query: "98763" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Falcarius" ; Times: 1
+	Query: "120059" ; Times: 1
+	Query: "usnm 195105" ; Times: 1
+	Query: "248878" ; Times: 2
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "Santa Catalina Island AND 1881" ; Times: 1
+	Query: "Santa Catalina Island AND 1880" ; Times: 1
+	Query: "162089" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "prochilodus rubrotaeniatus" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "genus:Mola" ; Times: 4
+	Query: "usnm 236109" ; Times: 1
+	Query: "specificepithet:muroadsi genus:Decapterus" ; Times: 4
+	Query: "Flavescens illinois" ; Times: 1
+	Query: "polypteriformes" ; Times: 3
+	Query: "usnm 218123" ; Times: 1
+	Query: "208320" ; Times: 1
+	Query: "specificepithet:orientalis genus:Thunnus" ; Times: 15
+	Query: "specificepithet:analogus genus:Epinephelus" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "leptocharias smithii" ; Times: 3
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "usnm 322187" ; Times: 2
+	Query: "Carpenter AND San Miguel Island" ; Times: 1
+	Query: "specificepithet:ischana genus:Anchoa" ; Times: 2
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "Paracatu" ; Times: 1
+	Query: "usnm 298419" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 1
+	Query: "Santa Catalina Island AND 1863" ; Times: 2
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "usnm 209546" ; Times: 2
+	Query: "141630" ; Times: 1
+	Query: "USNM 271702" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Usnm 319728" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "usnm 200250" ; Times: 1
+	Query: "specificepithet:kessleri genus:Notarius" ; Times: 4
+	Query: "pseudocheilinus tetrataenia marshall" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "usnm 319728" ; Times: 1
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "usnm 219639" ; Times: 1
+	Query: "Carpenter AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "specificepithet:panamensis genus:Menticirrhus" ; Times: 1
+	Query: "usnm 33867" ; Times: 2
+	Query: "Aplochiton 1" ; Times: 5
+	Query: "281873" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "usnm 252451" ; Times: 1
+	Query: "328423" ; Times: 1
+	Query: "usnm 72236" ; Times: 2
+	Query: "usnm 322133" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "usnm 343453" ; Times: 2
+	Query: "usnm 343454" ; Times: 2
+	Query: "nympha" ; Times: 1
+	Query: "Usnm 121534" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "specificepithet:rhomaleus genus:Opistognathus" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "halichoeres zeylonicus" ; Times: 2
+	Query: "usnm 322146" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "usnm 121539" ; Times: 1
+	Query: "specificepithet:nasus genus:Menticirrhus" ; Times: 1
+	Query: "radiata 129" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "224153" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "Brazil Atlantic Forest" ; Times: 1
+	Query: "usnm 218693" ; Times: 1
+	Query: "usnm 252436" ; Times: 1
+	Query: "usnm 252434" ; Times: 1
+	Query: "281874" ; Times: 1
+	Query: "usnm 217732" ; Times: 1
+	Query: "specificepithet:exigua genus:Anchoa" ; Times: 5
+	Query: "specificepithet:interruptus genus:Anisotremus" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "98762" ; Times: 2
+	Query: "usnm 302218" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "specificepithet:pichardi genus:Joturus" ; Times: 4
+	Query: "usnm 422087" ; Times: 2
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 13
+	Query: "usnm 121551" ; Times: 1
+	Query: "specificepithet:caesius genus:Anisotremus" ; Times: 2
+	Query: "Usnm 219725" ; Times: 2
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "77593" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "halichoeres scapularis usnm" ; Times: 2
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "usnm 358025" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Epinephelus" ; Times: 4
+	Query: "46494" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "pseudocheilinus tetrataenia" ; Times: 1
+	Query: "Gigantactis" ; Times: 1
+	Query: "164118" ; Times: 1
+	Query: "specificepithet:nasus genus:Anchoa" ; Times: 6
+	Query: "MNH 209344" ; Times: 1
+	Query: "usnm 216947" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "hippichthys cyanospilus" ; Times: 1
+	Query: "Usnm 114281" ; Times: 1
+	Query: "specificepithet:nigritus genus:Hyporthodus" ; Times: 1
+	Query: "Makaira nigricans" ; Times: 1
+	Query: "Usnm 200266" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "208318" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "specificepithet:loxias genus:Bellator" ; Times: 2
+	Query: "novaculichthys macrolepidotus" ; Times: 1
+	Query: "usnm 141504" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "usnm 271023" ; Times: 2
+	Query: "337782" ; Times: 1
+	Query: "172508" ; Times: 1
+	Query: "usnm 376650" ; Times: 2
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 3
+	Query: "specificepithet:pinnimaculatus genus:Bagre" ; Times: 2
+	Query: "novaculichthys]" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "winterbottomi" ; Times: 1
+	Query: "usnm 357456" ; Times: 4
+	Query: "sargocentron punctatissimum red sea" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "specificepithet:walkeri genus:Anchoa" ; Times: 1
+	Query: "167471" ; Times: 1
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 17
+	Query: "usnm 322256" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hippocampus" ; Times: 2
+	Query: "usnm 322251" ; Times: 1
+	Query: "usnm 217704" ; Times: 1
+	Query: "usnm 217701" ; Times: 2
+	Query: "usnm 217709" ; Times: 1
+	Query: "usnm 200245" ; Times: 2
+	Query: "White marlin" ; Times: 4
+	Query: "specificepithet:rosacea genus:Mycteroperca" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "kajikia albida" ; Times: 1
+	Query: "specificepithet:macrolepidota genus:Anchovia" ; Times: 1
+	Query: "usnm 319718" ; Times: 2
+	Query: "16754" ; Times: 1
+	Query: "Carpenter AND Santa Cruz Island" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "usnm 379012" ; Times: 2
+	Query: "Gujarat" ; Times: 2
+	Query: "usnm 281290" ; Times: 2
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "usnm 200230" ; Times: 2
+	Query: "127778" ; Times: 1
+	Query: "Aplochiton zebra 1" ; Times: 3
+	Query: "ecsenius cas" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "30753" ; Times: 2
+	Query: "ecsenius nalolo red sea" ; Times: 1
+	Query: "specificepithet:lucida genus:Anchoa" ; Times: 4
+	Query: "77997" ; Times: 1
+	Query: "Dawson AND Santa Cruz ISland" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "104912" ; Times: 1
+	Query: "usnm 277430" ; Times: 3
+	Query: "usnm 414584" ; Times: 2
+	Query: "usnm 277438" ; Times: 3
+	Query: "Dawson AND San Miguel ISland" ; Times: 1
+	Query: "usnm 422079" ; Times: 2
+	Query: "specificepithet:curta genus:Anchoa" ; Times: 1
+	Query: "usnm 216872" ; Times: 3
+	Query: "Usnm 162535" ; Times: 2
+	Query: "usnm 165193" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "usnm 252447" ; Times: 1
+	Query: "usnm 131445" ; Times: 2
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 1
+	Query: "usnm 322131" ; Times: 1
+	Query: "usnm 101296" ; Times: 1
+	Query: "usnm 321356" ; Times: 1
+	Query: "halichoeres scapularis mascarene" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "usnm 356781" ; Times: 2
+	Query: "specificepithet:gibbosus genus:Dentex" ; Times: 2
+	Query: "61180" ; Times: 1
+	Query: "usnm 141503" ; Times: 2
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:corvinaeformis genus:Pomadasys" ; Times: 2
+	Query: "specificepithet:pacifici genus:Anisotremus" ; Times: 3
+	Query: "specificepithet:dermatolepis genus:Dermatolepis" ; Times: 4
+	Query: "specificepithet:naufragium genus:Pseudobalistes" ; Times: 1
+	Query: "specificepithet:serrula genus:Pristigenys" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "siberut" ; Times: 2
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "flavescens iowa" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "specificepithet:analis genus:Anchoa" ; Times: 3
+	Query: "118669" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 1
+	Query: "211792" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "specificepithet:eumelum genus:Diplectrum" ; Times: 1
+	Query: "usnm 402129" ; Times: 2
+	Query: "157870" ; Times: 1
+	Query: "usnm 410160" ; Times: 2
+	Query: "Polypterus endlicherii" ; Times: 7
+	Query: "usnm 369523" ; Times: 2
+	Query: "usnm 121631" ; Times: 2
+	Query: "usnm 121630" ; Times: 2
+	Query: "USNM 415747" ; Times: 2
+	Query: "usnm 121634" ; Times: 1
+	Query: "specificepithet:guggenheim genus:Squatina" ; Times: 1
+	Query: "lagocephalus suezensis" ; Times: 1
+	Query: "usnm 88007" ; Times: 1
+	Query: "usnm 357774" ; Times: 2
+	Query: "paraplagusia bilineata" ; Times: 2
+	Query: "usnm 357773" ; Times: 2
+	Query: "usnm 252415" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "wetmorella albofasciata" ; Times: 9
+	Query: "ecsenius dentex red sea" ; Times: 2
+	Query: "134397" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "73821" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "usnm 376534" ; Times: 2
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "specificepithet:kumperae genus:Ancylopsetta" ; Times: 1
+	Query: "usnm 230108" ; Times: 1
+	Query: "204047" ; Times: 1
+	Query: "specificepithet:lacustris genus:Algansea" ; Times: 3
+	Query: "specificepithet:media genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:multiguttatus genus:Alphestes" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "Catalina Island AND 1880" ; Times: 1
+	Query: "Catalina Island AND 1881" ; Times: 1
+	Query: "usnm 413647" ; Times: 1
+	Query: "Catalina Island AND 1889" ; Times: 1
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "stolephorus bpbm" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 2
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "usnm 413461" ; Times: 2
+	Query: "Cooper AND Catalina NOT Arizona" ; Times: 1
+	Query: "Childs AND Island" ; Times: 1
+	Query: "263856" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "usnm 217787" ; Times: 1
+	Query: "specificepithet:pacificus genus:Tylosurus" ; Times: 3
+	Query: "94314" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "usnm 354106" ; Times: 1
+	Query: "usnm 321583" ; Times: 2
+	Query: "usnm 321581" ; Times: 1
+	Query: "usnm 321580" ; Times: 1
+	Query: "usnm 321585" ; Times: 1
+	Query: "usnm 321584" ; Times: 1
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "147216" ; Times: 1
+	Query: "usnm 200224" ; Times: 1
+	Query: "usnm 200226" ; Times: 2
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "324387" ; Times: 1
+	Query: "specificepithet:dovii genus:Anisotremus" ; Times: 5
+	Query: "specificepithet:sexfasciatum genus:Haemulon" ; Times: 1
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 1
+	Query: "(unsm)" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "usnm 219611" ; Times: 1
+	Query: "usnm 339669" ; Times: 2
+	Query: "150223" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Anisotremus" ; Times: 2
+	Query: "specificepithet:panamensis genus:Cephalopholis" ; Times: 2
+	Query: "111499" ; Times: 3
+	Query: "131078" ; Times: 1
+	Query: "usnm 322124" ; Times: 1
+	Query: "Siberut" ; Times: 2
+	Query: "R.161282" ; Times: 1
+	Query: "usnm 42636" ; Times: 1
+	Query: "usnm 327753" ; Times: 2
+	Query: "86655" ; Times: 1
+	Query: "specificepithet:breviceps genus:Larimus" ; Times: 1
+	Query: "1904 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "usnm 219682" ; Times: 1
+	Query: "usnm 219683" ; Times: 1
+	Query: "usnm 219684" ; Times: 1
+	Query: "usnm 219685" ; Times: 1
+	Query: "usnm 219686" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "usnm 146355" ; Times: 1
+	Query: "328006" ; Times: 1
+	Query: "specificepithet:scudderii genus:Haemulon" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "specificepithet:alalaua genus:Priacanthus" ; Times: 1
+	Query: "usnm 121563" ; Times: 1
+	Query: "380764" ; Times: 2
+	Query: "usnm 121562" ; Times: 1
+	Query: "specificepithet:altipinnis genus:Micropogonias" ; Times: 1
+	Query: "214726" ; Times: 2
+	Query: "251568" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "noturus placidus" ; Times: 6
+	Query: "usnm 121537" ; Times: 2
+	Query: "usnm 354414" ; Times: 2
+	Query: "parapriacanthus marei" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "53440" ; Times: 1
+	Query: "191 belize" ; Times: 1
+	Query: "usnm 217766" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:peruviana genus:Selene" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "specificepithet:cycloidea genus:Ancylopsetta" ; Times: 1
+	Query: "Lupinus" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "74997 usnm" ; Times: 1
+	Query: "usnm 121553" ; Times: 1
+	Query: "usnm 121550" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "Usnm 153375" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "64135" ; Times: 1
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "usnm 298412" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "specificepithet:macracanthus genus:Pomadasys" ; Times: 1
+	Query: "W. S. Milleri" ; Times: 1
+	Query: "243029 usnm" ; Times: 1
+	Query: "specificepithet:scituliceps genus:Synodus" ; Times: 1
+	Query: "halichoeres scapularis mauritius" ; Times: 1
+	Query: "Usnm 398767" ; Times: 1
+	Query: "327962" ; Times: 1
+	Query: "usnm 74998" ; Times: 1
+	Query: "specificepithet:jordani genus:Mycteroperca" ; Times: 1
+	Query: "usnm 74995" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 18
+	Query: "usnm 299768" ; Times: 2
+	Query: "169051" ; Times: 1
+	Query: "specificepithet:mundeola genus:Anchoa" ; Times: 5
+	Query: "59026" ; Times: 1
+	Query: "Snyder AND Santa Cruz Island" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "USNM 252231" ; Times: 1
+	Query: "usnm 68716" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "usnm 252421" ; Times: 1
+	Query: "specificepithet:guatemalensis genus:Ariopsis" ; Times: 12
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "Catalina Island AND 1897" ; Times: 1
+	Query: "Catalina Island AND 1892" ; Times: 1
+	Query: "USNM 77035" ; Times: 1
+	Query: "specificepithet:auricilla genus:Pristipomoides" ; Times: 1
+	Query: "usnm 252420" ; Times: 1
+	Query: "usnm 252422" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1052 download events in this period)
+Total number of records downloaded: 1907
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Polypterus endlicherii" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "leptocharias smithii" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "iguana" ; Times: 1
+
+
+End of report.
