@@ -1,0 +1,195 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 5663
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 112
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 6
+	Date: 2016-09-03 ; Times: 14
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-13 ; Times: 12
+	Date: 2016-09-12 ; Times: 11
+	Date: 2016-09-10 ; Times: 4
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-14 ; Times: 7
+	Date: 2016-09-22 ; Times: 1
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 56
+	Date: 2016-09-07 ; Times: 5
+	Date: 2016-09-04 ; Times: 23
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-24 ; Times: 14
+	Date: 2016-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "234374" ; Times: 1
+	Query: "locality:adak stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 1945" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "specificepithet:otrynter genus:Carangoides" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Uropterygius" ; Times: 1
+	Query: "specificepithet:archidium genus:Elattarchus" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: "USNM 47604" ; Times: 1
+	Query: "specificepithet:williamsi genus:Symphurus" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:emmelas genus:Cherublemma" ; Times: 1
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "USNM 312158" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "USNM 274957" ; Times: 2
+	Query: "specificepithet:furcirhinus genus:Pontinus" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "genus:moxostoma stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "locality:Lagoa dos Patos country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:sanguineus genus:Antennarius" ; Times: 1
+	Query: "gymnothorax pictus usnm" ; Times: 1
+	Query: "253906 usnm" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "specificepithet:sini genus:Paraclinus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "USNM 315563" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "227520" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:concentricus genus:Urobatis" ; Times: 1
+	Query: "mycteroperca xenarcha" ; Times: 1
+	Query: "ansp 2025" ; Times: 1
+	Query: "ansp 2024" ; Times: 1
+	Query: "393519" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Mistichthys luzonensis" ; Times: 1
+	Query: "specificepithet:thoburni genus:Xenomugil" ; Times: 1
+	Query: "384686" ; Times: 1
+	Query: "specificepithet:etheostoma genus:Aboma" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:margaritatus genus:Porichthys" ; Times: 1
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "USNM 342265" ; Times: 1
+	Query: "PTC" ; Times: 1
+	Query: "specificepithet:panamensis genus:Gymnothorax" ; Times: 1
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "specificepithet:velox genus:Carcharhinus" ; Times: 1
+	Query: "gymnothorax pictus usnm red sea" ; Times: 2
+	Query: "140930" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "USNM 312236" ; Times: 1
+	Query: "hybognathus amarus" ; Times: 2
+	Query: "27582" ; Times: 1
+	Query: "locality:Puerto Guarani country:&#34;paraguay&#34;" ; Times: 1
+	Query: "locality:Rio de Oro country:&#34;argentina&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "USNM 191669" ; Times: 1
+	Query: "USNM 47605" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:peruana genus:Seriola" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:rectifraenum genus:Stegastes" ; Times: 1
+	Query: "locality:atka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:brunneus genus:Echiophis" ; Times: 1
+	Query: "Pylodictis arizona" ; Times: 2
+	Query: "distance(location,geopoint(37.5,-81.5))&lt;20000" ; Times: 1
+	Query: "specificepithet:declivifrons genus:Abudefduf" ; Times: 1
+	Query: "218939" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Chaenomugil" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Pylodictis Arizona" ; Times: 3
+	Query: "Blake AND Santa Cruz Island" ; Times: 1
+	Query: "USNM 191670" ; Times: 2
+	Query: "346051" ; Times: 1
+	Query: "specificepithet:sanctilaurentii genus:Engyophrys" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "USNM 245633" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "specificepithet:mariajorisae genus:Citharichthys" ; Times: 1
+	Query: "USNM 210269" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "429393" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "70064" ; Times: 1
+	Query: "country:&#34;Australia&#34; year &gt;= 1838 year &lt;= 1845" ; Times: 2
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "usnm 312170" ; Times: 3
+	Query: "class:Actinopterygii stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "369641" ; Times: 4
+	Query: "class:Actinopterygii stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "06446" ; Times: 1
+	Query: "specificepithet:naufragium genus:Pseudobalistes" ; Times: 1
+	Query: "USNM 378712" ; Times: 1
+	Query: "specificepithet:rosenblatti genus:Coralliozetus" ; Times: 1
+	Query: "hispaniola type:specimen institutioncode:USNM" ; Times: 2
+	Query: "99447" ; Times: 1
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 2
+	Query: "usnm 245633" ; Times: 4
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "specificepithet:typus genus:Rhincodon" ; Times: 1
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 1
+	Query: "USNM 312170" ; Times: 1
+	Query: "USNM 210916" ; Times: 4
+	Query: "specificepithet:idiastes genus:Sphyraena" ; Times: 1
+	Query: "specificepithet:pacifica genus:Albula" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Paralabrax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 811 download events in this period)
+Total number of records downloaded: 5653
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "384686" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pylodictis Arizona" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
