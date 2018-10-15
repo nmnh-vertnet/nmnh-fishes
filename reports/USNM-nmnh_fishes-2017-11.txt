@@ -1,0 +1,271 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 14167
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 296
+	Country: United Kingdom ; Times: 1
+	Country: Norway ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 20
+	Date: 2017-11-29 ; Times: 231
+	Date: 2017-11-26 ; Times: 3
+	Date: 2017-11-27 ; Times: 24
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 5
+	Date: 2017-11-30 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry) year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "Parupeneus biaculeatus" ; Times: 1
+	Query: "zal" ; Times: 3
+	Query: "Upeneus taeniopterus" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "Parupeneus orientalis" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "USNM 3015" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 1
+	Query: "Parupeneus biaculeatus mappable:1" ; Times: 1
+	Query: "USNM 436804" ; Times: 3
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Actinopterygii mappable:1 island:Moorea" ; Times: 8
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Parupeneus dubius" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Pseudupeneus bifasciatus mappable:1" ; Times: 2
+	Query: "Parupeneus crassilabris" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 1
+	Query: "Parupeneus luteus" ; Times: 1
+	Query: "Pseudupeneus porphyreus" ; Times: 2
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "USNM 374835" ; Times: 3
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "Mullus barbatus auratus" ; Times: 1
+	Query: "Parupeneus nansen mappable:1" ; Times: 1
+	Query: "Parupeneus sp. 2 mappable:1" ; Times: 1
+	Query: "Parupeneus bifasciatus mappable:1" ; Times: 3
+	Query: "Upeneus velifer mappable:1" ; Times: 1
+	Query: "Parupeneus sp. 1 mappable:1" ; Times: 1
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "Mulloidichthys mimicus" ; Times: 2
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "Upeneus mouthami" ; Times: 1
+	Query: "catalognumber:74093 institutioncode:USNM" ; Times: 1
+	Query: "Suckley 1859" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "Mulloidichthys auriflamma mappable:1" ; Times: 3
+	Query: "Parupeneus procerigena" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 4
+	Query: "stateprovince:&#34;California&#34; recordedby:Newberry year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) institutioncode:USNM" ; Times: 2
+	Query: "Upeneus oligospilus" ; Times: 2
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "Parupeneus heptacanthus" ; Times: 3
+	Query: "Upeneus itoui" ; Times: 1
+	Query: "Upeneus flavolineatus" ; Times: 1
+	Query: "Upeneus itoui mappable:1" ; Times: 1
+	Query: "Upeneus guttatus" ; Times: 2
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Parupeneus porphyreus" ; Times: 2
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Mullus barbatus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 2
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "Parupeneus posteli" ; Times: 1
+	Query: "Upeneus guttatus mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "nigripes year &gt;= 1900 year &lt;= 2017 institutioncode:USNM" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Pseudupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Pseudupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "Upeneus supravittatus" ; Times: 1
+	Query: "Salvelinus alpinus" ; Times: 2
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 4
+	Query: "Upeneus dentatus" ; Times: 1
+	Query: "Pseudupeneus bifasciatus" ; Times: 2
+	Query: "Pseudupeneus grandisquamis" ; Times: 1
+	Query: "Parupeneus rubescens" ; Times: 2
+	Query: "Parupeneus spilurus mappable:1" ; Times: 2
+	Query: "Upeneus francisi" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 2
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Mullidae mappable:1 island:Moorea" ; Times: 1
+	Query: "Celular net" ; Times: 4
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus francisi mappable:1" ; Times: 1
+	Query: "Upeneus bensasi" ; Times: 3
+	Query: "Mulloidichthys rathbuni" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 2
+	Query: "45176" ; Times: 1
+	Query: "Parupeneus insularis" ; Times: 1
+	Query: "Pseudupeneus chrysonemus" ; Times: 1
+	Query: "Parupeneus nansen" ; Times: 1
+	Query: "Parupeneus minys" ; Times: 1
+	Query: "Upeneus xanthogrammus" ; Times: 1
+	Query: "Parupeneus ciliatus" ; Times: 1
+	Query: "Mulloidichthys mimicus mappable:1" ; Times: 2
+	Query: "Upeneus vanuatu" ; Times: 1
+	Query: "Pseudupeneus macronema mappable:1" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 3
+	Query: "Mulloidichthys dentatus" ; Times: 1
+	Query: "Parupeneus jansenii" ; Times: 2
+	Query: "(nigripes) institutioncode:USNM" ; Times: 2
+	Query: "Parupeneus minys mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Brachyglanis" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 3
+	Query: "Parupeneus moffitti mappable:1" ; Times: 1
+	Query: "Parupeneus spilurus" ; Times: 2
+	Query: "USNM 436789" ; Times: 3
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Mullus argentinae" ; Times: 1
+	Query: "Upeneus maculatus" ; Times: 1
+	Query: "Balistidae mappable:1 island:Moorea" ; Times: 1
+	Query: "Parupeneus sp. 1" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "Upeneus mascareinsis" ; Times: 1
+	Query: "Parupeneus moffitti" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Parupeneus chryserydros" ; Times: 1
+	Query: "catalognumber:186452 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus japonicus" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Hubbard) institutioncode:USNM" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Upeneichthys porosus mappable:1" ; Times: 2
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Parupeneus chrysonemus" ; Times: 1
+	Query: "Mulloidichthys vanicolensis" ; Times: 2
+	Query: "Parupeneus forsskali" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(29.38217507514529,-71.25732421875))&lt;100000" ; Times: 1
+	Query: "Mulloidichthys pfluegeri mappable:1" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 2
+	Query: "USNM 432331" ; Times: 1
+	Query: "Pseudupeneus indicus" ; Times: 1
+	Query: "Parupeneus cinnabarinus" ; Times: 1
+	Query: "USNM 432332" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "USNM 374871" ; Times: 5
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus margaritatus" ; Times: 1
+	Query: "kisutch genus:Oncorhynchus stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "Pseudupeneus macronema" ; Times: 1
+	Query: "Upeneus margarethae mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Upeneus davidaromi" ; Times: 1
+	Query: "Upeneus arge" ; Times: 1
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "guttatus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Upeneus supravittatus mappable:1" ; Times: 1
+	Query: "Upeneus subvittatus" ; Times: 2
+	Query: "Upeneus margarethae" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Upeneus bensasi mappable:1" ; Times: 3
+	Query: "Parupeneus chrysopleuron" ; Times: 1
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 2
+	Query: "Upeneus sundaicus mappable:1" ; Times: 1
+	Query: "Upeneichthys lineatus" ; Times: 2
+	Query: "Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "Mulloidichthys auriflamma" ; Times: 3
+	Query: "Pseudupeneus moana" ; Times: 1
+	Query: "Pseudupeneus barberinus mappable:1" ; Times: 1
+	Query: "Upeneus sp. mappable:1" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "zmuc" ; Times: 1
+	Query: "Pseudupeneus barberinus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Parupeneus cinnabarinus mappable:1" ; Times: 1
+	Query: "Upeneus suahelicus" ; Times: 1
+	Query: "Parupeneus forsskali mappable:1" ; Times: 1
+	Query: "Upeneus pori" ; Times: 1
+	Query: "Upeneus luzonius" ; Times: 3
+	Query: "catalognumber:89211 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Upeneichthys porosus" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "USNM 431428" ; Times: 1
+	Query: "Pseudupeneus indicus mappable:1" ; Times: 1
+	Query: "&#34;Pterygoplichthys multiradiatus&#34;" ; Times: 4
+	Query: "USNM 374834" ; Times: 3
+	Query: "Upeneus grandisquamis" ; Times: 1
+	Query: "Upeneus velifer" ; Times: 1
+	Query: "Upeneus vanuatu mappable:1" ; Times: 1
+	Query: "Mulloidichthys pfluegeri" ; Times: 1
+	Query: "Parupeneus bifasciatus" ; Times: 3
+	Query: "Parupeneus sp. 2" ; Times: 1
+	Query: "Upeneus mouthami mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "Upeneus heemstra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1101 download events in this period)
+Total number of records downloaded: 4084
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "kisutch genus:Oncorhynchus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "&#34;Pterygoplichthys multiradiatus&#34;" ; Times: 1
+	Query: "nigripes year &gt;= 1900 year &lt;= 2017 institutioncode:USNM" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) institutioncode:USNM" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 1
+	Query: "Celular net" ; Times: 1
+
+
+End of report.
