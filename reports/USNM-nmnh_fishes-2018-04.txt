@@ -1,0 +1,420 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 391
+Number of records retrieved in searches: 3650
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 29
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Samoa ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 35
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 23
+	Country: China ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 231
+	Country: Russia ; Times: 12
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 5
+	Date: 2018-04-23 ; Times: 15
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 11
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 14
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 14
+	Date: 2018-04-24 ; Times: 54
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 14
+	Date: 2018-04-02 ; Times: 39
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 6
+	Date: 2018-04-07 ; Times: 9
+	Date: 2018-04-06 ; Times: 14
+	Date: 2018-04-09 ; Times: 29
+	Date: 2018-04-08 ; Times: 6
+	Date: 2018-04-12 ; Times: 39
+	Date: 2018-04-13 ; Times: 8
+	Date: 2018-04-10 ; Times: 12
+	Date: 2018-04-11 ; Times: 9
+	Date: 2018-04-16 ; Times: 8
+	Date: 2018-04-17 ; Times: 24
+	Date: 2018-04-14 ; Times: 3
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-18 ; Times: 12
+	Date: 2018-04-19 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "269290" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "Labeo longipinnis" ; Times: 1
+	Query: "chitala ornata" ; Times: 3
+	Query: "catalognumber:35596 institutioncode:USNM" ; Times: 1
+	Query: "USNM Acrocephalus" ; Times: 1
+	Query: "catalognumber:1122 institutioncode:USNM" ; Times: 1
+	Query: "219121" ; Times: 1
+	Query: "USNM 332440" ; Times: 2
+	Query: "104565" ; Times: 1
+	Query: "USNM 225386" ; Times: 2
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "USNM 107712" ; Times: 2
+	Query: "USNM 212357" ; Times: 1
+	Query: "usnm 317196" ; Times: 1
+	Query: "zosterisessor" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "catalognumber:52926 institutioncode:USNM" ; Times: 1
+	Query: "USNM 153417" ; Times: 1
+	Query: "catostomus insignis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:178897 institutioncode:USNM" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Labeo nandina" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "cerf seychelles" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "275524" ; Times: 3
+	Query: "Labeo lineatus" ; Times: 1
+	Query: "rubrolineatus" ; Times: 1
+	Query: "stateprovince:&#34;District of Columbia&#34; year &gt;= 2011" ; Times: 1
+	Query: "synodus randalli" ; Times: 3
+	Query: "specificepithet:petersii institutioncode:USNM" ; Times: 2
+	Query: "USNM 196951" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "economidichthys" ; Times: 1
+	Query: "pristobrycon aureus" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "puntius titteya" ; Times: 1
+	Query: "Pacific blue marlin" ; Times: 1
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "rio pesqueria" ; Times: 2
+	Query: "75309" ; Times: 1
+	Query: "USNM 218566" ; Times: 2
+	Query: "recordedby:G. S. marshall" ; Times: 1
+	Query: "catostomus clarkii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "sebastes helvomaculatus" ; Times: 2
+	Query: "catalognumber:52916 institutioncode:USNM" ; Times: 1
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "catostomus discobolus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "75025" ; Times: 1
+	Query: "scientificname:(Etheostoma camurum) country:United States mappable:1" ; Times: 1
+	Query: "123043" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "USNM 212359" ; Times: 1
+	Query: "adenomus" ; Times: 1
+	Query: "catalognumber:56127 institutioncode:USNM" ; Times: 1
+	Query: "porogobius" ; Times: 1
+	Query: "agosia chrysogaster chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "Hoplerythrinus" ; Times: 1
+	Query: "noturus placidus" ; Times: 9
+	Query: "91909" ; Times: 1
+	Query: "clepsydra" ; Times: 1
+	Query: "disaster" ; Times: 1
+	Query: "bts" ; Times: 1
+	Query: "mormyrops caballus" ; Times: 4
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 2
+	Query: "mormyrops" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "martinezi" ; Times: 1
+	Query: "genus:rostroraja" ; Times: 1
+	Query: "specificepithet:snowi" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "catalognumber:203271" ; Times: 1
+	Query: "pristobrycon" ; Times: 2
+	Query: "nocturnal" ; Times: 1
+	Query: "NMNH 228226" ; Times: 2
+	Query: "101256" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "143527" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "Apogon campbelli" ; Times: 1
+	Query: "Labeo curriei" ; Times: 1
+	Query: "lagocephalus suezensis" ; Times: 1
+	Query: "vanneaugobius" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "catalognumber:203219" ; Times: 1
+	Query: "catalognumber:52908 institutioncode:USNM" ; Times: 1
+	Query: "stingray" ; Times: 1
+	Query: "dussumieri seychelles" ; Times: 1
+	Query: "Sebastes helvomaculatus" ; Times: 3
+	Query: "USNM 254220" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Pristobrycon striolatus" ; Times: 1
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "dubium" ; Times: 1
+	Query: "Apogon doryssa" ; Times: 1
+	Query: "mormyrops anguilloides" ; Times: 5
+	Query: "scientificname:(Catostomus tahoensis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus ardens) country:United States mappable:1" ; Times: 1
+	Query: "Ophichthus triserialis" ; Times: 1
+	Query: "348490" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "ANSP 8133" ; Times: 1
+	Query: "catalognumber:414389 institutioncode:USNM" ; Times: 1
+	Query: "Pterois" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "pristobrycon calmoni" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Acrocephalus USNM" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "215680" ; Times: 1
+	Query: "215681" ; Times: 1
+	Query: "white shark" ; Times: 1
+	Query: "KU 8564" ; Times: 2
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "Black marlin" ; Times: 3
+	Query: "109416" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "USNM 253832" ; Times: 1
+	Query: "Labeo indramontri" ; Times: 1
+	Query: "258318" ; Times: 1
+	Query: "genus:CYPRINODON stateprovince:&#34;COAHUILA&#34;" ; Times: 2
+	Query: "catalognumber:52927 institutioncode:USNM" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "specificepithet:reticulatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "maryland allegheny" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "profundulus" ; Times: 1
+	Query: "USNM 38044" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 2
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "catalognumber:178896 institutioncode:USNM" ; Times: 2
+	Query: "Tuvalu" ; Times: 4
+	Query: "catalognumber:271463 institutioncode:USNM" ; Times: 1
+	Query: "genus:Acaronia family:Cichlidae" ; Times: 1
+	Query: "Tominanga" ; Times: 1
+	Query: "3E-3c" ; Times: 1
+	Query: "catalognumber:203273" ; Times: 1
+	Query: "gila robusta stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "usnm 256186" ; Times: 2
+	Query: "catostomus discobolus discobolus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "NMNH 228225" ; Times: 1
+	Query: "176468" ; Times: 1
+	Query: "Hyphessobrycon heterorhabdus" ; Times: 1
+	Query: "Rhinoliparis barbulifer" ; Times: 2
+	Query: "46441" ; Times: 1
+	Query: "genus:Herichthys cyanoguttatus locality:santa catarina stateprovince:&#34;nuevo leon&#34;" ; Times: 3
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "banggi island" ; Times: 2
+	Query: "Channa marulius" ; Times: 1
+	Query: "catalognumber:116178 institutioncode:USNM" ; Times: 1
+	Query: "USNM 225484" ; Times: 1
+	Query: "291925" ; Times: 1
+	Query: "Characidium phoxocephalum" ; Times: 1
+	Query: "vntype:observation country:&#34;Norway&#34; mappable:1" ; Times: 2
+	Query: "USNM 225381" ; Times: 1
+	Query: "oxyurichthys petersi" ; Times: 1
+	Query: "USNM 213013" ; Times: 1
+	Query: "Mariana Island (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "specificepithet:crassicauda genus:gila" ; Times: 2
+	Query: "Lates niloticus" ; Times: 4
+	Query: "214851" ; Times: 1
+	Query: "USNM 225450" ; Times: 2
+	Query: "knipowitschia" ; Times: 1
+	Query: "fish zacatecas" ; Times: 1
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "Rio pesqueria" ; Times: 8
+	Query: "genus:Catostomus recordedby:George" ; Times: 1
+	Query: "rhinichthys osculus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:224212 institutioncode:USNM" ; Times: 1
+	Query: "USNM 253077" ; Times: 3
+	Query: "fossil creek arizona" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 2
+	Query: "genus:Ctenogobius country:&#34;Ecuador&#34;" ; Times: 4
+	Query: "263880" ; Times: 2
+	Query: "58831" ; Times: 1
+	Query: "15070 NMNH" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "gila cypha" ; Times: 1
+	Query: "scientificname:(Catostomus insignis) country:United States mappable:1" ; Times: 2
+	Query: "genus:didogobius" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 2
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "USNM 225524" ; Times: 2
+	Query: "oncorhynchus apache stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "Parupeneus" ; Times: 1
+	Query: "labeo lunatus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "porcus" ; Times: 1
+	Query: "locality:Amotape country:&#34;Peru&#34;" ; Times: 1
+	Query: "padogobius" ; Times: 1
+	Query: "USNM 214056" ; Times: 2
+	Query: "mauligobius" ; Times: 1
+	Query: "Characidium caucanum" ; Times: 3
+	Query: "thorogobius" ; Times: 1
+	Query: "specificepithet:radiata genus:Pterois" ; Times: 1
+	Query: "crystallogobius" ; Times: 1
+	Query: "120009" ; Times: 1
+	Query: "Hyphessobrycon copelandi" ; Times: 1
+	Query: "Actinopterygii zacatecas" ; Times: 1
+	Query: "133784" ; Times: 1
+	Query: "agosia chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "Monopterus albus" ; Times: 2
+	Query: "specificepithet:dumeril genus:squatina" ; Times: 1
+	Query: "USNM 225660" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "odondebuenia" ; Times: 1
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "scientificname:(Gila pandora) country:United States mappable:1" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "scientificname:(Cottus beldingii OR Cottus beldingi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "gila intermedia stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:1476 institutioncode:USNM" ; Times: 1
+	Query: "233298" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "blue whale" ; Times: 3
+	Query: "Prochilodus reticulatus" ; Times: 2
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "catalognumber:52909 institutioncode:USNM" ; Times: 2
+	Query: "salmo salar sebago" ; Times: 1
+	Query: "millerigobius" ; Times: 1
+	Query: "3E 3c" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:178899 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "Gila cypha" ; Times: 1
+	Query: "scorpaenodes steinitzi" ; Times: 1
+	Query: "V. fulva" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "NMNH 1444" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 1359 download events in this period)
+Total number of records downloaded: 7908
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 45
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 10
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-15 ; Times: 9
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "bald eagle washington" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Hemiancistrus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Mariana Island (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "salmo salar sebago" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+
+
+End of report.
