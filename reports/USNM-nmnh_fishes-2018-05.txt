@@ -1,0 +1,274 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 1666
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Finland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Morocco ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Australia ; Times: 1
+	Country: China ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 2
+	Country: United States ; Times: 187
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 16
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 7
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 34
+	Date: 2018-05-05 ; Times: 9
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-03 ; Times: 15
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-31 ; Times: 18
+	Date: 2018-05-30 ; Times: 10
+	Date: 2018-05-15 ; Times: 11
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 15
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 10
+	Date: 2018-05-10 ; Times: 31
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:117648 institutioncode:USNM" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "specificepithet:thayeri family:Cichlidae" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "seastar" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Acipenser stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "71073" ; Times: 1
+	Query: "USNM 7315" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "genus:Polylepion" ; Times: 1
+	Query: "usnm 239955" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "155132" ; Times: 1
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Labeo barbatus" ; Times: 1
+	Query: "typhlichthys" ; Times: 2
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "109699" ; Times: 1
+	Query: "gomezi" ; Times: 3
+	Query: "catalognumber:222391 institutioncode:USNM" ; Times: 3
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "Biak country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "specificepithet:hoehnei genus:Aequidens" ; Times: 1
+	Query: "specificepithet:panamensis family:Cichlidae" ; Times: 1
+	Query: "catalognumber:223155" ; Times: 1
+	Query: "Robinsia" ; Times: 2
+	Query: "labeo niloticus" ; Times: 1
+	Query: "specificepithet:mariae genus:Bujurquina" ; Times: 1
+	Query: "atlantoraja castelnaui" ; Times: 2
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:moriorum family:Cichlidae" ; Times: 1
+	Query: "catalognumber:247781 institutioncode:USNM" ; Times: 2
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "Tomicodon petersii" ; Times: 3
+	Query: "pseudochalceus" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "tyler J B" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "USNM 23955" ; Times: 2
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "&#34;labeo percivali&#34;" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "USNM 157199" ; Times: 2
+	Query: "USNM 157198" ; Times: 2
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "USNM 157194" ; Times: 1
+	Query: "collections crustacean" ; Times: 1
+	Query: "pueh" ; Times: 1
+	Query: "275719" ; Times: 1
+	Query: "USNM 247429" ; Times: 1
+	Query: "specificepithet:osgoodi " ; Times: 2
+	Query: "266166" ; Times: 1
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "334016" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "specificepithet:moriorum genus:Bujurquina" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "usnm 92599" ; Times: 1
+	Query: "specificepithet:umbriferum genus:Cichlasoma" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "BMNH 92" ; Times: 1
+	Query: "specificepithet:grammodes genus:Cichlasoma" ; Times: 2
+	Query: "east texas wildlife" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "genus:Chuco" ; Times: 3
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "USNM 167146" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "collections crustaceans" ; Times: 1
+	Query: "bathycongrus varidens" ; Times: 1
+	Query: "Labeo batesii" ; Times: 1
+	Query: "pontianak" ; Times: 1
+	Query: "(quagga) institutioncode:USNM" ; Times: 1
+	Query: "hyphessobrycon inconstans" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Gobiesox adustus" ; Times: 3
+	Query: "genus:Krobia" ; Times: 1
+	Query: "catalognumber:222392 institutioncode:USNM" ; Times: 3
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "usnm 247524" ; Times: 1
+	Query: "specificepithet:semisquamatum genus:Pycnomma" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "collections crabs" ; Times: 1
+	Query: "catalognumber:238981" ; Times: 1
+	Query: "rasbora kalochroma" ; Times: 2
+	Query: "Trichomycterus immaculatus" ; Times: 1
+	Query: "brama dussumieri" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "formosa 1887" ; Times: 1
+	Query: "USNM 239955" ; Times: 3
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "specificepithet:regani genus:Cichlasoma" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "A. G. Burr" ; Times: 1
+	Query: "238226" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "specificepithet:itanyi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "locality:colonia yap" ; Times: 2
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "catalognumber:359217 institutioncode:USNM" ; Times: 1
+	Query: "USNM 311300" ; Times: 1
+	Query: "usnm 2131" ; Times: 2
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "specificepithet:hoehnei family:Cichlidae institutioncode:USNM" ; Times: 2
+	Query: "275720" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "specificepithet:hophrys" ; Times: 1
+	Query: "blue shark" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "western sahara" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "Labeo angra" ; Times: 3
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "333944" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+	Query: "BOLLMANNIA UMBROSA" ; Times: 1
+	Query: "Apogon atricaudus" ; Times: 7
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "Neotrygon" ; Times: 1
+	Query: "&#34;labeo pangusia&#34;" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "specificepithet:eurhinus family:Cichlidae" ; Times: 1
+	Query: "Apogon atradorsatus" ; Times: 3
+	Query: "blue whale" ; Times: 2
+	Query: "specificepithet:ufermanni family:Cichlidae" ; Times: 2
+	Query: "Apogon retrosella" ; Times: 4
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "&#34;E. Goldman&#34; Island Mexico" ; Times: 1
+	Query: "cyphocharax nigripinnis" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "KU 5079" ; Times: 2
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "Labeo gonius" ; Times: 3
+	Query: "specificepithet:hophrys family:Cichlidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 1766
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
