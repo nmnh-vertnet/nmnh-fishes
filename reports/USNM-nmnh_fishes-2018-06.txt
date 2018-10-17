@@ -1,0 +1,496 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 762
+Number of records retrieved in searches: 17608
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Netherlands ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 16
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 675
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Kuwait ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 21
+	Date: 2018-06-05 ; Times: 32
+	Date: 2018-06-04 ; Times: 12
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 7
+	Date: 2018-06-01 ; Times: 12
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 10
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 288
+	Date: 2018-06-20 ; Times: 73
+	Date: 2018-06-08 ; Times: 23
+	Date: 2018-06-22 ; Times: 16
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 26
+	Date: 2018-06-13 ; Times: 146
+	Date: 2018-06-14 ; Times: 9
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-18 ; Times: 9
+	Date: 2018-06-19 ; Times: 7
+	Date: 2018-06-30 ; Times: 5
+	Date: 2018-06-29 ; Times: 20
+	Date: 2018-06-28 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "15540" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "USNM 20340" ; Times: 2
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "107927" ; Times: 1
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 4
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Naso sp." ; Times: 2
+	Query: "percina nasuta" ; Times: 1
+	Query: "Ctenochaetus tominiensis" ; Times: 2
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "gadus hasmedia:1" ; Times: 12
+	Query: "blacktail deer" ; Times: 1
+	Query: "Ctenochaetus hawaiiensis mappable:1" ; Times: 2
+	Query: "USNM 200261" ; Times: 1
+	Query: "Naso tuberosus mappable:1" ; Times: 4
+	Query: "98464" ; Times: 1
+	Query: "Siganus woodlandi" ; Times: 1
+	Query: "&#34;Paracheirodon simulans&#34;" ; Times: 1
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "Naso annularis" ; Times: 1
+	Query: "tridentopsis pearsoni" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "wolfs" ; Times: 1
+	Query: "Epinephelus jordani" ; Times: 1
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "Acanthurus reversus mappable:1" ; Times: 2
+	Query: "gomezi" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "Naso rigoletto" ; Times: 1
+	Query: "363840" ; Times: 1
+	Query: "catalognumber:166766 institutioncode:USNM" ; Times: 1
+	Query: "Acanthurus blochii mappable:1" ; Times: 4
+	Query: "245362" ; Times: 1
+	Query: "locality:el morro" ; Times: 2
+	Query: "Acanthurus auranticavus" ; Times: 3
+	Query: "360050" ; Times: 1
+	Query: "413023" ; Times: 1
+	Query: "specificepithet:taeniata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Acanthurus chronixis mappable:1" ; Times: 3
+	Query: "306352" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Acanthurus nigros mappable:1" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Acanthurus japonicus mappable:1" ; Times: 4
+	Query: "Teuthis leucopareius" ; Times: 2
+	Query: "2040 institutioncode:USNM hastypestatus:1" ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "Xesurus clarionis" ; Times: 1
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "Zebrasoma rostratum mappable:1" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "coryogalops tessellatus" ; Times: 1
+	Query: "Naso caeruleacauda" ; Times: 2
+	Query: "boleophthalmus" ; Times: 1
+	Query: "acrossocheilus malcolmi" ; Times: 1
+	Query: "Crossocheilus siamensis" ; Times: 1
+	Query: "Acanthurus reversus" ; Times: 2
+	Query: "scoloplax" ; Times: 1
+	Query: "187212" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "LACM hasmedia:1" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "specificepithet:vittatus family:Cichlidae" ; Times: 1
+	Query: "191915" ; Times: 2
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "56785" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Trichomycterus Suriname" ; Times: 5
+	Query: "64465" ; Times: 1
+	Query: "Acanthurus maculiceps" ; Times: 3
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "genus:bathygobius locality:clipperton" ; Times: 1
+	Query: "USNM 246551" ; Times: 1
+	Query: "Naso tonganus" ; Times: 2
+	Query: "Acanthurus randalli" ; Times: 2
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Ctenochaetus tominiensis mappable:1" ; Times: 2
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 2
+	Query: "Barbus caninus" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "Teuthis crestonis" ; Times: 1
+	Query: "catalognumber:121111 institutioncode:USNM" ; Times: 2
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "Naso unicornis" ; Times: 2
+	Query: "acipenser nudiventris" ; Times: 1
+	Query: "specificepithet:grammodes" ; Times: 2
+	Query: "penquin" ; Times: 1
+	Query: "catalognumber:335224 institutioncode:USNM" ; Times: 2
+	Query: "Naso reticulatus" ; Times: 2
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "175101" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "gila intermedia" ; Times: 1
+	Query: "353622" ; Times: 2
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Naso lopezi mappable:1" ; Times: 2
+	Query: "specificepithet:facetus family:Cichlidae" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "family:Gobiidae locality:clipperton" ; Times: 1
+	Query: "freshwater fish Washington state" ; Times: 3
+	Query: "380147" ; Times: 1
+	Query: "380145" ; Times: 2
+	Query: "Acanthurus auranticavus mappable:1" ; Times: 3
+	Query: "380148" ; Times: 1
+	Query: "380149" ; Times: 1
+	Query: "lebiasina" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "labeo dussumieri" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "196696" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "Naso thorpei mappable:1" ; Times: 1
+	Query: "paraliparis dactylosus" ; Times: 2
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "catalognumber:263922 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "Acanthurus tractus mappable:1" ; Times: 2
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "Ctenochaetus flavicauda mappable:1" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "298785" ; Times: 1
+	Query: "Plectropomus pessuliferus" ; Times: 1
+	Query: "Acanthurus bicommatus mappable:1" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "LACM fish hasmedia:1" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "Naso thorpei" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "2825 institutioncode:USNM" ; Times: 1
+	Query: "Naso maculatus mappable:1" ; Times: 2
+	Query: "ZSM" ; Times: 1
+	Query: "Prionurus hopkinsi" ; Times: 1
+	Query: "Gila bicolor" ; Times: 5
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "Acanthurus sohal mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 2
+	Query: "Mycteroperca venadorum" ; Times: 1
+	Query: "usnm bohol" ; Times: 1
+	Query: "Ancistrus ranunculus" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Naso reticulatus mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Seal Fur" ; Times: 1
+	Query: "Acanthurus monroviae mappable:1" ; Times: 2
+	Query: "Zebrasoma velifer mappable:1" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "157240" ; Times: 1
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "95500" ; Times: 1
+	Query: "Acanthurus blochii" ; Times: 4
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Naso vlamingii mappable:1" ; Times: 2
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Teuthis umbra" ; Times: 2
+	Query: "Acanthurus nubilus mappable:1" ; Times: 2
+	Query: "363841" ; Times: 2
+	Query: "Oreochromis shiranus" ; Times: 1
+	Query: "Acanthurus nubilus" ; Times: 2
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Acanthurus coerulus" ; Times: 2
+	Query: "catalognumber:273922 institutioncode:USNM" ; Times: 1
+	Query: "Acanthurus tennentii mappable:1" ; Times: 2
+	Query: "Acanthurus leucocheilus mappable:1" ; Times: 3
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "catalognumber:350842 institutioncode:USNM" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Siphateles bicolor" ; Times: 3
+	Query: "gadiformes hasmedia:1" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Acanthurus bariene" ; Times: 7
+	Query: "catalognumber:108934 institutioncode:USNM" ; Times: 2
+	Query: "Prionurus maculatus" ; Times: 2
+	Query: "Puntius lineatus" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "2040 institutioncode:USNM" ; Times: 1
+	Query: "Teuthis atrimentatus" ; Times: 1
+	Query: "Gila intermedia" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Naso brachycentron" ; Times: 2
+	Query: "Acanthurus fowleri" ; Times: 3
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Acanthurus bicommatus" ; Times: 1
+	Query: "USNM 203444" ; Times: 2
+	Query: "Acanthurus polyzona mappable:1" ; Times: 2
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Naso vomer" ; Times: 2
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "Naso literatus" ; Times: 1
+	Query: "specificepithet:microphthalmus family:Cichlidae" ; Times: 2
+	Query: "ASUMZ" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Naso maculatus" ; Times: 2
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "acestrorhynchus isalineae" ; Times: 3
+	Query: "elf" ; Times: 2
+	Query: "360051" ; Times: 2
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "paracheirodon simulans" ; Times: 10
+	Query: "thermophilus" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "360352" ; Times: 1
+	Query: "Ctenochaetus magnus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "specificepithet:intermedia genus:Gila" ; Times: 1
+	Query: "USNM 386455" ; Times: 1
+	Query: "Naso fageni" ; Times: 3
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "245341" ; Times: 1
+	Query: "194699 usnm" ; Times: 1
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Naso caesius mappable:1" ; Times: 2
+	Query: "Naso mcdadei" ; Times: 2
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "Naso brachycentron mappable:1" ; Times: 2
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "usnm 390355" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "USNM 203405" ; Times: 5
+	Query: "Labeo rohita" ; Times: 1
+	Query: "USNM 203406" ; Times: 3
+	Query: "catalognumber:368108 institutioncode:USNM" ; Times: 2
+	Query: "Dentatherina" ; Times: 1
+	Query: "specificepithet:grammodes family:Cichlidae" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Barbodes binotatus" ; Times: 1
+	Query: "Acanthurus polyzona" ; Times: 2
+	Query: "Acanthurus chronixis" ; Times: 3
+	Query: "unicorn" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "88765" ; Times: 1
+	Query: "earhart" ; Times: 1
+	Query: "Acanthurus leucocheilus" ; Times: 3
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Naso literatus mappable:1" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 4
+	Query: "Hyphessobrycon columbianus" ; Times: 1
+	Query: "Zebrasoma gemmatum" ; Times: 3
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Zebrasoma desjardinii" ; Times: 3
+	Query: "Naso caesius" ; Times: 2
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Ctenochaetus flavicauda" ; Times: 2
+	Query: "Hepatus aquilinus" ; Times: 1
+	Query: "Naso vomer mappable:1" ; Times: 2
+	Query: "326981" ; Times: 1
+	Query: "Ctenochaetus hawaiiensis" ; Times: 2
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "Acanthurus bariene mappable:1" ; Times: 7
+	Query: "49503" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Acanthurus maculiceps mappable:1" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "Robinsia" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Oxynotus" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Acanthurus tennentii" ; Times: 2
+	Query: "Naso minor" ; Times: 2
+	Query: "Acanthurus tristis" ; Times: 3
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "Ctenochaetus magnus mappable:1" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "specificepithet:guttulatus family:Cichlidae" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "229846" ; Times: 1
+	Query: "299226" ; Times: 1
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "Hepatus nubilus" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "freshwater fish washington state" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "catalognumber:349998 institutioncode:USNM" ; Times: 3
+	Query: "2795 institutioncode:USNM" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "catalognumber:388806 institutioncode:USNM" ; Times: 1
+	Query: "Naso thynnoides mappable:1" ; Times: 3
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "catalognumber:368215 institutioncode:USNM" ; Times: 2
+	Query: "Prionurus scalprum" ; Times: 2
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "vandellia beccarii" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "vandellia sanguinea" ; Times: 1
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "Acanthurus coerulus mappable:1" ; Times: 2
+	Query: "Zebrasoma velifer" ; Times: 3
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "catalognumber:78 institutioncode:USNM" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "catalognumber:368280 institutioncode:USNM" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Tridensimilis venezuelae" ; Times: 1
+	Query: "Acanthurus tractus" ; Times: 2
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "Ctenochaetus cyanoguttatus mappable:1" ; Times: 2
+	Query: "zmuc" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Acanthurus triostegus marquesensis" ; Times: 1
+	Query: "Labrichthys unilineatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1169 download events in this period)
+Total number of records downloaded: 1258
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "eno river" ; Times: 1
+	Query: "blue gill fish" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "paracheirodon simulans" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "&#34;Paracheirodon simulans&#34;" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "elephant" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "moose" ; Times: 1
+	Query: "Robinsia" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "gadus hasmedia:1" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
