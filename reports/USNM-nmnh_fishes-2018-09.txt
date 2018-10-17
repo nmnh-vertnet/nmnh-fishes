@@ -1,0 +1,370 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 381
+Number of records retrieved in searches: 3208
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 8
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 31
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 261
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Colombia ; Times: 5
+	Country: Belgium ; Times: 16
+	Country: China ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 20
+	Date: 2018-09-05 ; Times: 20
+	Date: 2018-09-24 ; Times: 21
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 18
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-06 ; Times: 13
+	Date: 2018-09-21 ; Times: 16
+	Date: 2018-09-22 ; Times: 5
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 14
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 10
+	Date: 2018-09-10 ; Times: 17
+	Date: 2018-09-13 ; Times: 47
+	Date: 2018-09-12 ; Times: 9
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 9
+	Date: 2018-09-16 ; Times: 9
+	Date: 2018-09-19 ; Times: 21
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 11
+	Date: 2018-09-27 ; Times: 21
+	Date: 2018-09-20 ; Times: 72
+	Date: 2018-09-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptostomias longibarba" ; Times: 1
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Astronesthes caulophorus" ; Times: 1
+	Query: "USNM 7761" ; Times: 1
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "lochites" ; Times: 1
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "278934" ; Times: 3
+	Query: "hutia" ; Times: 1
+	Query: "locality:Diomede country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "astyanax cave" ; Times: 1
+	Query: "hypostomus pagei" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "Double Mountain Fork" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "287944" ; Times: 1
+	Query: "Astronesthes illuminatus" ; Times: 1
+	Query: "USNM 3090" ; Times: 1
+	Query: "Isogomphodon oxyrhynchus" ; Times: 1
+	Query: "gasterosteus california &#34;san luis obispo&#34; vntype:specimen" ; Times: 1
+	Query: "287943" ; Times: 4
+	Query: "gambusia dominicensis" ; Times: 1
+	Query: "Sarotherodon tournieri" ; Times: 1
+	Query: "279843" ; Times: 1
+	Query: "Ichthyococcus polli" ; Times: 1
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Photonectes achirus" ; Times: 1
+	Query: "Astronesthes lamellosus" ; Times: 1
+	Query: "278942" ; Times: 1
+	Query: "278943" ; Times: 3
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "278944" ; Times: 1
+	Query: "Astronesthes dupliglandis" ; Times: 1
+	Query: "a. kupfer" ; Times: 1
+	Query: "kasa" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "116396" ; Times: 1
+	Query: "ukpam" ; Times: 1
+	Query: "lipogenys" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "278439" ; Times: 1
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "Photonectes caerulescens" ; Times: 1
+	Query: "Grammatostomias flagellibarba" ; Times: 1
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "Potamotrygon schuhmacheri" ; Times: 2
+	Query: "Astronesthes lucibucca" ; Times: 1
+	Query: "Photonectes cornutus" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "Pycnomma semisquamatum" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "gasterosteus california &#34;carmel&#34; vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;New Jersey&#34; recordedby:Stone" ; Times: 1
+	Query: "hypostomus oculeus" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "saccopharynx" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "Astronesthes neopogon" ; Times: 1
+	Query: "246221" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "Melanostomias tentaculatus" ; Times: 1
+	Query: "dekeyseria amazonica" ; Times: 1
+	Query: "287493" ; Times: 3
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "Constanta" ; Times: 1
+	Query: "287394" ; Times: 1
+	Query: "Photonectes munificus" ; Times: 1
+	Query: "potamotrygon signata" ; Times: 5
+	Query: "catalognumber:167291 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:phaeus genus:Noturus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Polymetme elongata" ; Times: 4
+	Query: "Woodsia meyerwaardeni" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "117643" ; Times: 2
+	Query: "hoplias aimara" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "falkner" ; Times: 2
+	Query: "Kennerly country:&#34;Mexico&#34; institutioncode:USNM" ; Times: 1
+	Query: "Chauliodus schmidti" ; Times: 1
+	Query: "Henicorhynchus lobatus" ; Times: 1
+	Query: "catalognumber:1285 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:154553 institutioncode:USNM" ; Times: 1
+	Query: "institutioncode:USNM haslength:1" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "259059" ; Times: 2
+	Query: "391084" ; Times: 1
+	Query: "Rimicola muscarum" ; Times: 1
+	Query: "Polymetme andriashevi" ; Times: 2
+	Query: "249059" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Astronesthes macropogon" ; Times: 1
+	Query: "catalognumber:199005 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "278493" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "246255" ; Times: 1
+	Query: "Melanostomias paucilaternatus" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "tribulosus" ; Times: 1
+	Query: "Melanostomias stewarti" ; Times: 1
+	Query: "leprus" ; Times: 1
+	Query: "Melanostomias macrophotus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "Melanostomias globulifer" ; Times: 1
+	Query: "249095" ; Times: 1
+	Query: "259095" ; Times: 1
+	Query: "elassodiscus" ; Times: 1
+	Query: "Talismania homoptera" ; Times: 2
+	Query: "Peckoltia brevis" ; Times: 1
+	Query: "Muraena melanotis" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "catalognumber:236478 institutioncode:USNM" ; Times: 2
+	Query: "eureka genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "Bathophilus vaillanti" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Astronesthes decoratus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "hypostomus corantijni" ; Times: 1
+	Query: "Guentherus altivela" ; Times: 1
+	Query: "Astronesthes oligoa" ; Times: 6
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "Leptostomias bilobatus" ; Times: 1
+	Query: "usnm 1282" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Astronesthes indopacificus" ; Times: 1
+	Query: "catalognumber:342300" ; Times: 1
+	Query: "lupinus" ; Times: 4
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "catalognumber:1348 institutioncode:USNM" ; Times: 1
+	Query: "bothrops mexico" ; Times: 1
+	Query: "Photonectes dinema" ; Times: 1
+	Query: "Astronesthes galapagensis" ; Times: 4
+	Query: "Melanostomias vierecki" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "Photonectes mirabilis" ; Times: 1
+	Query: "catalognumber:199009 institutioncode:USNM" ; Times: 1
+	Query: "gasterosteus california &#34;garcia&#34; vntype:specimen" ; Times: 2
+	Query: "Lampanyctus macdonaldi" ; Times: 2
+	Query: "Peckoltia vittata" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 1
+	Query: "Astronesthes chrysophekadion" ; Times: 1
+	Query: "Kennerly stateprovince:&#34;texas&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "m. A. Smith institutioncode:USNM" ; Times: 1
+	Query: "kupfer" ; Times: 1
+	Query: "white shark" ; Times: 13
+	Query: "Bathophilus novicki" ; Times: 2
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "247643" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "SFC 10" ; Times: 1
+	Query: "Saltator institutioncode:USNM" ; Times: 3
+	Query: "Astronesthes psychrolutes" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "Peckoltia cavatica" ; Times: 1
+	Query: "Idiacanthus atlanticus" ; Times: 1
+	Query: "Bathophilus altipinnis" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "genus:Mirolabrichthys specificepithet:dispar" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "Opostomias micripnus" ; Times: 1
+	Query: "calopteryx" ; Times: 1
+	Query: "catalognumber:382398" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 2
+	Query: "99925" ; Times: 1
+	Query: "212301" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "Astronesthes leucopogon" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "Astronesthes atlanticus" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "locality:Corinto" ; Times: 3
+	Query: "246225" ; Times: 2
+	Query: "catalognumber:321845 institutioncode:USNM" ; Times: 2
+	Query: "249088" ; Times: 1
+	Query: "lythrypnus pulchellus" ; Times: 1
+	Query: "295059" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "acanthurus tractus" ; Times: 4
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "Potamotrygon yepezi" ; Times: 1
+	Query: "coryogalops anomolus" ; Times: 1
+	Query: "Photonectes phyllopogon" ; Times: 1
+	Query: "catalognumber:3185 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "noturus placidus" ; Times: 4
+	Query: "R 15654" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "Polymetme thaeocoryla" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "catalognumber:309473" ; Times: 1
+	Query: "catalognumber:199004 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:321846 institutioncode:USNM" ; Times: 2
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Adontosternarchus nebulosus" ; Times: 1
+	Query: "catalognumber:81413 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "Astronesthes zharovi" ; Times: 1
+	Query: "Paget Island" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 13
+	Query: "Astronesthes kreffti" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "hippocampus abdominalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 846 download events in this period)
+Total number of records downloaded: 655
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-20 ; Times: 14
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "locality:Diomede country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Astronesthes neopogon" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Bathophilus altipinnis" ; Times: 1
+	Query: "Astronesthes indopacificus" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "zetek" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Bathophilus novicki" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "locality:kolymsk" ; Times: 1
+	Query: "Astronesthes illuminatus" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Astronesthes zharovi" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Astronesthes kreffti" ; Times: 1
+	Query: "locality:kolyma" ; Times: 1
+	Query: "Astronesthes lucibucca" ; Times: 1
+
+
+End of report.
