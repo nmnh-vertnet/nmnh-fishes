@@ -1,0 +1,2744 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3933
+Number of records retrieved in searches: 76099
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: Canada ; Times: 7
+	Country: Unknown ; Times: 37
+	Country: France ; Times: 600
+	Country: Argentina ; Times: 9
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 15
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 8
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 2146
+	Country: New Zealand ; Times: 1020
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 9
+	Date: 2019-06-21 ; Times: 11
+	Date: 2019-06-22 ; Times: 6
+	Date: 2019-06-23 ; Times: 8
+	Date: 2019-06-24 ; Times: 29
+	Date: 2019-06-25 ; Times: 74
+	Date: 2019-06-08 ; Times: 5
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 36
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 30
+	Date: 2019-06-05 ; Times: 13
+	Date: 2019-06-02 ; Times: 535
+	Date: 2019-06-03 ; Times: 15
+	Date: 2019-06-01 ; Times: 87
+	Date: 2019-06-26 ; Times: 14
+	Date: 2019-06-27 ; Times: 530
+	Date: 2019-06-28 ; Times: 9
+	Date: 2019-06-29 ; Times: 9
+	Date: 2019-06-19 ; Times: 34
+	Date: 2019-06-18 ; Times: 9
+	Date: 2019-06-30 ; Times: 512
+	Date: 2019-06-15 ; Times: 5
+	Date: 2019-06-14 ; Times: 8
+	Date: 2019-06-17 ; Times: 5
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 1207
+	Date: 2019-06-10 ; Times: 698
+	Date: 2019-06-13 ; Times: 17
+	Date: 2019-06-12 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 1
+	Query: "genus:Dicrolene specificepithet:introniger" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:rugosus" ; Times: 2
+	Query: "genus:Myoxocephalus specificepithet:scorpius" ; Times: 1
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "genus:Leporinus specificepithet:nigrotaeniatus" ; Times: 1
+	Query: "genus:Tylerius specificepithet:spinosissimus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 2
+	Query: "genus:Gymnocanthus specificepithet:detrisus" ; Times: 1
+	Query: "genus:Satan specificepithet:eurystomus" ; Times: 1
+	Query: "genus:Cheilinus specificepithet:trilobatus" ; Times: 1
+	Query: "genus:Myleus specificepithet:setiger" ; Times: 1
+	Query: "genus:Artediellus specificepithet:ochotensis" ; Times: 1
+	Query: "Malacoraja senta" ; Times: 2
+	Query: "genus:Seriolina specificepithet:nigrofasciata" ; Times: 1
+	Query: "genus:Chirocentrus specificepithet:dorab" ; Times: 1
+	Query: "arius gagora" ; Times: 2
+	Query: "Squatina argentina" ; Times: 2
+	Query: "USNM 17294" ; Times: 1
+	Query: "Urotrygon reticulata" ; Times: 2
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "Emmelichthys" ; Times: 3
+	Query: "genus:Myoxocephalus specificepithet:niger" ; Times: 1
+	Query: "genus:Thalassophryne specificepithet:amazonica" ; Times: 1
+	Query: "genus:Serrivomer specificepithet:beanii" ; Times: 1
+	Query: "Carcharhinus perezii mappable:1" ; Times: 9
+	Query: "genus:Trinectes specificepithet:fonsecensis" ; Times: 1
+	Query: "genus:Ephippus specificepithet:orbis" ; Times: 1
+	Query: "genus:Syngnathoides specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Scaphiodonichthys specificepithet:burmanicus" ; Times: 1
+	Query: "genus:Dallia specificepithet:pectoralis" ; Times: 1
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "genus:Ellochelon specificepithet:vaigiensis" ; Times: 1
+	Query: "genus:Balitora specificepithet:brucei" ; Times: 1
+	Query: "genus:Antimora specificepithet:rostrata" ; Times: 1
+	Query: "genus:Sarritor specificepithet:leptorhynchus" ; Times: 1
+	Query: "genus:Pantodon specificepithet:buchholzi" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 9
+	Query: "genus:Triglops specificepithet:dorothy" ; Times: 1
+	Query: "genus:Racovitzia specificepithet:glacialis" ; Times: 1
+	Query: "genus:Heteropneustes specificepithet:fossilis" ; Times: 1
+	Query: "genus:Psychrolutes specificepithet:phrictus" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "genus:Norfolkia specificepithet:brachylepis" ; Times: 1
+	Query: "genus:Gadus specificepithet:morhua" ; Times: 1
+	Query: "genus:Rastrinus specificepithet:scutiger" ; Times: 1
+	Query: "genus:Hysterocarpus specificepithet:traskii" ; Times: 1
+	Query: "genus:Rutilus specificepithet:rutilus" ; Times: 1
+	Query: "genus:Oneirodes specificepithet:eschrichtii" ; Times: 1
+	Query: "genus:Cobitis specificepithet:sinensis" ; Times: 1
+	Query: "Squalus blainville" ; Times: 2
+	Query: "genus:Parablennius specificepithet:yatabei" ; Times: 2
+	Query: "genus:Gobiesox specificepithet:pinniger" ; Times: 1
+	Query: "genus:Callichthys specificepithet:callichthys" ; Times: 1
+	Query: "genus:Notropis specificepithet:ortenburgeri" ; Times: 1
+	Query: "151032" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:steindachneri" ; Times: 2
+	Query: "genus:Careproctus specificepithet:bowersianus" ; Times: 1
+	Query: "benthosema panamense" ; Times: 5
+	Query: "43054" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:gorbuscha" ; Times: 1
+	Query: "genus:Leptagonus specificepithet:decagonus" ; Times: 2
+	Query: "genus:Haploblepharus specificepithet:edwardsii" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "genus:Batrachoides specificepithet:liberiensis" ; Times: 1
+	Query: "genus:Hyperopisus specificepithet:bebe" ; Times: 1
+	Query: "genus:Hemilepidotus specificepithet:jordani" ; Times: 1
+	Query: "genus:Sarcocheilichthys specificepithet:variegatus" ; Times: 1
+	Query: "genus:Letharchus specificepithet:velifer" ; Times: 1
+	Query: "genus:Carinotetraodon specificepithet:lorteti" ; Times: 1
+	Query: "USNM 249667" ; Times: 1
+	Query: "genus:Buglossidium specificepithet:luteum" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:nephelus" ; Times: 1
+	Query: "genus:Selaroides specificepithet:leptolepis" ; Times: 1
+	Query: "genus:Amphistichus specificepithet:argenteus" ; Times: 1
+	Query: "USNM 130734" ; Times: 1
+	Query: "genus:Aristochromis specificepithet:christyi" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "GMBL 79-3" ; Times: 1
+	Query: "genus:Hexagrammos specificepithet:stelleri" ; Times: 1
+	Query: "genus:Vaillantella specificepithet:maassi" ; Times: 1
+	Query: "genus:Haplocylix specificepithet:littoreus" ; Times: 1
+	Query: "Mustelus higmani" ; Times: 2
+	Query: "genus:Paraliparis specificepithet:mento" ; Times: 1
+	Query: "genus:Hollardia specificepithet:hollardi" ; Times: 1
+	Query: "genus:Bodianus specificepithet:diana" ; Times: 1
+	Query: "genus:Lepadogaster specificepithet:lepadogaster" ; Times: 2
+	Query: "genus:Mola specificepithet:mola" ; Times: 1
+	Query: "USNM 230073" ; Times: 2
+	Query: "genus:Bujurquina specificepithet:syspilus" ; Times: 1
+	Query: "Heteroscymnoides marleyi" ; Times: 2
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "Urobatis concentricus" ; Times: 2
+	Query: "Gymnura crebripunctata" ; Times: 2
+	Query: "genus:Chapalichthys specificepithet:encaustus" ; Times: 1
+	Query: "genus:Poropuntius specificepithet:normani" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "genus:Rhabdolichops specificepithet:eastwardi" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "genus:Batrachocottus specificepithet:talievi" ; Times: 1
+	Query: "genus:Lepidogobius specificepithet:lepidus" ; Times: 1
+	Query: "genus:Oxylebius specificepithet:pictus" ; Times: 1
+	Query: "genus:Algansea specificepithet:monticola" ; Times: 1
+	Query: "genus:Coradion specificepithet:chrysozonus" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:dactylosus" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 9
+	Query: "genus:Acropoma specificepithet:japonicum" ; Times: 1
+	Query: "genus:Oligocottus specificepithet:maculosus" ; Times: 2
+	Query: "Dipturus gigas" ; Times: 2
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "genus:Ctenogobius specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Cottus specificepithet:pitensis" ; Times: 2
+	Query: "genus:Discotrema specificepithet:crinophilum" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:rivasi" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 4
+	Query: "Bathyraja eatonii" ; Times: 2
+	Query: "genus:Macropodus specificepithet:opercularis" ; Times: 1
+	Query: "genus:Albatrossia specificepithet:pectoralis" ; Times: 1
+	Query: "Anacanthobatis folirostris" ; Times: 2
+	Query: "genus:Furcina specificepithet:osimae" ; Times: 1
+	Query: "genus:Liparis specificepithet:cyclopus" ; Times: 1
+	Query: "genus:Bellapiscis specificepithet:medius" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 2
+	Query: "genus:Parachaeturichthys specificepithet:polynema" ; Times: 1
+	Query: "Narcine leoparda" ; Times: 2
+	Query: "Emblemaria pandionis mappable:1" ; Times: 9
+	Query: "genus:Neomerinthe specificepithet:hemingwayi" ; Times: 1
+	Query: "genus:Hybopsis specificepithet:amblops" ; Times: 1
+	Query: "genus:Labeo specificepithet:chrysophekadion" ; Times: 1
+	Query: "Right whale" ; Times: 1
+	Query: "USNM 250905" ; Times: 1
+	Query: "genus:Chiloscyllium specificepithet:plagiosum" ; Times: 1
+	Query: "Benthobatis marcida" ; Times: 2
+	Query: "USNM 213415" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 2
+	Query: "genus:Chatrabus specificepithet:melanurus" ; Times: 1
+	Query: "genus:Crystallias specificepithet:matsushimae" ; Times: 1
+	Query: "genus:Notropis specificepithet:ariommus" ; Times: 1
+	Query: "genus:Vellitor specificepithet:minutus" ; Times: 1
+	Query: "genus:Clupea specificepithet:pallasii" ; Times: 1
+	Query: "genus:Saurenchelys specificepithet:cognita" ; Times: 2
+	Query: "genus:Auchenionchus specificepithet:variolosus" ; Times: 1
+	Query: "genus:Parachanna specificepithet:obscura" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Carolina NOT Canada NOT Solomon" ; Times: 1
+	Query: "Rhinochimaera atlantica" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "genus:Axoclinus specificepithet:nigricaudus" ; Times: 1
+	Query: "genus:Amphichthys specificepithet:cryptocentrus" ; Times: 1
+	Query: "Fenestraja cubensis" ; Times: 2
+	Query: "genus:Narke specificepithet:dipterygia" ; Times: 1
+	Query: "genus:Hypsagonus specificepithet:corniger" ; Times: 1
+	Query: "genus:Hypsoblennius specificepithet:robustus" ; Times: 1
+	Query: "genus:Cubanichthys specificepithet:cubensis" ; Times: 1
+	Query: "Stephens AND Island AND California NOT ICH NOT Alaska NOT Whidbey" ; Times: 1
+	Query: "genus:Argyropelecus specificepithet:affinis" ; Times: 1
+	Query: "genus:Hemimyzon specificepithet:formosanus" ; Times: 1
+	Query: "Urotrygon chilensis" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 2
+	Query: "genus:Neobythites specificepithet:gilli" ; Times: 2
+	Query: "genus:Compsaraia specificepithet:samueli" ; Times: 1
+	Query: "genus:Cirrhilabrus specificepithet:exquisitus" ; Times: 1
+	Query: "USNM 28469" ; Times: 3
+	Query: "genus:Schismatorhynchos specificepithet:heterorhynchos" ; Times: 1
+	Query: "genus:Glyptothorax specificepithet:buchanani" ; Times: 1
+	Query: "genus:Cynotilapia specificepithet:afra" ; Times: 1
+	Query: "genus:Mekongina specificepithet:erythrospila" ; Times: 1
+	Query: "genus:Makaira specificepithet:nigricans" ; Times: 1
+	Query: "genus:Artediellus specificepithet:uncinatus" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "genus:Notropis specificepithet:cornutus" ; Times: 1
+	Query: "genus:Aplocheilus specificepithet:panchax" ; Times: 1
+	Query: "Hemiscyllium henryi" ; Times: 2
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "genus:Nematalosa specificepithet:come" ; Times: 2
+	Query: "genus:Zu specificepithet:cristatus" ; Times: 1
+	Query: "genus:Otocinclus specificepithet:vittatus" ; Times: 1
+	Query: "genus:Chalceus specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Odonus specificepithet:niger" ; Times: 1
+	Query: "genus:Sebastes specificepithet:maliger" ; Times: 1
+	Query: "genus:Opisthopterus specificepithet:tardoore" ; Times: 1
+	Query: "genus:Orthosternarchus specificepithet:tamandua" ; Times: 1
+	Query: "genus:Chaenocephalus specificepithet:aceratus" ; Times: 1
+	Query: "genus:Microcanthus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:crockeri" ; Times: 1
+	Query: "genus:Batrachoides specificepithet:surinamensis" ; Times: 1
+	Query: "217680" ; Times: 2
+	Query: "genus:Serrasalmus specificepithet:spilopleura" ; Times: 1
+	Query: "Neoharriotta carri" ; Times: 2
+	Query: "genus:Bregmaceros specificepithet:mcclellandi" ; Times: 1
+	Query: "genus:Goeldiella specificepithet:eques" ; Times: 1
+	Query: "genus:Epalzeorhynchos specificepithet:kalopterus" ; Times: 1
+	Query: "genus:Gymnachirus specificepithet:melas" ; Times: 1
+	Query: "genus:Pseudoblennius specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:bifidus" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Diplobatis ommata" ; Times: 2
+	Query: "genus:Eumicrotremus specificepithet:phrynoides" ; Times: 1
+	Query: "genus:Arapaima specificepithet:gigas" ; Times: 1
+	Query: "genus:Arothron specificepithet:immaculatus" ; Times: 1
+	Query: "genus:Diplobatis specificepithet:pictus" ; Times: 1
+	Query: "genus:Oxyropsis specificepithet:wrightiana" ; Times: 1
+	Query: "genus:Balitora specificepithet:burmanica" ; Times: 1
+	Query: "genus:Takifugu specificepithet:oblongus" ; Times: 1
+	Query: "genus:Chesnonia specificepithet:verrucosa" ; Times: 1
+	Query: "genus:Monacanthus specificepithet:ciliatus" ; Times: 2
+	Query: "Coryphopterus hyalinus mappable:1" ; Times: 8
+	Query: "genus:Aphos specificepithet:porosus" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "genus:Luciosoma specificepithet:setigerum" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 9
+	Query: "genus:Lepidocephalichthys specificepithet:hasselti" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 2
+	Query: "genus:Myxodes specificepithet:cristatus" ; Times: 1
+	Query: "Psammobatis scobina" ; Times: 2
+	Query: "genus:Oedalechilus specificepithet:labiosus" ; Times: 1
+	Query: "genus:Neoclinus specificepithet:stephensae" ; Times: 1
+	Query: "genus:Colomesus specificepithet:tocantinensis" ; Times: 1
+	Query: "&#34;J. King&#34; AND Island" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:brevis" ; Times: 2
+	Query: "Coryphopterus personatus mappable:1" ; Times: 8
+	Query: "Dodo" ; Times: 1
+	Query: "genus:Batrachoides specificepithet:pacifici" ; Times: 1
+	Query: "Ogilbichthys microphthalmus mappable:1" ; Times: 9
+	Query: "genus:Typhlichthys specificepithet:subterraneus" ; Times: 1
+	Query: "genus:Aulostomus specificepithet:chinensis" ; Times: 1
+	Query: "genus:Myleus specificepithet:schomburgkii" ; Times: 1
+	Query: "Howella atlantica" ; Times: 3
+	Query: "Pristiophorus lanae" ; Times: 2
+	Query: "genus:Canthigaster specificepithet:amboinensis" ; Times: 1
+	Query: "Rajella bigelowi" ; Times: 2
+	Query: "genus:Arcos specificepithet:erythrops" ; Times: 1
+	Query: "genus:Gillellus specificepithet:searcheri" ; Times: 1
+	Query: "genus:Plesiops specificepithet:nigricans" ; Times: 1
+	Query: "genus:Melanocharacidium specificepithet:blennioides" ; Times: 1
+	Query: "genus:Eurypegasus specificepithet:papilio" ; Times: 1
+	Query: "genus:Ptychocheilus specificepithet:grandis" ; Times: 1
+	Query: "genus:Ahliesaurus specificepithet:berryi" ; Times: 1
+	Query: "genus:Isichthys specificepithet:henryi" ; Times: 1
+	Query: "genus:Anarhichas specificepithet:orientalis" ; Times: 1
+	Query: "genus:Prochilodus specificepithet:nigricans" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "genus:Synodontis specificepithet:clarias" ; Times: 1
+	Query: "genus:Epibulus specificepithet:insidiator" ; Times: 1
+	Query: "Carcharhinus isodon" ; Times: 2
+	Query: "genus:Trachonurus specificepithet:villosus" ; Times: 1
+	Query: "Schroederichthys tenuis" ; Times: 2
+	Query: "genus:Sicyopterus specificepithet:stimpsoni" ; Times: 1
+	Query: "Cyprinodon salinus" ; Times: 1
+	Query: "genus:Sardinella specificepithet:albella" ; Times: 1
+	Query: "genus:Brevimyrus specificepithet:niger" ; Times: 1
+	Query: "genus:Trematomus specificepithet:newnesi" ; Times: 1
+	Query: "genus:Gobionotothen specificepithet:gibberifrons" ; Times: 1
+	Query: "genus:Paracaesio" ; Times: 3
+	Query: "genus:Vanmanenia" ; Times: 1
+	Query: "231852" ; Times: 1
+	Query: "Halichoeres garnoti mappable:1" ; Times: 2
+	Query: "44785" ; Times: 1
+	Query: "genus:Balistapus specificepithet:undulatus" ; Times: 1
+	Query: "genus:Argyrocottus specificepithet:zanderi" ; Times: 1
+	Query: "genus:Osteochilus specificepithet:melanopleurus" ; Times: 1
+	Query: "genus:Aspasmichthys specificepithet:ciconiae" ; Times: 1
+	Query: "genus:Cirrhilabrus specificepithet:punctatus" ; Times: 1
+	Query: "USNM 193113" ; Times: 1
+	Query: "genus:Morone specificepithet:americana" ; Times: 1
+	Query: "genus:Chloroscombrus specificepithet:chrysurus" ; Times: 1
+	Query: "genus:Pteroplatytrygon specificepithet:violacea" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:lobatus" ; Times: 1
+	Query: "genus:Porotergus specificepithet:gymnotus" ; Times: 1
+	Query: "genus:Macroramphosus specificepithet:scolopax" ; Times: 1
+	Query: "genus:Roeboides specificepithet:guatemalensis" ; Times: 1
+	Query: "Aetomylaeus milvus" ; Times: 2
+	Query: "Neoniphon marianus mappable:1" ; Times: 2
+	Query: "genus:Hemilepidotus specificepithet:zapus" ; Times: 1
+	Query: "genus:Hypoptychus specificepithet:dybowskii" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:nerka" ; Times: 1
+	Query: "genus:Sebastes specificepithet:aleutianus" ; Times: 1
+	Query: "122559" ; Times: 1
+	Query: "genus:Hoplomyzon specificepithet:atrizona" ; Times: 1
+	Query: "Mustelus sinusmexicanus" ; Times: 2
+	Query: "genus:Coccorella specificepithet:atrata" ; Times: 1
+	Query: "genus:Cirrhilabrus specificepithet:cyanopleura" ; Times: 1
+	Query: "Apogon binotatus mappable:1" ; Times: 4
+	Query: "genus:Notropis specificepithet:suttkusi" ; Times: 1
+	Query: "genus:Xenotoca specificepithet:variata" ; Times: 1
+	Query: "genus:Krefftichthys specificepithet:anderssoni" ; Times: 1
+	Query: "Calamopteryx goslinei mappable:1" ; Times: 9
+	Query: "genus:Rivulus specificepithet:robustus" ; Times: 1
+	Query: "genus:Profundulus specificepithet:punctatus" ; Times: 1
+	Query: "148624" ; Times: 1
+	Query: "Benthosema pterotum" ; Times: 13
+	Query: "genus:Barbus specificepithet:spurrelli" ; Times: 1
+	Query: "Paracheirodon simulans" ; Times: 2
+	Query: "genus:Icosteus specificepithet:aenigmaticus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 2
+	Query: "genus:Nimbochromis specificepithet:livingstonii" ; Times: 1
+	Query: "genus:Pherallodiscus specificepithet:funebris" ; Times: 1
+	Query: "callanthias legras" ; Times: 1
+	Query: "genus:Gobio specificepithet:gobio" ; Times: 1
+	Query: "genus:Leiocottus specificepithet:hirundo" ; Times: 1
+	Query: "71744" ; Times: 1
+	Query: "genus:Oreichthys specificepithet:parvus" ; Times: 1
+	Query: "Hemigaleus microstoma" ; Times: 2
+	Query: "genus:Argyropelecus specificepithet:olfersii" ; Times: 1
+	Query: "genus:Bathyagonus specificepithet:infraspinatus" ; Times: 1
+	Query: "genus:Notropis specificepithet:albizonatus" ; Times: 1
+	Query: "genus:Barbus specificepithet:chlorotaenia" ; Times: 1
+	Query: "genus:Bothrocara specificepithet:brunneum" ; Times: 1
+	Query: "genus:Pristobrycon specificepithet:striolatus" ; Times: 1
+	Query: "catalognumber:121855 institutioncode:USNM" ; Times: 2
+	Query: "genus:Notoclinops specificepithet:segmentatus" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 2
+	Query: "genus:Herklotsichthys specificepithet:castelnaui" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Bathyagonus specificepithet:nigripinnis" ; Times: 1
+	Query: "Pastinachus ater" ; Times: 2
+	Query: "genus:Diademichthys specificepithet:lineatus" ; Times: 2
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 2
+	Query: "genus:Phthanophaneron specificepithet:harveyi" ; Times: 1
+	Query: "genus:Xyelacyba specificepithet:myersi" ; Times: 1
+	Query: "Squatina guggenheim" ; Times: 2
+	Query: "genus:Luxilus specificepithet:coccogenis" ; Times: 1
+	Query: "Etmopterus brachyurus" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:longa" ; Times: 2
+	Query: "genus:Chaenopsis specificepithet:alepidota" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:marginatus" ; Times: 1
+	Query: "genus:Labeo specificepithet:longipinnis" ; Times: 1
+	Query: "Raja texana" ; Times: 2
+	Query: "Kryptophanaron alfredi mappable:1" ; Times: 4
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 2
+	Query: "USNM 29926" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "USNM 29922" ; Times: 2
+	Query: "genus:Heteroconger specificepithet:longissimus" ; Times: 1
+	Query: "genus:Atopocottus specificepithet:tribranchius" ; Times: 1
+	Query: "genus:Enchelynassa specificepithet:canina" ; Times: 1
+	Query: "genus:Malacocottus specificepithet:kincaidi" ; Times: 1
+	Query: "genus:Artediellus specificepithet:ingens" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "genus:Couesius specificepithet:plumbeus" ; Times: 1
+	Query: "genus:Exoglossum specificepithet:laurae" ; Times: 1
+	Query: "genus:Barbus specificepithet:macrops" ; Times: 1
+	Query: "genus:Rhinecanthus specificepithet:verrucosus" ; Times: 1
+	Query: "genus:Contusus specificepithet:richei" ; Times: 1
+	Query: "Raja asterias" ; Times: 2
+	Query: "genus:Thyriscus specificepithet:anoplus" ; Times: 1
+	Query: "genus:Clinocottus specificepithet:embryum" ; Times: 1
+	Query: "genus:Pterothrissus specificepithet:belloci" ; Times: 1
+	Query: "genus:Omobranchus specificepithet:punctatus" ; Times: 1
+	Query: "Galeus antillensis" ; Times: 3
+	Query: "genus:Peronedys specificepithet:anguillaris" ; Times: 1
+	Query: "Glaucostegus granulatus" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:maculipinna" ; Times: 1
+	Query: "Raja bahamensis" ; Times: 2
+	Query: "genus:Escualosa specificepithet:thoracata" ; Times: 1
+	Query: "genus:Barbucca specificepithet:diabolica" ; Times: 1
+	Query: "Aetomylaeus maculatus" ; Times: 2
+	Query: "genus:Lepophidium specificepithet:profundorum" ; Times: 1
+	Query: "genus:Macrhybopsis specificepithet:gelida" ; Times: 1
+	Query: "genus:Scaphirhynchus specificepithet:platorynchus" ; Times: 1
+	Query: "genus:Notropis specificepithet:spectrunculus" ; Times: 1
+	Query: "Scyliorhinus meadi" ; Times: 2
+	Query: "Etmopterus robinsi" ; Times: 2
+	Query: "genus:Pterophyllum specificepithet:scalare" ; Times: 1
+	Query: "genus:Serrabrycon specificepithet:magoi" ; Times: 1
+	Query: "Dipturus teevani" ; Times: 2
+	Query: "USNM 418517" ; Times: 1
+	Query: "genus:Dibranchus specificepithet:atlanticus" ; Times: 1
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 2
+	Query: "usnm 336077" ; Times: 1
+	Query: "usnm 336076" ; Times: 1
+	Query: "usnm 336075" ; Times: 1
+	Query: "genus:Betta specificepithet:picta" ; Times: 1
+	Query: "Parmaturus campechiensis" ; Times: 2
+	Query: "genus:Gila specificepithet:coerulea " ; Times: 1
+	Query: "genus:Centroscyllium specificepithet:fabricii" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:maeandricus" ; Times: 1
+	Query: "genus:Ichthyborus specificepithet:besse" ; Times: 1
+	Query: "genus:Barathrites specificepithet:iris" ; Times: 1
+	Query: "Etmopterus bullisi" ; Times: 2
+	Query: "71119 fish" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "Leucoraja naevus" ; Times: 2
+	Query: "Raja inornata" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:marginatus" ; Times: 1
+	Query: "genus:Stlengis specificepithet:osensis" ; Times: 1
+	Query: "genus:Prognichthys specificepithet:gibbifrons" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Isistius plutodus" ; Times: 2
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "genus:Liparis specificepithet:pulchellus" ; Times: 1
+	Query: "genus:Richardsonius specificepithet:egregius" ; Times: 1
+	Query: "genus:Icelus specificepithet:bicornis" ; Times: 1
+	Query: "genus:Aspasmodes specificepithet:briggsi" ; Times: 1
+	Query: "Bathyraja brachyurops" ; Times: 2
+	Query: "Carcharhinus amblyrhynchoides" ; Times: 2
+	Query: "genus:Heteristius specificepithet:cinctus" ; Times: 1
+	Query: "genus:Oxynotus specificepithet:centrina" ; Times: 1
+	Query: "genus:Homaloptera specificepithet:rupicola" ; Times: 3
+	Query: "catalognumber:130698" ; Times: 3
+	Query: "genus:Taeniacara specificepithet:candidi" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 9
+	Query: "Squatina armata" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:hankinsoni" ; Times: 1
+	Query: "myrophis punctatus florida usnm" ; Times: 1
+	Query: "genus:Stephanolepis specificepithet:hispidus" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "genus:Agonopsis specificepithet:chiloensis" ; Times: 2
+	Query: "genus:Cottus specificepithet:echinatus" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "genus:Polymixia specificepithet:lowei" ; Times: 1
+	Query: "Fenestraja atripinna" ; Times: 2
+	Query: "genus:Tropheus" ; Times: 1
+	Query: "USNM 65172" ; Times: 1
+	Query: "usnm 18052" ; Times: 1
+	Query: "genus:Dussumieria specificepithet:acuta" ; Times: 1
+	Query: "genus:Diplecogaster specificepithet:bimaculata" ; Times: 1
+	Query: "genus:Stlengis specificepithet:misakia" ; Times: 1
+	Query: "genus:Leuciscus specificepithet:leuciscus" ; Times: 1
+	Query: "genus:Hyperoplus specificepithet:lanceolatus" ; Times: 1
+	Query: "genus:Lethrinus specificepithet:nebulosus" ; Times: 1
+	Query: "genus:Moenkhausia specificepithet:melogramma" ; Times: 1
+	Query: "USNM 42091" ; Times: 1
+	Query: "genus:Cryptichthys specificepithet:jojettae" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:hancocki" ; Times: 1
+	Query: "genus:Pseudaspius specificepithet:leptocephalus" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:deani" ; Times: 1
+	Query: "genus:Dionda specificepithet:argentosa" ; Times: 1
+	Query: "genus:Artedius specificepithet:fenestralis" ; Times: 2
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 2
+	Query: "genus:Haemulon specificepithet:macrostomum" ; Times: 1
+	Query: "genus:Howella specificepithet:brodiei" ; Times: 1
+	Query: "genus:Notropis specificepithet:saladonis" ; Times: 1
+	Query: "Mitsukurina owstoni" ; Times: 4
+	Query: "genus:Barbus specificepithet:oligolepis" ; Times: 1
+	Query: "genus:Dionda specificepithet:episcopa" ; Times: 1
+	Query: "genus:Cranoglanis" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 9
+	Query: "Gymnura japonica" ; Times: 2
+	Query: "genus:Lophiodes specificepithet:mutilus" ; Times: 1
+	Query: "genus:Bolinichthys specificepithet:longipes" ; Times: 1
+	Query: "NMW" ; Times: 1
+	Query: "genus:Phenacobius specificepithet:catostomus" ; Times: 1
+	Query: "genus:Konia specificepithet:eisentrauti" ; Times: 1
+	Query: "genus:Rhacochilus specificepithet:toxotes" ; Times: 1
+	Query: "genus:Argyripnus specificepithet:ephippiatus" ; Times: 1
+	Query: "genus:Stethojulis specificepithet:interrupta" ; Times: 1
+	Query: "genus:Barbus specificepithet:paludinosus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:randalli" ; Times: 1
+	Query: "Sympterygia lima" ; Times: 2
+	Query: "genus:Hippocampus specificepithet:reidi" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:margaritaceus" ; Times: 1
+	Query: "genus:Synanceia specificepithet:verrucosa" ; Times: 1
+	Query: "Apristurus stenseni" ; Times: 2
+	Query: "Glaucostegus typus" ; Times: 2
+	Query: "genus:Hemibarbus specificepithet:labeo" ; Times: 1
+	Query: "genus:Urotrygon specificepithet:venezuelae" ; Times: 1
+	Query: "genus:Neoclinus specificepithet:lacunicola" ; Times: 1
+	Query: "genus:Mastacembelus specificepithet:aviceps" ; Times: 2
+	Query: "genus:Careproctus specificepithet:cypselurus" ; Times: 1
+	Query: "Chimaera opalescens" ; Times: 2
+	Query: "genus:Cottiusculus specificepithet:schmidti" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:humboldtii" ; Times: 2
+	Query: "genus:Sargocentron specificepithet:spiniferum" ; Times: 1
+	Query: "genus:Pygopristis specificepithet:denticulata" ; Times: 1
+	Query: "53753" ; Times: 2
+	Query: "53973" ; Times: 1
+	Query: "genus:Thynnichthys specificepithet:thynnoides" ; Times: 1
+	Query: "catalognumber:100492 institutioncode:USNM" ; Times: 2
+	Query: "USNM 192697" ; Times: 1
+	Query: "genus:Danaphryne specificepithet:nigrifilis" ; Times: 1
+	Query: "genus:Galeus specificepithet:springeri" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Barchatus specificepithet:indicus" ; Times: 1
+	Query: "genus:Psychrolutes specificepithet:paradoxus" ; Times: 1
+	Query: "genus:Apocryptes specificepithet:bato" ; Times: 1
+	Query: "genus:Bathygobius specificepithet:soporator" ; Times: 1
+	Query: "Etmopterus villosus" ; Times: 2
+	Query: "genus:Ctenopharyngodon specificepithet:idella" ; Times: 1
+	Query: "genus:Cyclichthys specificepithet:orbicularis" ; Times: 1
+	Query: "genus:Apsilus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Etmopterus schultzi" ; Times: 2
+	Query: "Holohalaelurus regani" ; Times: 2
+	Query: "genus:Barbus specificepithet:jae" ; Times: 1
+	Query: "Dipturus crosnieri" ; Times: 2
+	Query: "genus:Sanopus specificepithet:reticulatus" ; Times: 1
+	Query: "Breviraja spinosa" ; Times: 2
+	Query: "albopunctata" ; Times: 1
+	Query: "genus:Iniistius specificepithet:dea" ; Times: 1
+	Query: "genus:Promyllantor specificepithet:purpureus" ; Times: 1
+	Query: "genus:Dolicholagus" ; Times: 1
+	Query: "Galeus arae" ; Times: 2
+	Query: "piabucus" ; Times: 1
+	Query: "genus:Sardinella specificepithet:lemuru" ; Times: 1
+	Query: "Parascyllium ferrugineum" ; Times: 2
+	Query: "genus:Barbus specificepithet:neumayeri" ; Times: 1
+	Query: "Rhizoprionodon lalandii" ; Times: 2
+	Query: "genus:Abudefduf specificepithet:sordidus" ; Times: 1
+	Query: "genus:Lepidosiren specificepithet:paradoxa" ; Times: 2
+	Query: "usnm 334581" ; Times: 1
+	Query: "genus:Elates specificepithet:ransonnettii" ; Times: 1
+	Query: "genus:Barbus specificepithet:werneri" ; Times: 1
+	Query: "genus:Gymnocanthus specificepithet:galeatus" ; Times: 1
+	Query: "genus:Poecilia specificepithet:reticulata" ; Times: 1
+	Query: "genus:Pervagor specificepithet:janthinosoma" ; Times: 1
+	Query: "Acanthemblemaria aspera mappable:1" ; Times: 9
+	Query: "Pseudotriakis microdon" ; Times: 2
+	Query: "genus:Hexagrammos specificepithet:decagrammus" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "genus:Catoprion specificepithet:mento" ; Times: 1
+	Query: "genus:Etelis specificepithet:oculatus" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 4
+	Query: "genus:Hampala specificepithet:macrolepidota" ; Times: 1
+	Query: "Hemiscyllium trispeculare" ; Times: 2
+	Query: "Rhinoptera steindachneri" ; Times: 2
+	Query: "genus:Vomeridens specificepithet:infuscipinnis" ; Times: 1
+	Query: "Gurgesiella atlantica" ; Times: 2
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 8
+	Query: "Brachyplatystoma filamentosum" ; Times: 1
+	Query: "genus:Simpsonichthys specificepithet:constanciae" ; Times: 1
+	Query: "genus:Eurypegasus specificepithet:draconis" ; Times: 1
+	Query: "genus:Malacocottus specificepithet:zonurus" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "genus:Mystus specificepithet:gulio" ; Times: 1
+	Query: "genus:Liparis specificepithet:fabricii" ; Times: 1
+	Query: "genus:Opisthoproctus specificepithet:soleatus" ; Times: 1
+	Query: "genus:Paracirrhites specificepithet:forsteri" ; Times: 1
+	Query: "genus:Rhamphocottus specificepithet:richardsonii" ; Times: 2
+	Query: "genus:Ecsenius specificepithet:namiyei" ; Times: 2
+	Query: "genus:Nannothrissa specificepithet:parva" ; Times: 1
+	Query: "genus:Labidochromis specificepithet:caeruleus" ; Times: 1
+	Query: "genus:Amblypharyngodon specificepithet:mola" ; Times: 1
+	Query: "genus:Hemilepidotus specificepithet:spinosus" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 9
+	Query: "catalognumber:163762 institutioncode:USNM" ; Times: 2
+	Query: "genus:Alepidomus specificepithet:evermanni" ; Times: 1
+	Query: "genus:Aspidophoroides specificepithet:monopterygius" ; Times: 2
+	Query: "genus:Tomicodon specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Notropis specificepithet:photogenis" ; Times: 1
+	Query: "Carcharhinus cerdale" ; Times: 2
+	Query: "genus:Hemitripterus specificepithet:villosus" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "genus:Leptolucania specificepithet:ommata" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:polyacanthocephalus" ; Times: 1
+	Query: "genus:Cirrhilabrus specificepithet:scottorum" ; Times: 1
+	Query: "genus:Bathypterois specificepithet:quadrifilis" ; Times: 1
+	Query: "catalognumber:136891" ; Times: 1
+	Query: "107071" ; Times: 1
+	Query: "USNM 231675" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:melanochir" ; Times: 1
+	Query: "genus:Sternarchorhynchus specificepithet:mormyrus" ; Times: 1
+	Query: "Hydrolagus africanus" ; Times: 2
+	Query: "genus:Coryphaena specificepithet:hippurus" ; Times: 1
+	Query: "genus:Belonesox specificepithet:belizanus" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 2
+	Query: "genus:Barbus specificepithet:bynni" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 2
+	Query: "genus:Labroides specificepithet:dimidiatus" ; Times: 1
+	Query: "genus:Atule specificepithet:mate" ; Times: 1
+	Query: "Apristurus indicus" ; Times: 2
+	Query: "genus:Lagocephalus specificepithet:lunaris" ; Times: 1
+	Query: "genus:Allocareproctus specificepithet:ungak" ; Times: 1
+	Query: "genus:Tautoga specificepithet:onitis" ; Times: 1
+	Query: "Emblemariopsis bahamensis mappable:1" ; Times: 9
+	Query: "genus:Sardinella specificepithet:aurita" ; Times: 1
+	Query: "genus:Aulichthys specificepithet:japonicus" ; Times: 1
+	Query: "genus:Uraspis specificepithet:uraspis" ; Times: 1
+	Query: "Oxynotus caribbaeus" ; Times: 2
+	Query: "genus:Gobiesox specificepithet:lucayanus" ; Times: 1
+	Query: "Brycon amazonicus" ; Times: 1
+	Query: "genus:Acantholiparis specificepithet:opercularis" ; Times: 1
+	Query: "genus:Ophichthus specificepithet:rex" ; Times: 1
+	Query: "genus:Lophiocharon specificepithet:trisignatus" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "genus:Limnocottus specificepithet:godlewskii" ; Times: 1
+	Query: "genus:Cheirodontops specificepithet:geayi" ; Times: 1
+	Query: "genus:Diplectrum specificepithet:formosum" ; Times: 1
+	Query: "genus:Anampses specificepithet:geographicus" ; Times: 1
+	Query: "genus:Labrus specificepithet:viridis" ; Times: 1
+	Query: "genus:Nemacheilus specificepithet:pallidus" ; Times: 1
+	Query: "genus:Cottocomephorus specificepithet:grewingkii" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:iheringii" ; Times: 2
+	Query: "genus:Batrachoides specificepithet:waltersi" ; Times: 1
+	Query: "genus:Atherinomorus specificepithet:stipes" ; Times: 1
+	Query: "genus:Hirundichthys specificepithet:rondeletii" ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:fasciatus" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Cottus specificepithet:tenuis" ; Times: 2
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "genus:Sardinops specificepithet:sagax" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 9
+	Query: "genus:Cottus specificepithet:spinulosus" ; Times: 2
+	Query: "genus:Haptenchelys specificepithet:texis" ; Times: 1
+	Query: "USNM 193414" ; Times: 2
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Carcharhinus cautus" ; Times: 2
+	Query: "genus:Artediellus specificepithet:neyelovi" ; Times: 1
+	Query: "genus:Haplochromis specificepithet:anaphyrmus" ; Times: 2
+	Query: "genus:Diapterus specificepithet:auratus" ; Times: 1
+	Query: "genus:Borostomias specificepithet:mononema" ; Times: 1
+	Query: "USNM 294632" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:humeralis" ; Times: 1
+	Query: "Leucoraja yucatanensis" ; Times: 2
+	Query: "genus:Triathalassothia specificepithet:argentina" ; Times: 1
+	Query: "genus:Hypsagonus specificepithet:quadricornis" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "genus:Labropsis specificepithet:australis" ; Times: 1
+	Query: "catalognumber:70000" ; Times: 1
+	Query: "genus:Roeboides specificepithet:bouchellei" ; Times: 1
+	Query: "Pseudorinelepis genibarbis" ; Times: 1
+	Query: "42001" ; Times: 1
+	Query: "genus:Aptocyclus specificepithet:ventricosus" ; Times: 1
+	Query: "genus:Lampichthys specificepithet:procerus" ; Times: 1
+	Query: "genus:Valenciennea specificepithet:strigata" ; Times: 1
+	Query: "genus:Chorisochismus specificepithet:dentex" ; Times: 2
+	Query: "Chiloscyllium burmensis" ; Times: 2
+	Query: "Okamejei meerdervoortii" ; Times: 2
+	Query: "genus:Lepisosteus specificepithet:oculatus" ; Times: 1
+	Query: "genus:Hypsurus specificepithet:caryi" ; Times: 1
+	Query: "genus:Alectis specificepithet:ciliaris" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:pretiosus" ; Times: 1
+	Query: "genus:Doratonotus specificepithet:megalepis" ; Times: 1
+	Query: "genus:Elachocharax specificepithet:pulcher" ; Times: 1
+	Query: "genus:Cottus specificepithet:pollux" ; Times: 2
+	Query: "genus:Taeniolethrinops specificepithet:praeorbitalis" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:maria" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:holomelas" ; Times: 1
+	Query: "genus:Candidia specificepithet:barbata" ; Times: 1
+	Query: "Hydrolagus alberti" ; Times: 2
+	Query: "genus:Leporinus specificepithet:ortomaculatus" ; Times: 1
+	Query: "genus:Perissodus specificepithet:microlepis" ; Times: 1
+	Query: "genus:Leporellus specificepithet:vittatus" ; Times: 1
+	Query: "genus:Anostomus specificepithet:anostomus" ; Times: 1
+	Query: "genus:Lepadichthys specificepithet:bolini" ; Times: 1
+	Query: "genus:Hypselecara specificepithet:temporalis" ; Times: 1
+	Query: "catalognumber:53258 institutioncode:USNM" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:argus" ; Times: 1
+	Query: "genus:Nocomis specificepithet:asper" ; Times: 1
+	Query: "genus:Elassodiscus specificepithet:tremebundus" ; Times: 1
+	Query: "genus:Pseudanos specificepithet:irinae" ; Times: 1
+	Query: "genus:Stelgistrum specificepithet:beringianum" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 1
+	Query: "genus:Rhabdolichops specificepithet:electrogrammus" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 4
+	Query: "genus:Icelus specificepithet:spiniger" ; Times: 1
+	Query: "genus:Evorthodus specificepithet:lyricus" ; Times: 1
+	Query: "genus:Pseudanos specificepithet:gracilis" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 3
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "genus:Notograptus specificepithet:guttatus" ; Times: 1
+	Query: "Pomadasys jubelini" ; Times: 1
+	Query: "genus:Gerlachea specificepithet:australis" ; Times: 1
+	Query: "genus:Icelinus specificepithet:cavifrons" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Centrophorus lusitanicus" ; Times: 2
+	Query: "genus:Urotrygon specificepithet:nana" ; Times: 2
+	Query: "genus:Semotilus specificepithet:thoreauianus" ; Times: 1
+	Query: "genus:Coris specificepithet:gaimard" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "genus:Lavinia specificepithet:exilicauda" ; Times: 1
+	Query: "Aetobatus flagellum" ; Times: 2
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 1
+	Query: "Rajella purpuriventralis" ; Times: 2
+	Query: "genus:Choerodon specificepithet:schoenleinii" ; Times: 1
+	Query: "Mustelus mosis" ; Times: 2
+	Query: "genus:Caralophia specificepithet:loxochila" ; Times: 1
+	Query: "genus:Phallichthys specificepithet:amates" ; Times: 1
+	Query: "Etmopterus splendidus" ; Times: 2
+	Query: "Paracheirodon innesi" ; Times: 3
+	Query: "USNM 306052" ; Times: 2
+	Query: "genus:Echiophis specificepithet:intertinctus" ; Times: 1
+	Query: "Urolophus viridis" ; Times: 2
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "genus:Barbus specificepithet:poechii" ; Times: 1
+	Query: "genus:Platygillellus specificepithet:rubrocinctus" ; Times: 1
+	Query: "Urotrygon venezuelae" ; Times: 2
+	Query: "genus:Lagocephalus specificepithet:guentheri" ; Times: 1
+	Query: "genus:Isistius specificepithet:brasiliensis" ; Times: 1
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "genus:Chlorurus specificepithet:capistratoides" ; Times: 1
+	Query: "Poroderma pantherinum" ; Times: 2
+	Query: "genus:Barbus specificepithet:kerstenii" ; Times: 1
+	Query: "Mustelus griseus" ; Times: 2
+	Query: "genus:Calotomus specificepithet:carolinus" ; Times: 1
+	Query: "genus:Barbus specificepithet:miolepis" ; Times: 1
+	Query: "genus:Careproctus specificepithet:gilberti" ; Times: 1
+	Query: "genus:Allocareproctus specificepithet:unangas" ; Times: 1
+	Query: "genus:Stolephorus specificepithet:brachycephalus" ; Times: 1
+	Query: "genus:Setipinna specificepithet:tenuifilis" ; Times: 1
+	Query: "Pomadasys perotaei" ; Times: 1
+	Query: "Raja undulata" ; Times: 2
+	Query: "Callorhinchus capensis" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:scapularis" ; Times: 1
+	Query: "recordedby:Yates year &lt;= 1909" ; Times: 2
+	Query: "SP 5639" ; Times: 1
+	Query: "catalognumber: 61002" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "genus:Lile specificepithet:stolifera" ; Times: 1
+	Query: "genus:Hemitremia specificepithet:flammea" ; Times: 1
+	Query: "genus:Paraclinus specificepithet:integripinnis" ; Times: 1
+	Query: "genus:Gibbonsia specificepithet:elegans" ; Times: 1
+	Query: "genus:Cheilio specificepithet:inermis" ; Times: 1
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 1
+	Query: "genus:Platystacus specificepithet:cotylephorus" ; Times: 1
+	Query: "genus:Lipariscus specificepithet:nanus" ; Times: 2
+	Query: "genus:Choerodon specificepithet:anchorago" ; Times: 1
+	Query: "genus:Cheilinus specificepithet:oxycephalus" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "genus:Petroscirtes specificepithet:mitratus" ; Times: 1
+	Query: "genus:Clinocottus specificepithet:analis" ; Times: 1
+	Query: "Myliobatis tobijei" ; Times: 2
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 2
+	Query: "genus:Capromimus specificepithet:abbreviatus" ; Times: 1
+	Query: "genus:Rhabdoblennius specificepithet:rhabdotrachelus" ; Times: 1
+	Query: "Zapteryx xyster" ; Times: 2
+	Query: "Mobula hypostoma" ; Times: 2
+	Query: "Apristurus manis" ; Times: 2
+	Query: "benthosema pterotum" ; Times: 8
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "genus:Careproctus specificepithet:simus" ; Times: 1
+	Query: "genus:Bodianus specificepithet:axillaris" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "25978" ; Times: 1
+	Query: "genus:Notropis specificepithet:leuciodus" ; Times: 1
+	Query: "genus:Trematocranus specificepithet:placodon" ; Times: 1
+	Query: "Lamiopsis tephrodes" ; Times: 2
+	Query: "USNM 299082" ; Times: 1
+	Query: "genus:Gymnocanthus specificepithet:tricuspis" ; Times: 1
+	Query: "USNM 299081" ; Times: 1
+	Query: "Chiloscyllium hasseltii" ; Times: 2
+	Query: "genus:Pygocentrus specificepithet:nattereri" ; Times: 1
+	Query: "genus:Ocyurus specificepithet:chrysurus" ; Times: 1
+	Query: "genus:Ronquilus specificepithet:jordani" ; Times: 1
+	Query: "genus:Echiostoma specificepithet:barbatum" ; Times: 1
+	Query: "Rajella fyllae" ; Times: 2
+	Query: "genus:Crenuchus specificepithet:spilurus" ; Times: 1
+	Query: "Halaelurus boesemani" ; Times: 2
+	Query: "Chlamydoselachus africana" ; Times: 2
+	Query: "Scyliorhinus cabofriensis" ; Times: 2
+	Query: "genus:Membras specificepithet:martinica" ; Times: 1
+	Query: "USNM 101070" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:thompsonii" ; Times: 1
+	Query: "Centrophorus tessellatus" ; Times: 2
+	Query: "genus:Oxyjulis specificepithet:californica" ; Times: 1
+	Query: "genus:Podothecus specificepithet:accipenserinus" ; Times: 1
+	Query: "genus:Novumbra specificepithet:hubbsi" ; Times: 1
+	Query: "genus:Diodon specificepithet:eydouxii" ; Times: 1
+	Query: "genus:Tinca specificepithet:tinca" ; Times: 1
+	Query: "genus:Nocomis specificepithet:effusus" ; Times: 1
+	Query: "genus:Furcina specificepithet:ishikawae" ; Times: 1
+	Query: "genus:Ruvettus specificepithet:pretiosus" ; Times: 1
+	Query: "genus:Petalichthys specificepithet:capensis" ; Times: 1
+	Query: "genus:Micromyzon specificepithet:akamai" ; Times: 1
+	Query: "genus:Mastiglanis specificepithet:asopos" ; Times: 1
+	Query: "genus:Zalieutes specificepithet:elater" ; Times: 1
+	Query: "genus:Careproctus specificepithet:ovigerus" ; Times: 1
+	Query: "genus:Pseudoblennius specificepithet:percoides" ; Times: 1
+	Query: "genus:Opsanus specificepithet:phobetron" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:triangulatus" ; Times: 1
+	Query: "genus:Barbus specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Rhodeus specificepithet:amarus" ; Times: 1
+	Query: "genus:Plagiotremus specificepithet:rhinorhynchos" ; Times: 1
+	Query: "Aulohalaelurus labiosus" ; Times: 2
+	Query: "genus:Apteronotus specificepithet:macrostomus" ; Times: 2
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 7
+	Query: "genus:Himantura specificepithet:imbricata" ; Times: 1
+	Query: "genus:Liparis specificepithet:gibbus" ; Times: 1
+	Query: "genus:Acipenser stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Antennarius specificepithet:pictus" ; Times: 1
+	Query: "genus:Desmodema specificepithet:polystictum" ; Times: 1
+	Query: "genus:Cycleptus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Psychrolutes specificepithet:sigalutes" ; Times: 1
+	Query: "genus:Sternoptyx specificepithet:pseudobscura" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "genus:Icelus specificepithet:euryops" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:Cottiusculus specificepithet:gonez" ; Times: 1
+	Query: "genus:Chlorophthalmus specificepithet:agassizi" ; Times: 1
+	Query: "genus:Rhamphochromis specificepithet:esox" ; Times: 1
+	Query: "genus:Margariscus specificepithet:margarita" ; Times: 1
+	Query: "Urotrygon simulatrix" ; Times: 2
+	Query: "genus:Diplotaxodon" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 2
+	Query: "Centroscymnus plunketi" ; Times: 2
+	Query: "Nes longus mappable:1" ; Times: 8
+	Query: "genus:Ectreposebastes specificepithet:imus" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 8
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "genus:Bryconamericus specificepithet:exodon" ; Times: 1
+	Query: "Squatina oculata" ; Times: 2
+	Query: "catalognumber:311845 institutioncode:USNM" ; Times: 1
+	Query: "genus:Colletteichthys specificepithet:dussumieri" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Pristis microdon" ; Times: 2
+	Query: "genus:Krobia specificepithet:itanyi" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "genus:Coryphaenoides specificepithet:cinereus" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:coronata" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:eigenmanni" ; Times: 1
+	Query: "genus:Plagiotremus specificepithet:tapeinosoma" ; Times: 2
+	Query: "Raja montagui" ; Times: 2
+	Query: "Squaliolus aliae" ; Times: 2
+	Query: "genus:Xeneretmus specificepithet:latifrons" ; Times: 1
+	Query: "genus:Blepsias specificepithet:cirrhosus" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "genus:Balistes specificepithet:polylepis" ; Times: 1
+	Query: "myrophis punctatus usnm florida" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Serranus specificepithet:cabrilla" ; Times: 1
+	Query: "genus:Rhinobrycon specificepithet:negrensis" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:papillifer" ; Times: 1
+	Query: "genus:Synaphobranchus specificepithet:kaupii" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 2
+	Query: "genus:Barbulifer specificepithet:ceuthoecus" ; Times: 1
+	Query: "genus:Megalonema specificepithet:platycephalum" ; Times: 1
+	Query: "genus:Microgadus specificepithet:proximus" ; Times: 1
+	Query: "genus:Careproctus specificepithet:furcellus" ; Times: 1
+	Query: "usnm 326131" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:choirorhynchos" ; Times: 2
+	Query: "genus: Argyrops" ; Times: 3
+	Query: "genus:Notropis specificepithet:bifrenatus" ; Times: 1
+	Query: "genus:Pogonichthys specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:paucidens" ; Times: 1
+	Query: "usnm 326139" ; Times: 2
+	Query: "genus:Serrasalmus specificepithet:medinai" ; Times: 2
+	Query: "genus:Chilara" ; Times: 1
+	Query: "genus:Thalassoma specificepithet:lunare" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "genus:Gymnocanthus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:pyrrhomelas " ; Times: 1
+	Query: "genus:Trichopsis specificepithet:vittata" ; Times: 1
+	Query: "genus:Micrometrus specificepithet:aurora" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 2
+	Query: "genus:Sternoptyx specificepithet:obscura" ; Times: 1
+	Query: "catalognumber:76863" ; Times: 1
+	Query: "genus:Arothron specificepithet:manilensis" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 2
+	Query: "genus:Careproctus specificepithet:acanthodes" ; Times: 1
+	Query: "genus:Rhaphiodon specificepithet:vulpinus" ; Times: 1
+	Query: "genus:Triglops specificepithet:murrayi" ; Times: 1
+	Query: "Aphanius fasciatus" ; Times: 1
+	Query: "Upeneus vanuatu" ; Times: 2
+	Query: "genus:Labeo specificepithet:lineatus" ; Times: 1
+	Query: "USNM 107935" ; Times: 1
+	Query: "genus:Ladigesia specificepithet:roloffi" ; Times: 1
+	Query: "Apristurus laurussonii" ; Times: 2
+	Query: "genus:Raiamas specificepithet:senegalensis" ; Times: 1
+	Query: "genus:Careproctus specificepithet:phasma" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:papua" ; Times: 1
+	Query: "genus:Trigonopoma" ; Times: 1
+	Query: "genus:Percopsis specificepithet:omiscomaycus" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 2
+	Query: "genus:Careproctus specificepithet:colletti" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:hartzfeldii" ; Times: 1
+	Query: "Nasolamia velox" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:dispilus" ; Times: 1
+	Query: "genus:Notropis specificepithet:rubricroceus " ; Times: 1
+	Query: "Urotrygon caudispinosus" ; Times: 2
+	Query: "genus:Vellitor specificepithet:centropomus" ; Times: 1
+	Query: "genus:Apterichtus specificepithet:kendalli" ; Times: 1
+	Query: "genus:Stephanolepis specificepithet:diaspros" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:lepida" ; Times: 2
+	Query: "USNM 15374" ; Times: 1
+	Query: "genus:Neoclinus specificepithet:uninotatus" ; Times: 1
+	Query: "genus:Homaloptera specificepithet:stephensoni" ; Times: 3
+	Query: "genus:Encrasicholina specificepithet:purpurea" ; Times: 2
+	Query: "Scyliorhinus torrei" ; Times: 2
+	Query: "genus:Regalecus specificepithet:glesne" ; Times: 1
+	Query: "genus:Paradistichodus specificepithet:dimidiatus" ; Times: 1
+	Query: "genus:Bunocephalus specificepithet:verrucosus" ; Times: 1
+	Query: "333793" ; Times: 1
+	Query: "genus:Neotrygon specificepithet:kuhlii" ; Times: 1
+	Query: "genus:Notropis specificepithet:dorsalis" ; Times: 1
+	Query: "genus:Allomycterus specificepithet:pilatus" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 2
+	Query: "genus:Pseudophichthys specificepithet:splendens" ; Times: 1
+	Query: "genus:Neoodax specificepithet:balteatus" ; Times: 1
+	Query: "genus:Porichthys specificepithet:plectrodon" ; Times: 1
+	Query: "genus:Nezumia specificepithet:stelgidolepis" ; Times: 1
+	Query: "genus:Notropis specificepithet:uranoscopus" ; Times: 1
+	Query: "genus:Cheilinus specificepithet:bimaculatus" ; Times: 1
+	Query: "genus:Tetraodon specificepithet:erythrotaenia" ; Times: 1
+	Query: "genus:Chriodorus specificepithet:atherinoides" ; Times: 1
+	Query: "Asymbolus analis" ; Times: 2
+	Query: "genus:Embiotoca specificepithet:jacksoni" ; Times: 1
+	Query: "genus:Porichthys specificepithet:greenei" ; Times: 1
+	Query: "Anacanthobatis longirostris" ; Times: 2
+	Query: "genus:Barbus specificepithet:fasciolatus" ; Times: 1
+	Query: "genus:Ctenochaetus specificepithet:strigosus" ; Times: 1
+	Query: "genus:Farlowella specificepithet:acus" ; Times: 1
+	Query: "Squatina japonica" ; Times: 2
+	Query: "citharinops" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "USNM 254848" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:rosaceus" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 2
+	Query: "genus:Lepadichthys specificepithet:frenatus" ; Times: 1
+	Query: "genus:Clinus specificepithet:cottoides" ; Times: 1
+	Query: "genus:Agonomalus specificepithet:proboscidalis" ; Times: 1
+	Query: "genus:Carpiodes specificepithet:cyprinus" ; Times: 1
+	Query: "genus:Leuresthes specificepithet:tenuis" ; Times: 1
+	Query: "genus:Hypleurochilus specificepithet:springeri" ; Times: 1
+	Query: "genus:Gymnodraco specificepithet:acuticeps" ; Times: 1
+	Query: "genus:Salangichthys specificepithet:microdon" ; Times: 1
+	Query: "genus:Cheilinus specificepithet:chlorourus" ; Times: 1
+	Query: "genus:Plagopterus specificepithet:argentissimus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:prochilos" ; Times: 1
+	Query: "genus:Tragulichthys specificepithet:jaculiferus" ; Times: 1
+	Query: "Dalatias licha" ; Times: 2
+	Query: "genus:aorichthys" ; Times: 1
+	Query: "genus:Cymatogaster specificepithet:aggregata" ; Times: 1
+	Query: "Hemiscyllium strahani" ; Times: 2
+	Query: "genus:Iniistius specificepithet:pentadactylus" ; Times: 1
+	Query: "genus:Megalocottus specificepithet:platycephalus" ; Times: 1
+	Query: "217226" ; Times: 1
+	Query: "Ageneiosus brevifilis" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 4
+	Query: "genus:Encrasicholina specificepithet:heteroloba" ; Times: 1
+	Query: "genus:Meda specificepithet:fulgida" ; Times: 1
+	Query: "genus:Prionotus specificepithet:stearnsi" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 2
+	Query: "genus:Brotula specificepithet:barbata" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "genus:Lobochilotes specificepithet:labiatus" ; Times: 1
+	Query: "Scyliorhinus boa" ; Times: 2
+	Query: "Urotrygon nana" ; Times: 2
+	Query: "pteroplatytrygon" ; Times: 1
+	Query: "genus:Novaculichthys specificepithet:taeniourus" ; Times: 1
+	Query: "catalognumber:143129" ; Times: 1
+	Query: "Myliobatis hamlyni" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "zsm" ; Times: 1
+	Query: "Paracheirodon Axelrodi" ; Times: 1
+	Query: "genus:Artedius specificepithet:notospilotus" ; Times: 1
+	Query: "Raja herwigi" ; Times: 2
+	Query: "paracheirodon" ; Times: 1
+	Query: "genus:Lota specificepithet:lota" ; Times: 1
+	Query: "genus:Equetus specificepithet:lanceolatus" ; Times: 1
+	Query: "genus:Protemblemaria specificepithet:bicirrus" ; Times: 1
+	Query: "genus:Rasbora specificepithet:cephalotaenia" ; Times: 1
+	Query: "genus:Pseudocheilinus specificepithet:octotaenia" ; Times: 1
+	Query: "genus:Hybognathus specificepithet:argyritis" ; Times: 1
+	Query: "USNM 170494" ; Times: 1
+	Query: "catalognumber:130712" ; Times: 1
+	Query: "genus:Icelinus specificepithet:burchami" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:zonogaster" ; Times: 1
+	Query: "genus:Emblemaria specificepithet:atlantica" ; Times: 1
+	Query: "genus:Brachyrhaphis specificepithet:rhabdophora" ; Times: 1
+	Query: "170494" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "genus:Diproctacanthus specificepithet:xanthurus" ; Times: 1
+	Query: "genus:Artediellus specificepithet:pacificus" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:octodecemspinosus" ; Times: 1
+	Query: "genus:Diodon specificepithet:liturosus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "genus:Radulinus specificepithet:boleoides" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 9
+	Query: "genus:Noturus specificepithet:phaeus" ; Times: 1
+	Query: "genus:Ammocryptocharax specificepithet:elegans" ; Times: 1
+	Query: "genus:Artediellina specificepithet:antilope" ; Times: 1
+	Query: "genus:Stellerina specificepithet:xyosterna" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 2
+	Query: "usnm 404972" ; Times: 1
+	Query: "genus:Notropis specificepithet:altipinnis" ; Times: 1
+	Query: "genus:Pollimyrus specificepithet:isidori" ; Times: 1
+	Query: "genus:Notropis specificepithet:scabriceps" ; Times: 1
+	Query: "genus:Brama specificepithet:brama" ; Times: 1
+	Query: "Dipturus tengu" ; Times: 2
+	Query: "genus:Barbus specificepithet:viviparus" ; Times: 1
+	Query: "genus:Lepadichthys specificepithet:lineatus" ; Times: 1
+	Query: "genus:Sardinella specificepithet:gibbosa" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 4
+	Query: "genus:Gibberichthys specificepithet:pumilus" ; Times: 1
+	Query: "genus:Thalassoma specificepithet:duperrey" ; Times: 1
+	Query: "genus:Zesticelus specificepithet:profundorum" ; Times: 1
+	Query: "genus:Stethojulis specificepithet:bandanensis" ; Times: 1
+	Query: "Amphelikturus dendriticus" ; Times: 2
+	Query: "genus:Heterotis specificepithet:niloticus" ; Times: 1
+	Query: "genus:Labidesthes specificepithet:vanhyningi" ; Times: 1
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 8
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 8
+	Query: "genus:Moolgarda specificepithet:cunnesius" ; Times: 1
+	Query: "Breviraja colesi" ; Times: 2
+	Query: "genus:Parahollardia specificepithet:lineata" ; Times: 1
+	Query: "genus:Hypsoblennius specificepithet:striatus" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "genus:Lamprichthys specificepithet:tanganicanus" ; Times: 1
+	Query: "genus:Potamorrhaphis specificepithet:guianensis" ; Times: 1
+	Query: "genus:Lepidomeda specificepithet:mollispinis" ; Times: 1
+	Query: "166874" ; Times: 1
+	Query: "genus:Artediellus specificepithet:dydymovi" ; Times: 1
+	Query: "genus:Malacosteus specificepithet:niger" ; Times: 1
+	Query: "genus:Lepidogalaxias specificepithet:salamandroides" ; Times: 1
+	Query: "genus:Vladichthys specificepithet:gloverensis" ; Times: 1
+	Query: "genus:Asprocottus specificepithet:pulcher" ; Times: 1
+	Query: "hippo" ; Times: 2
+	Query: "genus:Elacatinus specificepithet:louisae" ; Times: 1
+	Query: "Narcine brunnea" ; Times: 2
+	Query: "Astrapogon stellatus mappable:1" ; Times: 9
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 9
+	Query: "genus:Paragobiodon specificepithet:echinocephalus" ; Times: 1
+	Query: "genus:Cantherhines specificepithet:pardalis" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 2
+	Query: "Notoraja tobitukai" ; Times: 2
+	Query: "genus:Lagocephalus specificepithet:sceleratus" ; Times: 1
+	Query: "genus:Exerpes specificepithet:asper" ; Times: 1
+	Query: "genus:Grammoplites specificepithet:scaber" ; Times: 1
+	Query: "genus:Lamprogrammus specificepithet:niger" ; Times: 1
+	Query: "genus:Dionda specificepithet:serena" ; Times: 1
+	Query: "genus:Comephorus specificepithet:baikalensis" ; Times: 1
+	Query: "genus:Herklotsichthys specificepithet:dispilonotus" ; Times: 1
+	Query: "genus:Limnocottus specificepithet:bergianus" ; Times: 1
+	Query: "genus:Hemichromis specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Argyropelecus specificepithet:sladeni" ; Times: 1
+	Query: "genus:Abyssocottus specificepithet:korotneffi" ; Times: 1
+	Query: "genus:Notropis specificepithet:chrosomus" ; Times: 1
+	Query: "genus:Nematogenys specificepithet:inermis" ; Times: 1
+	Query: "genus:Hepsetus specificepithet:odoe" ; Times: 1
+	Query: "genus:Dipterygonotus specificepithet:balteatus" ; Times: 1
+	Query: "genus:Macropharyngodon specificepithet:negrosensis" ; Times: 1
+	Query: "genus:Misgurnus specificepithet:anguillicaudatus" ; Times: 1
+	Query: "genus:Myrophis specificepithet:punctatus" ; Times: 1
+	Query: "Mustelus whitneyi" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:pachygaster" ; Times: 1
+	Query: "38252 fish" ; Times: 1
+	Query: "genus:Ricuzenius specificepithet:nudithorax" ; Times: 1
+	Query: "Leucoraja lentiginosa" ; Times: 2
+	Query: "genus:Cosmochilus specificepithet:harmandi" ; Times: 1
+	Query: "Prognathodes aculeatus mappable:1" ; Times: 9
+	Query: "genus:Hiodon specificepithet:tergisus" ; Times: 1
+	Query: "genus:Hymenocephalus specificepithet:italicus" ; Times: 1
+	Query: "genus:Belonion specificepithet:dibranchodon" ; Times: 1
+	Query: "genus:Coelorinchus specificepithet:scaphopsis" ; Times: 1
+	Query: "genus:Percis specificepithet:japonica" ; Times: 2
+	Query: "genus:Etrumeus specificepithet:micropus" ; Times: 1
+	Query: "Hippocampus bargibanti" ; Times: 4
+	Query: "genus:Schilbe specificepithet:mystus" ; Times: 1
+	Query: "genus:Notoscopelus specificepithet:Resplendens" ; Times: 1
+	Query: "genus:Aspredo specificepithet:aspredo" ; Times: 1
+	Query: "USNM 310385" ; Times: 1
+	Query: "USNM 245995" ; Times: 1
+	Query: "USNM 245996" ; Times: 1
+	Query: "Psammobatis rutrum" ; Times: 2
+	Query: "genus:Hoplarchus specificepithet:psittacus" ; Times: 1
+	Query: "genus:Choerodon specificepithet:oligacanthus" ; Times: 1
+	Query: "genus:Ptilichthys specificepithet:goodei" ; Times: 1
+	Query: "genus:Zalembius specificepithet:rosaceus" ; Times: 1
+	Query: "genus:Loricariichthys specificepithet:maculatus" ; Times: 1
+	Query: "genus:Acromycter specificepithet:perturbator" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 2
+	Query: "genus:Pterolebias specificepithet:longipinnis" ; Times: 1
+	Query: "genus:Podothecus specificepithet:veternus" ; Times: 2
+	Query: "genus:Barbus specificepithet:asper" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:richmondi" ; Times: 1
+	Query: "genus:Pseudocheilinus specificepithet:hexataenia" ; Times: 1
+	Query: "genus:Tomicodon specificepithet:cryptus" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:lispus" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:whipplei" ; Times: 1
+	Query: "genus:Argyropelecus specificepithet:lychnus" ; Times: 1
+	Query: "genus:Phanerodon specificepithet:furcatus" ; Times: 1
+	Query: "catalognumber:376773 institutioncode:USNM" ; Times: 5
+	Query: "genus:Rhodymenichthys specificepithet:dolichogaster" ; Times: 1
+	Query: "genus:Elassodiscus specificepithet:caudatus" ; Times: 1
+	Query: "genus:Histrio specificepithet:histrio" ; Times: 1
+	Query: "genus:Arothron specificepithet:hispidus" ; Times: 1
+	Query: "Mustelus lenticulatus" ; Times: 2
+	Query: "genus:Zingel specificepithet:zingel" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:stelleri" ; Times: 1
+	Query: "genus:Algansea specificepithet:lacustris" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "genus:Ogcocephalus specificepithet:darwini" ; Times: 1
+	Query: "genus:Crocodilichthys specificepithet:gracilis" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:tshawytscha" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:rostrata" ; Times: 1
+	Query: "Carcharhinus macloti" ; Times: 2
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 8
+	Query: "genus:Batrachoides specificepithet:boulengeri" ; Times: 1
+	Query: "genus:Barbus specificepithet:altus" ; Times: 1
+	Query: "genus:Emblemaria specificepithet:nivipes" ; Times: 1
+	Query: "genus:Chasmodes specificepithet:bosquianus" ; Times: 1
+	Query: "195877" ; Times: 1
+	Query: "genus:Stolephorus specificepithet:waitei" ; Times: 1
+	Query: "genus:Thalassophryne specificepithet:maculosa" ; Times: 1
+	Query: "genus:Herichthys specificepithet:bartoni" ; Times: 1
+	Query: "237931" ; Times: 1
+	Query: "genus:Triglops specificepithet:macellus" ; Times: 1
+	Query: "genus:Schroederichthys specificepithet:bivius" ; Times: 1
+	Query: "Proscyllium venustum" ; Times: 2
+	Query: "genus:Liparis specificepithet:florae" ; Times: 2
+	Query: "genus:Heteroclinus specificepithet:whiteleggii" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "genus:Coralliozetus specificepithet:cardonae" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:chloropterus" ; Times: 1
+	Query: "Scyliorhinus cervigoni" ; Times: 2
+	Query: "Rostroraja alba" ; Times: 2
+	Query: "Alionematichthys minyomma mappable:1" ; Times: 9
+	Query: "genus:Cheilinus specificepithet:undulatus" ; Times: 1
+	Query: "Schroederichthys chilensis" ; Times: 2
+	Query: "genus:Ericentrus specificepithet:rubrus" ; Times: 1
+	Query: "genus:Barbus specificepithet:humilis" ; Times: 1
+	Query: "172531" ; Times: 1
+	Query: "genus:Urotrygon specificepithet:chilensis" ; Times: 1
+	Query: "genus:Leporinus specificepithet:trifasciatus" ; Times: 1
+	Query: "genus:Triglops specificepithet:jordani" ; Times: 1
+	Query: "genus:Eucinostomus specificepithet:argenteus" ; Times: 1
+	Query: "genus:Stathmonotus specificepithet:sinuscalifornici" ; Times: 1
+	Query: "genus:Gnathonemus specificepithet:petersii" ; Times: 1
+	Query: "genus:Barbus specificepithet:cyclolepis" ; Times: 1
+	Query: "genus:Prionotus specificepithet:longispinosus" ; Times: 1
+	Query: "Mustelus fasciatus" ; Times: 2
+	Query: "genus:Saurida specificepithet:tumbil" ; Times: 1
+	Query: "genus:Coryphaenoides specificepithet:longifilis" ; Times: 1
+	Query: "genus:Gurgesiella specificepithet:furvescens" ; Times: 1
+	Query: "genus:Achirus specificepithet:scutum" ; Times: 1
+	Query: "Priolepis hipoliti mappable:1" ; Times: 8
+	Query: "genus:Hisonotus specificepithet:maculipinnis" ; Times: 1
+	Query: "genus:Selene specificepithet:vomer" ; Times: 1
+	Query: "Atlantoraja castelnaui" ; Times: 2
+	Query: "Cruriraja cadenati" ; Times: 2
+	Query: "genus:Urolophus specificepithet:cruciatus" ; Times: 1
+	Query: "genus:Arcos specificepithet:poecilophthalmos" ; Times: 1
+	Query: "genus:Ginsburgellus specificepithet:novemlineatus" ; Times: 1
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 9
+	Query: "locality:American Lake stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "genus:Rhabdolichops specificepithet:caviceps" ; Times: 1
+	Query: "genus:Radulinus specificepithet:asprellus" ; Times: 1
+	Query: "catalognumber:130016" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:margarita" ; Times: 2
+	Query: "genus:Enophrys specificepithet:taurina" ; Times: 2
+	Query: "Anodus elongatus" ; Times: 2
+	Query: "genus:Hemigymnus specificepithet:melapterus" ; Times: 1
+	Query: "genus:Crystallichthys specificepithet:cyclospilus" ; Times: 1
+	Query: "Amblyraja georgiana" ; Times: 2
+	Query: "61002" ; Times: 1
+	Query: "genus:Colomesus specificepithet:psittacus" ; Times: 1
+	Query: "Stephens AND Island AND California NOT ICH NOT Alaska" ; Times: 1
+	Query: "genus:Hiodon specificepithet:alosoides" ; Times: 1
+	Query: "genus:Moenkhausia specificepithet:jamesi" ; Times: 1
+	Query: "genus:Codoma specificepithet:ornata" ; Times: 1
+	Query: "genus:Barbus specificepithet:afrovernayi" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "catalognumber:55633" ; Times: 1
+	Query: "Breviraja mouldi" ; Times: 2
+	Query: "genus:Tetraodon specificepithet:fluviatilis" ; Times: 1
+	Query: "genus:Barbus specificepithet:ablabes" ; Times: 1
+	Query: "Sphyrna couardi" ; Times: 2
+	Query: "Leucoraja leucosticta" ; Times: 2
+	Query: "Torpedo andersoni" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:trimaculatus" ; Times: 1
+	Query: "genus:Belontia specificepithet:hasselti" ; Times: 1
+	Query: "genus:Brycinus specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 2
+	Query: "USNM 70147" ; Times: 1
+	Query: "genus:Barbus specificepithet:macinensis" ; Times: 1
+	Query: "genus:Derilissus specificepithet:altifrons" ; Times: 1
+	Query: "genus:Arctogadus specificepithet:glacialis" ; Times: 1
+	Query: "genus:Nematalosa specificepithet:nasus" ; Times: 1
+	Query: "genus:Salarias specificepithet:fasciatus" ; Times: 1
+	Query: "Mustelus schmitti" ; Times: 2
+	Query: "genus:Acyrtus specificepithet:rubiginosus" ; Times: 1
+	Query: "Pastinachus gracilicaudus" ; Times: 2
+	Query: "USNM 192780" ; Times: 1
+	Query: "Ogilbia suarezae mappable:1" ; Times: 9
+	Query: "139265" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 2
+	Query: "genus:Moapa specificepithet:coriacea" ; Times: 1
+	Query: "Apogon planifrons mappable:1" ; Times: 4
+	Query: "Etmopterus carteri" ; Times: 2
+	Query: "genus:Squatina specificepithet:dumeril" ; Times: 1
+	Query: "genus:Lophius specificepithet:piscatorius" ; Times: 1
+	Query: "genus:Euthynnus specificepithet:alletteratus" ; Times: 1
+	Query: "genus:Steatogenys specificepithet:elegans" ; Times: 1
+	Query: "USNM 100432" ; Times: 2
+	Query: "genus:Acaronia specificepithet:vultuosa" ; Times: 1
+	Query: "genus:Macrouroides specificepithet:inflaticeps" ; Times: 1
+	Query: "Cruriraja poeyi" ; Times: 2
+	Query: "genus:Nealotus specificepithet:tripes" ; Times: 1
+	Query: "genus:Ipnops specificepithet:murrayi" ; Times: 1
+	Query: "genus:Lophodiodon specificepithet:calori" ; Times: 1
+	Query: "genus:Stlengis specificepithet:distoechus" ; Times: 1
+	Query: "Dasyatis matsubarai" ; Times: 2
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 8
+	Query: "genus:Melamphaes specificepithet:typhlops" ; Times: 1
+	Query: "genus:Folifer specificepithet:brevifilis" ; Times: 1
+	Query: "genus:Comephorus specificepithet:dybowskii" ; Times: 1
+	Query: "nmw" ; Times: 1
+	Query: "Etmopterus bigelowi" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:maculatus" ; Times: 1
+	Query: "genus:Dasycottus specificepithet:setiger" ; Times: 2
+	Query: "genus:Procottus specificepithet:jeittelesii" ; Times: 1
+	Query: "genus:Pseudogramma specificepithet:polyacantha" ; Times: 1
+	Query: "Bathyraja aguja" ; Times: 2
+	Query: "Dactylobatus armatus" ; Times: 2
+	Query: "Euprotomicrus bispinatus" ; Times: 2
+	Query: "genus:Valenciennellus specificepithet:tripunctulatus" ; Times: 1
+	Query: "genus:Barbus specificepithet:afrohamiltoni" ; Times: 1
+	Query: "Neoraja carolinensis" ; Times: 2
+	Query: "genus:Dicrossus specificepithet:maculatus" ; Times: 1
+	Query: "genus:Dysalotus specificepithet:alcocki" ; Times: 1
+	Query: "USNM 405960" ; Times: 1
+	Query: "Diplobatis colombiensis" ; Times: 2
+	Query: "genus:Gyrinichthys specificepithet:minytremus" ; Times: 1
+	Query: "genus:Chaenophryne specificepithet:longiceps" ; Times: 1
+	Query: "genus:Coryphopterus specificepithet:glaucofraenum" ; Times: 1
+	Query: "genus:Emblemaria specificepithet:pandionis" ; Times: 1
+	Query: "genus:Adontosternarchus specificepithet:devenanzii" ; Times: 1
+	Query: "genus:Oregonichthys specificepithet:crameri" ; Times: 1
+	Query: "genus:Pterocaesio specificepithet:tile" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 2
+	Query: "catalognumber:108466" ; Times: 1
+	Query: "genus:Anampses specificepithet:twistii" ; Times: 1
+	Query: "Zanobatus schoenleinii" ; Times: 2
+	Query: "genus:Paraclinus specificepithet:altivelis" ; Times: 1
+	Query: "genus:Luxilus specificepithet:albeolus" ; Times: 1
+	Query: "genus:Odontostomops specificepithet:normalops" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:evelynae" ; Times: 1
+	Query: "genus:Exechodontes specificepithet:daidaleus" ; Times: 1
+	Query: "genus:Mccoskerichthys specificepithet:sandae" ; Times: 1
+	Query: "genus:Sphaerichthys specificepithet:osphromenoides" ; Times: 1
+	Query: "genus:Cottus specificepithet:nozawae" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:melasmapomus" ; Times: 1
+	Query: "genus:Sternarchella specificepithet:sima" ; Times: 1
+	Query: "genus:Strongylura specificepithet:krefftii" ; Times: 1
+	Query: "genus:Xiphophorus specificepithet:hellerii" ; Times: 1
+	Query: "Pristiophorus schroederi" ; Times: 2
+	Query: "Etmopterus baxteri" ; Times: 2
+	Query: "genus:Amphistichus specificepithet:rhodoterus" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:parvus" ; Times: 1
+	Query: "genus:Hemitripterus specificepithet:bolini" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 2
+	Query: "genus:Opisthonema specificepithet:libertate" ; Times: 1
+	Query: "Ouro Preto" ; Times: 1
+	Query: "genus:Xenomystus specificepithet:nigri" ; Times: 1
+	Query: "genus:Careproctus specificepithet:comus" ; Times: 1
+	Query: "genus:Careproctus specificepithet:rastrinus" ; Times: 1
+	Query: "genus:Cottus specificepithet:hubbsi" ; Times: 2
+	Query: "genus:Ijimaia specificepithet:antillarum" ; Times: 1
+	Query: "112736" ; Times: 1
+	Query: "genus:Micrometrus specificepithet:minimus" ; Times: 1
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "genus:Barbourisia specificepithet:rufa" ; Times: 1
+	Query: "genus:Zaniolepis specificepithet:latipinnis" ; Times: 1
+	Query: "genus:Ernstichthys" ; Times: 1
+	Query: "genus:Clarotes specificepithet:laticeps" ; Times: 1
+	Query: "genus:Paraclinus specificepithet:monophthalmus" ; Times: 1
+	Query: "genus:Luxilus specificepithet:cerasinus" ; Times: 1
+	Query: "genus:Trichodon specificepithet:trichodon" ; Times: 1
+	Query: "genus:Notopterus specificepithet:notopterus" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "genus:Coris specificepithet:batuensis" ; Times: 1
+	Query: "Bathyraja murrayi" ; Times: 2
+	Query: "genus:Pomacanthus specificepithet:arcuatus" ; Times: 1
+	Query: "genus:Atractosteus specificepithet:spatula" ; Times: 1
+	Query: "Bathyraja maccaini" ; Times: 2
+	Query: "genus:Urotrygon specificepithet:aspidura" ; Times: 1
+	Query: "genus:Prionotus specificepithet:martis" ; Times: 1
+	Query: "genus:Bunocephalus specificepithet:coracoideus" ; Times: 1
+	Query: "genus:Formosania specificepithet:lacustre" ; Times: 1
+	Query: "genus:Myleus specificepithet:torquatus" ; Times: 1
+	Query: "genus:Lamontichthys specificepithet:filamentosus" ; Times: 1
+	Query: "genus:Pythonichthys specificepithet:sanguineus" ; Times: 1
+	Query: "genus:Urotrygon specificepithet:simulatrix" ; Times: 1
+	Query: "genus:Artediellus specificepithet:scaber" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:clarkii" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:zonifer" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 2
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 8
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "genus:Sparisoma specificepithet:radians" ; Times: 1
+	Query: "genus:Cheimarrichthys specificepithet:fosteri" ; Times: 1
+	Query: "genus:Allocareproctus specificepithet:kallaion" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "genus:Cyprinella specificepithet:leedsi" ; Times: 1
+	Query: "genus:Anampses specificepithet:melanurus" ; Times: 1
+	Query: "genus:Mylopharyngodon specificepithet:piceus" ; Times: 1
+	Query: "genus:Tetrabrachium specificepithet:ocellatum" ; Times: 1
+	Query: "genus:Ocynectes specificepithet:modestus" ; Times: 1
+	Query: "genus:Sternarchogiton specificepithet:nattereri" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "genus:Pylodictis specificepithet:olivaris" ; Times: 1
+	Query: "USNM 304518" ; Times: 1
+	Query: "Schroederichthys maculatus" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "genus:Serranochromis specificepithet:altus" ; Times: 1
+	Query: "catalognumber:124924 institutioncode:USNM" ; Times: 1
+	Query: "genus:Gadella specificepithet:maraldi" ; Times: 1
+	Query: "Breviraja claramaculata" ; Times: 2
+	Query: "genus:Petenia specificepithet:splendida" ; Times: 1
+	Query: "genus:Aspidontus specificepithet:taeniatus" ; Times: 1
+	Query: "Halaelurus quagga" ; Times: 2
+	Query: "genus:Acanthocobitis" ; Times: 1
+	Query: "genus:Thysanophrys specificepithet:celebica" ; Times: 1
+	Query: "genus:Gomphosus specificepithet:caeruleus" ; Times: 1
+	Query: "genus:Rhinoliparis specificepithet:attenuatus" ; Times: 1
+	Query: "genus:Pygocentrus specificepithet:cariba" ; Times: 1
+	Query: "genus:Rhabdoblennius specificepithet:nitidus" ; Times: 2
+	Query: "genus:Amazonsprattus specificepithet:scintilla" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "genus:Cristiceps specificepithet:australis" ; Times: 1
+	Query: "USNM 95228" ; Times: 1
+	Query: "WAM fish" ; Times: 1
+	Query: "USNM 30147" ; Times: 2
+	Query: "Leucoraja caribbaea" ; Times: 2
+	Query: "Torpedo fuscomaculata" ; Times: 2
+	Query: "genus:Brachyhypopomus specificepithet:brevirostris" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 9
+	Query: "Sphyrna corona" ; Times: 2
+	Query: "genus:Microthrissa specificepithet:royauxi" ; Times: 1
+	Query: "genus:Parona specificepithet:signata" ; Times: 1
+	Query: "genus:Ascelichthys specificepithet:rhodorus" ; Times: 1
+	Query: "genus:Fodiator specificepithet:acutus" ; Times: 1
+	Query: "genus:Leucaspius specificepithet:delineatus" ; Times: 1
+	Query: "genus:Rhabdolichops specificepithet:zareti" ; Times: 1
+	Query: "genus:Mylossoma specificepithet:duriventre" ; Times: 1
+	Query: "genus:Auriglobus specificepithet:modestus" ; Times: 1
+	Query: "Chilomycterus antennatus mappable:1" ; Times: 8
+	Query: "genus:Exochochromis specificepithet:anagenys" ; Times: 1
+	Query: "genus:Polyipnus specificepithet:indicus" ; Times: 1
+	Query: "Dipturus garricki" ; Times: 2
+	Query: "genus:Calotomus specificepithet:spinidens" ; Times: 1
+	Query: "genus:Haptogenys specificepithet:bipunctata" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:colliei" ; Times: 1
+	Query: "genus:Hologymnosus specificepithet:doliatus" ; Times: 1
+	Query: "genus:Phenacogrammus specificepithet:interruptus" ; Times: 1
+	Query: "genus:Eretmodus specificepithet:cyanostictus" ; Times: 1
+	Query: "genus:Priocharax specificepithet:ariel" ; Times: 1
+	Query: "genus:Nectamia specificepithet:fusca" ; Times: 1
+	Query: "genus:Enneanectes specificepithet:macrops" ; Times: 1
+	Query: "120040" ; Times: 1
+	Query: "Okamejei boesemani" ; Times: 2
+	Query: "genus:Sigmistes specificepithet:smithi" ; Times: 1
+	Query: "Platyrhina sinensis" ; Times: 2
+	Query: "Gymnura afuerae" ; Times: 2
+	Query: "genus:Carnegiella specificepithet:strigata" ; Times: 1
+	Query: "genus:Thoracocharax specificepithet:stellatus" ; Times: 2
+	Query: "genus:Yuriria specificepithet:alta" ; Times: 1
+	Query: "Sympterygia bonapartii" ; Times: 2
+	Query: "genus:Myrichthys specificepithet:xysturus" ; Times: 1
+	Query: "genus:Parophrys specificepithet:vetulus" ; Times: 1
+	Query: "genus:Boreogadus specificepithet:saida" ; Times: 1
+	Query: "genus:Hypsoblennius specificepithet:gilberti" ; Times: 1
+	Query: "genus:Pseudanos specificepithet:trimaculatus" ; Times: 1
+	Query: "Apogon townsendi mappable:1" ; Times: 9
+	Query: "Urolophus aurantiacus" ; Times: 2
+	Query: "genus:Sicydium specificepithet:plumieri" ; Times: 1
+	Query: "Rhizoprionodon oligolinx" ; Times: 2
+	Query: "USNM 192793" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 2
+	Query: "genus:Colpichthys specificepithet:regis" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:spengleri" ; Times: 1
+	Query: "74085" ; Times: 1
+	Query: "139526" ; Times: 1
+	Query: "genus:Amblygaster specificepithet:sirm" ; Times: 1
+	Query: "genus:Artediellus specificepithet:miacanthus" ; Times: 1
+	Query: "genus:Lutjanus institutioncode:USNM" ; Times: 1
+	Query: "Dipturus bullisi" ; Times: 2
+	Query: "genus:Dactyloscopus specificepithet:pectoralis" ; Times: 1
+	Query: "genus:Chaunax specificepithet:pictus" ; Times: 1
+	Query: "large mouth bass" ; Times: 1
+	Query: "genus:Pseudoplatystoma specificepithet:fasciatum" ; Times: 1
+	Query: "genus:Achirus specificepithet:lineatus" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 2
+	Query: "genus:Taeniura specificepithet:lymma" ; Times: 1
+	Query: "Mustelus minicanis" ; Times: 2
+	Query: "Diplobatis pictus" ; Times: 2
+	Query: "genus:Barchatus specificepithet:cirrhosus" ; Times: 1
+	Query: "genus:Agonus specificepithet:cataphractus" ; Times: 1
+	Query: "genus:Bifax specificepithet:lacinia" ; Times: 1
+	Query: "genus:Novaculoides specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Coryphaenoides specificepithet:acrolepis" ; Times: 1
+	Query: "genus:Dicotylichthys specificepithet:punctulatus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "genus:Careproctus specificepithet:ostentum" ; Times: 1
+	Query: "genus:Uranoscopus specificepithet:scaber" ; Times: 1
+	Query: "genus:Ilisha specificepithet:melastoma" ; Times: 1
+	Query: "genus:Melanonus specificepithet:zugmayeri" ; Times: 1
+	Query: "genus:Xeneretmus specificepithet:triacanthus" ; Times: 1
+	Query: "catalognumber:105247" ; Times: 1
+	Query: "genus:Mustelus specificepithet:mosis" ; Times: 1
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Risor ruber mappable:1" ; Times: 8
+	Query: "genus:Lythrurus specificepithet:matutinus" ; Times: 1
+	Query: "genus:Aphareus specificepithet:furca" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "genus:Phasmatocottus specificepithet:ctenopterygius" ; Times: 1
+	Query: "genus:Remora specificepithet:remora" ; Times: 1
+	Query: "Eridacnis radcliffei" ; Times: 2
+	Query: "genus:Otopharynx specificepithet:lithobates" ; Times: 2
+	Query: "genus:Barbus specificepithet:trimaculatus" ; Times: 1
+	Query: "genus:Exoglossum specificepithet:maxillingua" ; Times: 1
+	Query: "genus:Zaniolepis specificepithet:frenata" ; Times: 1
+	Query: "genus:Blenniella specificepithet:gibbifrons" ; Times: 1
+	Query: "genus:Leptocottus specificepithet:armatus" ; Times: 2
+	Query: "genus:Barbichthys specificepithet:laevis" ; Times: 1
+	Query: "genus:Trinectes specificepithet:fluviatilis" ; Times: 1
+	Query: "102231" ; Times: 1
+	Query: "genus:Wetmorella specificepithet:nigropinnata" ; Times: 1
+	Query: "genus:Hemiculter specificepithet:leucisculus" ; Times: 1
+	Query: "Cephaloscyllium sufflans" ; Times: 2
+	Query: "genus:Hexagrammos specificepithet:octogrammus" ; Times: 1
+	Query: "genus:Hemitripterus specificepithet:americanus" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Apristurus canutus" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "genus:Epalzeorhynchos specificepithet:frenatus" ; Times: 1
+	Query: "specificepithet:stoliczkae" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:jactator" ; Times: 1
+	Query: "genus:Hemitilapia specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Hyperprosopon specificepithet:anale" ; Times: 1
+	Query: "Etmopterus perryi" ; Times: 2
+	Query: "genus:Cromileptes specificepithet:altivelis" ; Times: 1
+	Query: "Raja equatorialis" ; Times: 2
+	Query: "Centroscyllium ritteri" ; Times: 2
+	Query: "genus:Chologaster specificepithet:cornuta" ; Times: 1
+	Query: "genus:Gerres specificepithet:oyena" ; Times: 1
+	Query: "genus:Notropis specificepithet:sabinae" ; Times: 1
+	Query: "genus:Ophiclinops specificepithet:pardalis" ; Times: 1
+	Query: "genus:Gymnocanthus specificepithet:herzensteini" ; Times: 1
+	Query: "genus:Xeneretmus specificepithet:leiops" ; Times: 2
+	Query: "genus:Harttia specificepithet:loricariformis" ; Times: 1
+	Query: "USNM 15032" ; Times: 1
+	Query: "genus:Choerodon specificepithet:zosterophorus" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "genus:Inpaichthys specificepithet:kerri" ; Times: 1
+	Query: "Clepticus parrae mappable:1" ; Times: 2
+	Query: "genus:Stomias specificepithet:boa" ; Times: 1
+	Query: "genus:Pleurogrammus specificepithet:monopterygius" ; Times: 1
+	Query: "57804" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 2
+	Query: "genus:Barbus specificepithet:nigeriensis" ; Times: 1
+	Query: "genus:Bathophilus specificepithet:pawneei" ; Times: 1
+	Query: "genus:Jordania specificepithet:zonope" ; Times: 2
+	Query: "genus:Petrochromis specificepithet:polyodon" ; Times: 1
+	Query: "genus:Microcottus specificepithet:sellaris" ; Times: 1
+	Query: "alter do chao" ; Times: 1
+	Query: "Aculeola nigra" ; Times: 2
+	Query: "genus:Amphiprion specificepithet:ephippium" ; Times: 1
+	Query: "genus:Glossamia specificepithet:aprion" ; Times: 1
+	Query: "genus:Astronesthes specificepithet:niger" ; Times: 1
+	Query: "genus:Crossocheilus specificepithet:oblongus" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:balanorum" ; Times: 1
+	Query: "Hemigrammus erythrozonus" ; Times: 1
+	Query: "genus:Metynnis specificepithet:luna" ; Times: 1
+	Query: "genus:Ammodytes specificepithet:personatus" ; Times: 2
+	Query: "Myliobatis australis" ; Times: 2
+	Query: "genus:Liparis specificepithet:tessellatus" ; Times: 1
+	Query: "genus:Myleus specificepithet:rubripinnis" ; Times: 1
+	Query: "Centroscyllium excelsum" ; Times: 2
+	Query: "genus:Oxymonacanthus specificepithet:longirostris" ; Times: 1
+	Query: "genus:Dionda specificepithet:melanops" ; Times: 1
+	Query: "Gurgesiella furvescens" ; Times: 2
+	Query: "genus:Porocottus specificepithet:allisi" ; Times: 2
+	Query: "Catla catla" ; Times: 2
+	Query: "genus:Cetoscarus specificepithet:bicolor" ; Times: 1
+	Query: "genus:Iotichthys specificepithet:phlegethontis" ; Times: 1
+	Query: "Raja velezi" ; Times: 2
+	Query: "Kaupichthys nuchalis mappable:1" ; Times: 8
+	Query: "genus:Haemulon specificepithet:flavolineatum" ; Times: 1
+	Query: "Rhinobatos formosensis" ; Times: 2
+	Query: "genus:Heterostichus specificepithet:rostratus" ; Times: 1
+	Query: "genus:Cryptacanthodes specificepithet:giganteus" ; Times: 1
+	Query: "Haemulon album mappable:1" ; Times: 8
+	Query: "genus:Rhinichthys specificepithet:evermanni" ; Times: 1
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "genus:Caulophryne specificepithet:jordani" ; Times: 1
+	Query: "167728 fish" ; Times: 1
+	Query: "genus:Acinocheirodon specificepithet:melanogramma" ; Times: 1
+	Query: "Schroederichthys bivius" ; Times: 2
+	Query: "genus:Labrisomus specificepithet:nuchipinnis" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:nebulosus" ; Times: 1
+	Query: "genus:Pseudorasbora specificepithet:parva" ; Times: 1
+	Query: "USNM 321844" ; Times: 1
+	Query: "371178" ; Times: 1
+	Query: "Triakis scyllium" ; Times: 2
+	Query: "genus:Hippopotamyrus specificepithet:castor" ; Times: 1
+	Query: "Isogomphodon oxyrhynchus" ; Times: 2
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Indonesia NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Xenocharax specificepithet:spilurus" ; Times: 1
+	Query: "Rhinobatos albomaculatus" ; Times: 2
+	Query: "genus:Symphodus specificepithet:rostratus" ; Times: 1
+	Query: "Rajella fuliginea" ; Times: 2
+	Query: "genus:Bostockia specificepithet:porosa" ; Times: 1
+	Query: "genus:Sagamichthys specificepithet:abei" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 2
+	Query: "Eridacnis sinuans" ; Times: 2
+	Query: "genus:Astronotus specificepithet:ocellatus" ; Times: 1
+	Query: "266516" ; Times: 1
+	Query: "genus:Semicossyphus specificepithet:pulcher" ; Times: 1
+	Query: "Okamejei hollandi" ; Times: 2
+	Query: "genus:Notropis specificepithet:potteri" ; Times: 1
+	Query: "Garth AND Island NOT Australia NOT Ecuador NOT Spellman NOT Partida NOT Underwood NOT Auffenberg" ; Times: 1
+	Query: "USNM 305630" ; Times: 1
+	Query: "myrophis punctatus usnm" ; Times: 1
+	Query: "genus:Anampses specificepithet:neoguinaicus" ; Times: 1
+	Query: "Squalus megalops" ; Times: 2
+	Query: "Poroderma africanum" ; Times: 2
+	Query: "Urolophus bucculentus" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:hortulanus" ; Times: 1
+	Query: "genus:Rhincodon specificepithet:typus" ; Times: 1
+	Query: "genus:Lepidiolamprologus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Synaptolaemus specificepithet:cingulatus" ; Times: 1
+	Query: "Etmopterus benchleyi" ; Times: 2
+	Query: "genus:Malapterus specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Clepticus specificepithet:parrae" ; Times: 1
+	Query: "genus:Coris specificepithet:dorsomacula" ; Times: 1
+	Query: "Scyliorhinus hesperius" ; Times: 2
+	Query: "genus:Thryssa specificepithet:kammalensis" ; Times: 1
+	Query: "genus:Lepidomeda specificepithet:vittata" ; Times: 1
+	Query: "Asymbolus vincenti" ; Times: 2
+	Query: "genus:Cephalopholis specificepithet:argus" ; Times: 1
+	Query: "genus:Propimelodus specificepithet:eigenmanni" ; Times: 1
+	Query: "genus:Notropis specificepithet:blennius" ; Times: 1
+	Query: "genus:Pelmatochromis specificepithet:buettikoferi" ; Times: 1
+	Query: "genus:Bodianus specificepithet:loxozonus" ; Times: 1
+	Query: "genus:Arothron specificepithet:mappa" ; Times: 1
+	Query: "genus:Chromogobius specificepithet:quadrivittatus" ; Times: 1
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "genus:Campostoma specificepithet:ornatum" ; Times: 1
+	Query: "genus:Scyliorhinus specificepithet:torazame" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:valentini" ; Times: 1
+	Query: "USNM 94076" ; Times: 1
+	Query: "&#34;J. King&#34; AND Island NOT Hawaii" ; Times: 1
+	Query: "genus:Orthodon specificepithet:microlepidotus" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "genus:Barbus specificepithet:pobeguini" ; Times: 1
+	Query: "Saccopharynx" ; Times: 1
+	Query: "177177" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:colini" ; Times: 1
+	Query: "Ginsburgellus novemlineatus mappable:1" ; Times: 8
+	Query: "Mulloidichthys martinicus" ; Times: 33
+	Query: "Apristurus herklotsi" ; Times: 2
+	Query: "genus:Hypoclinemus specificepithet:mentalis" ; Times: 1
+	Query: "Carcharhinus borneensis" ; Times: 2
+	Query: "Atlantoraja platana" ; Times: 2
+	Query: "genus:Porichthys specificepithet:bathoiketes" ; Times: 1
+	Query: "Iago omanensis" ; Times: 2
+	Query: "genus:Naucrates specificepithet:ductor" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 9
+	Query: "Gymnura tentaculata" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "genus:Hemiodontichthys specificepithet:acipenserinus" ; Times: 1
+	Query: "genus:Parupeneus specificepithet:barberinus" ; Times: 1
+	Query: "Okamejei kenojei" ; Times: 2
+	Query: "genus:Amblyraja specificepithet:radiata" ; Times: 1
+	Query: "Apristurus sibogae" ; Times: 2
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "genus:Parachela specificepithet:oxygastroides" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "genus:Halieutichthys specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Sufflamen specificepithet:chrysopterum" ; Times: 1
+	Query: "USNM 327274" ; Times: 1
+	Query: "genus:Anostomus specificepithet:ternetzi" ; Times: 1
+	Query: "Paragaleus pectoralis" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 8
+	Query: "genus:Starksia specificepithet:spinipenis" ; Times: 1
+	Query: "genus:Clinocottus specificepithet:acuticeps" ; Times: 1
+	Query: "genus:Alloclinus specificepithet:holderi" ; Times: 1
+	Query: "genus:Oxyzygonectes specificepithet:dovii" ; Times: 1
+	Query: "genus:Aspredinichthys specificepithet:filamentosus" ; Times: 1
+	Query: "NMNH 256776" ; Times: 1
+	Query: "genus:eleotris country:&#34;venezuela&#34;" ; Times: 1
+	Query: "bluejay" ; Times: 1
+	Query: "genus:Psephurus specificepithet:gladius" ; Times: 1
+	Query: "genus:Cheilinus specificepithet:fasciatus" ; Times: 1
+	Query: "158462" ; Times: 1
+	Query: "genus:Daector specificepithet:dowi" ; Times: 1
+	Query: "genus:Barbus specificepithet:guildi" ; Times: 1
+	Query: "genus:Chondrostoma specificepithet:nasus" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "genus:Nematabramis specificepithet:everetti" ; Times: 1
+	Query: "genus:Aruma specificepithet:histrio" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "genus:Iniistius specificepithet:pavo" ; Times: 1
+	Query: "USNM 271320" ; Times: 1
+	Query: "genus:Arcos specificepithet:nudus" ; Times: 1
+	Query: "genus:Rhinecanthus specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Cyclichthys specificepithet:spilostylus" ; Times: 1
+	Query: "genus:Atrosalarias specificepithet:fuscus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 2
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 2
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "genus:Nautichthys specificepithet:pribilovius" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 2
+	Query: "83502" ; Times: 1
+	Query: "Prognathodes guyanensis mappable:1" ; Times: 9
+	Query: "genus:Cottus specificepithet:leiopomus" ; Times: 2
+	Query: "genus:Monotaxis specificepithet:grandoculis" ; Times: 1
+	Query: "Urotrygon microphthalmum" ; Times: 2
+	Query: "39671" ; Times: 1
+	Query: "genus:Haemulon specificepithet:carbonarium" ; Times: 1
+	Query: "Myliobatis goodei" ; Times: 2
+	Query: "genus:Meiacanthus specificepithet:nigrolineatus" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "genus:Strongylura specificepithet:fluviatilis" ; Times: 1
+	Query: "genus:Triglops specificepithet:scepticus" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 2
+	Query: "genus:Cirrhilabrus specificepithet:temminckii" ; Times: 1
+	Query: "genus:Rhinichthys specificepithet:falcatus" ; Times: 1
+	Query: "genus:Belone specificepithet:belone" ; Times: 1
+	Query: "132233" ; Times: 1
+	Query: "genus:Barbus specificepithet:meridionalis" ; Times: 1
+	Query: "genus:Chimaera specificepithet:monstrosa" ; Times: 1
+	Query: "Breviraja nigriventralis" ; Times: 2
+	Query: "genus:Helcogrammoides specificepithet:chilensis" ; Times: 1
+	Query: "genus:Starksia specificepithet:fulva" ; Times: 1
+	Query: "Chaenogaleus macrostoma" ; Times: 2
+	Query: "genus:Hypsypops specificepithet:rubicundus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "genus:Macropharyngodon specificepithet:meleagris" ; Times: 1
+	Query: "H. E. ANthony" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 2
+	Query: "Callorhinchus callorynchus" ; Times: 2
+	Query: "genus:Dellichthys specificepithet:morelandi" ; Times: 2
+	Query: "Coryphopterus lipernes mappable:1" ; Times: 8
+	Query: "Lythrypnus spilus mappable:1" ; Times: 8
+	Query: "genus:Erimystax specificepithet:insignis" ; Times: 1
+	Query: "genus:Artediellus specificepithet:camchaticus" ; Times: 2
+	Query: "71119" ; Times: 1
+	Query: "153233" ; Times: 1
+	Query: "genus:Barbus specificepithet:sublineatus" ; Times: 1
+	Query: "catalognumber:1122 institutioncode:USNM" ; Times: 1
+	Query: "genus:Bathyagonus specificepithet:pentacanthus" ; Times: 2
+	Query: "Haemulon carbonarium mappable:1" ; Times: 8
+	Query: "genus:Exocoetus specificepithet:volitans" ; Times: 1
+	Query: "genus:Mylocheilus specificepithet:caurinus" ; Times: 1
+	Query: "genus:Lythrurus specificepithet:ardens" ; Times: 1
+	Query: "genus:Scombrolabrax specificepithet:heterolepis" ; Times: 1
+	Query: "genus:Liparis specificepithet:dennyi" ; Times: 2
+	Query: "genus:Electrona specificepithet:risso" ; Times: 1
+	Query: "genus:Anchoviella specificepithet:perfasciata" ; Times: 1
+	Query: "genus:Notropis specificepithet:greenei" ; Times: 1
+	Query: "genus:Thryssa specificepithet:setirostris" ; Times: 1
+	Query: "genus:Barbus specificepithet:bifrenatus" ; Times: 1
+	Query: "catalognumber:376515 institutioncode:USNM" ; Times: 2
+	Query: "Cephaloscyllium stevensi" ; Times: 2
+	Query: "genus:Erimystax specificepithet:dissimilis" ; Times: 1
+	Query: "genus:Icelinus specificepithet:filamentosus" ; Times: 1
+	Query: "genus:Diogenichthys specificepithet:laternatus" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "genus:Barbus specificepithet:punctitaeniatus" ; Times: 1
+	Query: "genus:Huso specificepithet:huso" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:microdon" ; Times: 1
+	Query: "genus:Careproctus specificepithet:faunus" ; Times: 1
+	Query: "genus:Barbus specificepithet:radiatus" ; Times: 1
+	Query: "genus:Urobatis specificepithet:halleri" ; Times: 1
+	Query: "genus:Anabas specificepithet:testudineus" ; Times: 1
+	Query: "genus:Sternopygus specificepithet:pejeraton" ; Times: 2
+	Query: "genus:Naso specificepithet:unicornis" ; Times: 1
+	Query: "genus:Ekemblemaria specificepithet:nigra" ; Times: 1
+	Query: "genus:Ditrema specificepithet:temminckii" ; Times: 1
+	Query: "genus:Pogonophryne specificepithet:scotti" ; Times: 1
+	Query: "genus:Careproctus specificepithet:curilanus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "genus:Gymnocanthus specificepithet:pistilliger" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 2
+	Query: "genus:Tetraodon specificepithet:lineatus" ; Times: 1
+	Query: "Neotrygon picta" ; Times: 2
+	Query: "156058" ; Times: 1
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 1
+	Query: "genus:Cirrhitus specificepithet:pinnulatus" ; Times: 1
+	Query: "genus:Hypophthalmichthys specificepithet:nobilis" ; Times: 1
+	Query: "genus:Henicorhynchus specificepithet:lobatus" ; Times: 1
+	Query: "genus:Oxyporhamphus specificepithet:micropterus" ; Times: 1
+	Query: "Glaucostegus halavi" ; Times: 2
+	Query: "genus:Barbus specificepithet:gurneyi" ; Times: 1
+	Query: "Mustelus lunulatus" ; Times: 2
+	Query: "genus:Thalassoma specificepithet:bifasciatum" ; Times: 1
+	Query: "Tigrigobius multifasciatus mappable:1" ; Times: 8
+	Query: "genus:Acanthogobius specificepithet:flavimanus" ; Times: 1
+	Query: "genus:Helogenes specificepithet:marmoratus" ; Times: 1
+	Query: "Deania calcea" ; Times: 2
+	Query: "genus:Rita specificepithet:rita" ; Times: 1
+	Query: "genus:Petrotilapia specificepithet:nigra" ; Times: 1
+	Query: "genus:Enophrys specificepithet:lucasi" ; Times: 1
+	Query: "genus:Opsanus specificepithet:pardus" ; Times: 1
+	Query: "genus:Mirolabrichthys specificepithet:dispar" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:garnoti" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:solandri" ; Times: 1
+	Query: "152264" ; Times: 1
+	Query: "genus:Hippocampus specificepithet:bargibanti" ; Times: 1
+	Query: "genus:Sparisoma specificepithet:chrysopterum" ; Times: 1
+	Query: "genus:Docimodus specificepithet:evelynae" ; Times: 1
+	Query: "genus:Lithoxus specificepithet:lithoides" ; Times: 1
+	Query: "Raja straeleni" ; Times: 2
+	Query: "genus:Algansea specificepithet:aphanea" ; Times: 1
+	Query: "genus:Synodontis specificepithet:angelicus" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 2
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "genus:Pseudocheilinops specificepithet:ataenia" ; Times: 1
+	Query: "genus:Icelinus specificepithet:borealis" ; Times: 1
+	Query: "genus:Nemacheilus specificepithet:masyae" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 2
+	Query: "genus:Aulopareia specificepithet:janetae" ; Times: 1
+	Query: "genus:Plectrypops specificepithet:retrospinis" ; Times: 1
+	Query: "genus:Eumicrotremus specificepithet:orbis" ; Times: 1
+	Query: "genus:Cryptotomus specificepithet:roseus" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "smith mountain stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Apristurus riveri" ; Times: 2
+	Query: "genus:Scartella specificepithet:cristata" ; Times: 1
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "genus:Eustomias specificepithet:bifilis" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:irritans" ; Times: 1
+	Query: "genus:Characodon specificepithet:lateralis" ; Times: 1
+	Query: "genus:Parachaenichthys specificepithet:georgianus" ; Times: 1
+	Query: "genus:Dinematichthys specificepithet:iluocoeteoides" ; Times: 1
+	Query: "genus:Pherallodus specificepithet:indicus" ; Times: 1
+	Query: "genus:Careproctus specificepithet:ectenes" ; Times: 1
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "Atelomycterus marmoratus" ; Times: 2
+	Query: "Carcharhinus altimus" ; Times: 2
+	Query: "genus:Anoplagonus specificepithet:inermis" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 8
+	Query: "Mulloidichthys dentatus" ; Times: 10
+	Query: "genus:Leporinus specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:figaro" ; Times: 1
+	Query: "genus:Pelagocephalus specificepithet:marki" ; Times: 1
+	Query: "genus:Laemolyta specificepithet:garmani" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:bennetti" ; Times: 1
+	Query: "Tigrigobius macrodon mappable:1" ; Times: 8
+	Query: "genus:Rachycentron specificepithet:canadum" ; Times: 1
+	Query: "genus:Microcharacidium specificepithet:gnomus" ; Times: 1
+	Query: "genus:Schistura specificepithet:nicholsi" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 2
+	Query: "Hemitriakis leucoperiptera" ; Times: 2
+	Query: "genus:Labrichthys specificepithet:unilineatus" ; Times: 1
+	Query: "genus:Apeltes specificepithet:quadracus" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "genus:Triglops specificepithet:pingelii" ; Times: 1
+	Query: "genus:Icelinus specificepithet:tenuis" ; Times: 1
+	Query: "genus:Squalogadus specificepithet:modificatus" ; Times: 1
+	Query: "genus:Holohalaelurus specificepithet:regani" ; Times: 1
+	Query: "202747 fish" ; Times: 2
+	Query: "Pseudocarcharias kamoharai" ; Times: 2
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 2
+	Query: "genus:Coris specificepithet:aygula" ; Times: 1
+	Query: "genus:Anchoa specificepithet:hepsetus" ; Times: 1
+	Query: "genus:Neoscopelus specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Barbus specificepithet:multilineatus" ; Times: 1
+	Query: "Dipturus oxyrinchus" ; Times: 2
+	Query: "USNM 267853" ; Times: 1
+	Query: "genus:Thryssa specificepithet:baelama" ; Times: 1
+	Query: "genus:Stomatepia specificepithet:mariae" ; Times: 1
+	Query: "USNM 372926" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:fulvus" ; Times: 1
+	Query: "genus:Fistularia specificepithet:commersonii" ; Times: 1
+	Query: "Apristurus macrorhynchus" ; Times: 2
+	Query: "genus:Nautichthys specificepithet:robustus" ; Times: 1
+	Query: "genus:Mochokus specificepithet:niloticus" ; Times: 1
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "genus:Icelus specificepithet:canaliculatus" ; Times: 1
+	Query: "Etmopterus polli" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 2
+	Query: "genus:Rhinobatos specificepithet:leucorhynchus" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 3
+	Query: "genus:Nezumia specificepithet:bairdii" ; Times: 1
+	Query: "genus:Xenentodon specificepithet:cancila" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:lagocephalus" ; Times: 1
+	Query: "GMBL 70-79" ; Times: 1
+	Query: "genus:Photoblepharon specificepithet:palpebratum" ; Times: 1
+	Query: "genus:Cottus specificepithet:princeps" ; Times: 2
+	Query: "genus:Gymnotus specificepithet:carapo" ; Times: 1
+	Query: "genus:Gasterosteus specificepithet:microcephalus" ; Times: 1
+	Query: "genus:Henicorhynchus specificepithet:siamensis" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:multitentaculus" ; Times: 1
+	Query: "Hydrolagus melanophasma" ; Times: 2
+	Query: "Haemulon striatum mappable:1" ; Times: 2
+	Query: "genus:Melanolagus specificepithet:bericoides" ; Times: 1
+	Query: "genus:Gymnothorax specificepithet:chilospilus" ; Times: 1
+	Query: "genus:Odontopyxis specificepithet:trispinosa" ; Times: 1
+	Query: "genus:Tydemania specificepithet:navigatoris" ; Times: 1
+	Query: "genus:Etmopterus specificepithet:virens" ; Times: 1
+	Query: "genus:Osphronemus specificepithet:goramy" ; Times: 1
+	Query: "genus:Bassogigas specificepithet:gillii" ; Times: 1
+	Query: "genus:Luxilus specificepithet:zonistius" ; Times: 1
+	Query: "genus:Acrossocheilus specificepithet:paradoxus" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "genus:Pomacentrus specificepithet:pavo" ; Times: 1
+	Query: "genus:Eviota specificepithet:albolineata" ; Times: 1
+	Query: "genus:Chitonotus specificepithet:pugetensis" ; Times: 1
+	Query: "genus:Diaphus specificepithet:theta" ; Times: 1
+	Query: "genus:Chelaethiops specificepithet:elongatus" ; Times: 1
+	Query: "genus:Trachurus specificepithet:trachurus" ; Times: 1
+	Query: "genus:Nocomis specificepithet:raneyi" ; Times: 1
+	Query: "280774" ; Times: 1
+	Query: "Hippocampus sindonis" ; Times: 3
+	Query: "genus:Sanopus specificepithet:astrifer" ; Times: 1
+	Query: "genus:Notolabrus specificepithet:gymnogenis" ; Times: 1
+	Query: "genus:Harpagifer specificepithet:bispinis" ; Times: 1
+	Query: "genus:Gavialiceps specificepithet:taeniola" ; Times: 1
+	Query: "248330" ; Times: 1
+	Query: "genus:Anoplopoma specificepithet:fimbria" ; Times: 1
+	Query: "genus:Megalaspis specificepithet:cordyla" ; Times: 1
+	Query: "genus:Melichthys specificepithet:niger" ; Times: 1
+	Query: "genus:Notothenia specificepithet:coriiceps" ; Times: 1
+	Query: "genus:Pangio specificepithet:kuhlii" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:masou" ; Times: 1
+	Query: "genus:Gnathodentex specificepithet:aureolineatus" ; Times: 1
+	Query: "Galeus springeri" ; Times: 2
+	Query: "Bathyraja mariposa" ; Times: 2
+	Query: "genus:Anyperodon specificepithet:leucogrammicus" ; Times: 1
+	Query: "genus:Arcos specificepithet:macrophthalmus" ; Times: 1
+	Query: "genus:Goodea specificepithet:atripinnis" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "genus:Occella specificepithet:dodecaedron" ; Times: 2
+	Query: "NMNH 346251" ; Times: 1
+	Query: "catalognumber:104392 institutioncode:USNM" ; Times: 2
+	Query: "genus:Notropis specificepithet:atrocaudalis" ; Times: 1
+	Query: "genus:Alfaro specificepithet:cultratus" ; Times: 1
+	Query: "genus:Fusigobius specificepithet:neophytus" ; Times: 1
+	Query: "genus:Gymnothorax specificepithet:reticularis" ; Times: 1
+	Query: "genus:Sanopus specificepithet:barbatus" ; Times: 1
+	Query: "54126" ; Times: 1
+	Query: "genus:Pristobrycon specificepithet:calmoni" ; Times: 1
+	Query: "genus:Bothrocara specificepithet:nyx" ; Times: 2
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "genus:Ablennes specificepithet:hians" ; Times: 1
+	Query: "genus:Stomias specificepithet:atriventer" ; Times: 1
+	Query: "genus:Symphysodon specificepithet:discus" ; Times: 1
+	Query: "genus:Scarus specificepithet:forsteni" ; Times: 1
+	Query: "genus:Climacoporus specificepithet:navalis" ; Times: 1
+	Query: "Galeus eastmani" ; Times: 2
+	Query: "genus:Elops specificepithet:saurus" ; Times: 1
+	Query: "genus:Diplacanthopoma specificepithet:brachysoma" ; Times: 1
+	Query: "genus:Liparis specificepithet:tunicatus" ; Times: 1
+	Query: "genus:Embiotoca specificepithet:lateralis" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "genus:Antennablennius specificepithet:bifilum" ; Times: 1
+	Query: "Neoharriotta pinnata" ; Times: 2
+	Query: "genus:Mystacoleucus specificepithet:padangensis" ; Times: 1
+	Query: "genus:Careproctus specificepithet:kamikawai" ; Times: 1
+	Query: "genus:Potamothrissa specificepithet:obtusirostris" ; Times: 1
+	Query: "genus:Acrocheilus specificepithet:alutaceus" ; Times: 1
+	Query: "genus:Tetranematichthys specificepithet:wallacei" ; Times: 1
+	Query: "genus:Myloplus specificepithet:rubripinnis" ; Times: 1
+	Query: "genus:Nomorhamphus specificepithet:celebensis" ; Times: 1
+	Query: "genus:Pseudojuloides specificepithet:cerasinus" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "genus:Brevoortia specificepithet:tyrannus" ; Times: 1
+	Query: "genus:Relictus specificepithet:solitarius" ; Times: 1
+	Query: "genus:Cirripectes specificepithet:variolosus" ; Times: 1
+	Query: "genus:Icelus specificepithet:spatula" ; Times: 1
+	Query: "genus:Myleus specificepithet:levis" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:kisutch" ; Times: 1
+	Query: "family:Ogcocephalidae institutioncode:USNM" ; Times: 1
+	Query: "genus:Gobiopterus specificepithet:chuno" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 8
+	Query: "Squatina aculeata" ; Times: 2
+	Query: "Geotria australis" ; Times: 1
+	Query: "genus:Butis specificepithet:butis" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 2
+	Query: "genus:Uropterygius specificepithet:concolor" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:laevigatus" ; Times: 1
+	Query: "Scymnodalatias sherwoodi" ; Times: 2
+	Query: "genus:Diodon specificepithet:holocanthus" ; Times: 1
+	Query: "Pliotrema warreni" ; Times: 2
+	Query: "genus:Characidium" ; Times: 1
+	Query: "genus:Rhomboplites specificepithet:aurorubens" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 2
+	Query: "genus:Triglops specificepithet:metopias" ; Times: 1
+	Query: "genus:Phoxinus specificepithet:phoxinus" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 2
+	Query: "genus:Sebastolobus specificepithet:alascanus" ; Times: 1
+	Query: "genus:Xiphocheilus specificepithet:typus" ; Times: 1
+	Query: "genus:Pseudolabrus specificepithet:guentheri" ; Times: 1
+	Query: "genus:Myleus specificepithet:rhomboidalis" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:ulochir" ; Times: 1
+	Query: "Brachaelurus colcloughi" ; Times: 2
+	Query: "genus:Promethichthys specificepithet:prometheus" ; Times: 1
+	Query: "genus:Notropis specificepithet:scepticus" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "genus:Genyomyrus specificepithet:donnyi" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:poeyi" ; Times: 1
+	Query: "genus:Pseudotylosurus specificepithet:angusticeps" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "genus:Leiuranus specificepithet:semicinctus" ; Times: 1
+	Query: "genus:Luciocephalus specificepithet:pulcher" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 9
+	Query: "genus:Xyrichtys specificepithet:novacula" ; Times: 1
+	Query: "genus:Oxycheilinus specificepithet:digramma" ; Times: 1
+	Query: "genus:Tathicarpus specificepithet:butleri" ; Times: 1
+	Query: "genus:Anarrhichthys specificepithet:ocellatus" ; Times: 1
+	Query: "Himantura leoparda" ; Times: 2
+	Query: "genus:Petromyzon specificepithet:marinus" ; Times: 1
+	Query: "genus:Bathymaster specificepithet:leurolepis" ; Times: 1
+	Query: "sebastes nebulosus" ; Times: 3
+	Query: "genus:Nezumia specificepithet:liolepis" ; Times: 1
+	Query: "Atlantoraja cyclophora" ; Times: 2
+	Query: "genus:Halophryne specificepithet:diemensis" ; Times: 1
+	Query: "genus:Hemitaurichthys specificepithet:polylepis" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:nigripinnis" ; Times: 1
+	Query: "genus:Lateolabrax specificepithet:japonicus" ; Times: 1
+	Query: "genus:Urotrygon specificepithet:rogersi" ; Times: 1
+	Query: "Mobula mobular" ; Times: 2
+	Query: "genus:Allenbatrachus specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Alosa specificepithet:pseudoharengus" ; Times: 1
+	Query: "genus:Poecilia specificepithet:vivipara" ; Times: 1
+	Query: "Gymnura crooki" ; Times: 2
+	Query: "genus:Malacocephalus specificepithet:laevis" ; Times: 1
+	Query: "Heterodontus japonicus" ; Times: 2
+	Query: "genus:Anampses specificepithet:meleagrides" ; Times: 1
+	Query: "genus:Hybognathus specificepithet:regius" ; Times: 1
+	Query: "177197" ; Times: 1
+	Query: "genus:Pseudoraja specificepithet:fischeri" ; Times: 1
+	Query: "genus:Rhamphichthys specificepithet:rostratus" ; Times: 1
+	Query: "genus:Nannaethiops specificepithet:unitaeniatus" ; Times: 1
+	Query: "Apogon lachneri mappable:1" ; Times: 4
+	Query: "genus:Bodianus specificepithet:dictynna" ; Times: 1
+	Query: "genus:Acnodon specificepithet:normani" ; Times: 1
+	Query: "genus:Blepsias specificepithet:bilobus" ; Times: 1
+	Query: "Mobula kuhlii" ; Times: 2
+	Query: "genus:Cyclocheilichthys specificepithet:armatus" ; Times: 1
+	Query: "Coryphopterus eidolon mappable:1" ; Times: 8
+	Query: "genus:Hirculops specificepithet:cornifer" ; Times: 1
+	Query: "genus:Encrasicholina specificepithet:punctifer" ; Times: 1
+	Query: "Chimaera notafricana" ; Times: 2
+	Query: "genus:Pallasina specificepithet:barbata" ; Times: 2
+	Query: "Apristurus parvipinnis" ; Times: 2
+	Query: "genus:Pseudodax specificepithet:moluccanus" ; Times: 1
+	Query: "genus:Barbus specificepithet:anoplus" ; Times: 1
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "genus:Exodon specificepithet:paradoxus" ; Times: 1
+	Query: "genus:Notoclinus specificepithet:fenestratus" ; Times: 1
+	Query: "genus:Tetraodon specificepithet:pustulatus" ; Times: 1
+	Query: "Urotrygon rogersi" ; Times: 2
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Pristiophorus nudipinnis" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:melanurus" ; Times: 1
+	Query: "genus:Hyperprosopon specificepithet:argenteum" ; Times: 1
+	Query: "genus:Brachyopsis specificepithet:segaliensis" ; Times: 2
+	Query: "Heterodontus zebra" ; Times: 2
+	Query: "genus:Coris specificepithet:venusta" ; Times: 1
+	Query: "genus:Idiolychnus specificepithet:urolampus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 2
+	Query: "genus:Piaractus specificepithet:brachypomus" ; Times: 2
+	Query: "USNM 12444" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:podostigma" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:jaok" ; Times: 1
+	Query: "genus:Nectoliparis specificepithet:pelagicus" ; Times: 1
+	Query: "Urotrygon serrula" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 7
+	Query: "genus:Hypleurochilus specificepithet:pseudoaequipinnis" ; Times: 1
+	Query: "genus:Bivibranchia specificepithet:fowleri" ; Times: 1
+	Query: "Scyliorhinus haeckelii" ; Times: 2
+	Query: "genus:Priacanthus specificepithet:hamrur" ; Times: 1
+	Query: "genus:Glyptocephalus specificepithet:zachirus" ; Times: 1
+	Query: "Cruriraja rugosa" ; Times: 2
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:dorsalis" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 2
+	Query: "genus:Pachyurus specificepithet:schomburgkii" ; Times: 1
+	Query: "genus:Eurymen specificepithet:gyrinus" ; Times: 1
+	Query: "genus:Enneacanthus specificepithet:obesus" ; Times: 1
+	Query: "genus:Dinoperca specificepithet:petersi" ; Times: 1
+	Query: "forcipiger longirostris" ; Times: 1
+	Query: "genus:Gephyroberyx specificepithet:darwinii" ; Times: 1
+	Query: "371177" ; Times: 1
+	Query: "genus:Gila specificepithet:atraria" ; Times: 1
+	Query: "371175" ; Times: 1
+	Query: "genus:Notropis specificepithet:buccatus" ; Times: 1
+	Query: "genus:Agosia specificepithet:chrysogaster" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 2
+	Query: "genus:Spinachia specificepithet:spinachia" ; Times: 1
+	Query: "171230" ; Times: 1
+	Query: "genus:Discopyge specificepithet:tschudii" ; Times: 1
+	Query: "genus:Pleurogramma specificepithet:antarctica" ; Times: 1
+	Query: "genus:Ophiodon specificepithet:elongatus" ; Times: 1
+	Query: "genus:Bathygobius specificepithet:fuscus" ; Times: 1
+	Query: "cohen south carolina" ; Times: 1
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 1
+	Query: "Psammobatis extenta" ; Times: 2
+	Query: "genus:Malacoctenus specificepithet:ebisui" ; Times: 1
+	Query: "237561" ; Times: 1
+	Query: "genus:Scorpaenichthys specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Magosternarchus specificepithet:raptor" ; Times: 1
+	Query: "genus:Cyphotilapia specificepithet:frontosa" ; Times: 1
+	Query: "genus:Hypsoblennius specificepithet:jenkinsi" ; Times: 1
+	Query: "genus:Trichomycterus specificepithet:areolatus" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:smithae" ; Times: 1
+	Query: "genus:Gasterosteus specificepithet:wheatlandi" ; Times: 1
+	Query: "genus:Xenojulis specificepithet:margaritaceus" ; Times: 1
+	Query: "Kyphosus incisor mappable:1" ; Times: 2
+	Query: "Okamejei heemstrai" ; Times: 2
+	Query: "genus:Brotula specificepithet:multibarbata" ; Times: 1
+	Query: "genus:Trematocranus specificepithet:microstoma" ; Times: 1
+	Query: "catalognumber:316531 institutioncode:USNM" ; Times: 3
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "genus:Daector specificepithet:reticulata" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:amazonicus" ; Times: 2
+	Query: "genus:Gobiesox specificepithet:juradoensis" ; Times: 1
+	Query: "genus:Triglops specificepithet:forficatus" ; Times: 1
+	Query: "genus:Merluccius specificepithet:senegalensis" ; Times: 1
+	Query: "72010" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "genus:Ahlia specificepithet:egmontis" ; Times: 1
+	Query: "Chimaera cubana" ; Times: 2
+	Query: "genus:Pegasus specificepithet:volitans" ; Times: 1
+	Query: "genus:Barbus specificepithet:trevelyani" ; Times: 1
+	Query: "genus:Oligocottus specificepithet:rimensis" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 8
+	Query: "genus:Clinocottus specificepithet:globiceps" ; Times: 1
+	Query: "genus:Hemichromis specificepithet:bimaculatus" ; Times: 1
+	Query: "genus:Normanichthys specificepithet:crockeri" ; Times: 1
+	Query: "genus:Diodon specificepithet:nicthemerus" ; Times: 1
+	Query: "genus:Rostroraja specificepithet:alba" ; Times: 1
+	Query: "genus:Rhinogobio specificepithet:typus" ; Times: 1
+	Query: "genus:Cynodon specificepithet:gibbus" ; Times: 1
+	Query: "genus:Hemilepidotus specificepithet:hemilepidotus" ; Times: 1
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 1
+	Query: "genus:Micralestes specificepithet:humilis" ; Times: 1
+	Query: "genus:Triglops specificepithet:nybelini" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:genie" ; Times: 1
+	Query: "Deania hystricosa" ; Times: 2
+	Query: "Anostomoides laticeps" ; Times: 1
+	Query: "Halaelurus natalensis" ; Times: 2
+	Query: "Centroscymnus owstonii" ; Times: 2
+	Query: "genus:Dialommus specificepithet:fuscus" ; Times: 1
+	Query: "genus:Pungitius specificepithet:pungitius" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "genus:Ricuzenius specificepithet:pinetorum" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "genus:Zaprora specificepithet:silenus" ; Times: 1
+	Query: "Torpedo mackayana" ; Times: 2
+	Query: "genus:Homaloptera specificepithet:gymnogaster" ; Times: 3
+	Query: "genus:Bagarius specificepithet:bagarius" ; Times: 1
+	Query: "genus:Metynnis specificepithet:altidorsalis" ; Times: 1
+	Query: "Apristurus spongiceps" ; Times: 2
+	Query: "genus:Richardsonius specificepithet:balteatus" ; Times: 1
+	Query: "genus:Batrachoides specificepithet:gilberti" ; Times: 1
+	Query: "genus:Xiphasia specificepithet:matsubarai" ; Times: 1
+	Query: "genus:Dermogenys specificepithet:bruneiensis" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "genus:Tomicodon specificepithet:rupestris" ; Times: 1
+	Query: "genus:Ptychocheilus specificepithet:umpquae" ; Times: 1
+	Query: "genus:Chromis specificepithet:chromis" ; Times: 1
+	Query: "genus:Stolephorus specificepithet:indicus" ; Times: 1
+	Query: "Scylliogaleus quecketti" ; Times: 2
+	Query: "Carcharhinus galapagensis" ; Times: 2
+	Query: "Fenestraja ishiyamai" ; Times: 2
+	Query: "genus:Papyrocranus specificepithet:afer" ; Times: 1
+	Query: "genus:Brachionichthys specificepithet:hirsutus" ; Times: 1
+	Query: "Scoliodon laticaudus" ; Times: 2
+	Query: "Dipturus kwangtungensis" ; Times: 2
+	Query: "genus:Etroplus specificepithet:suratensis" ; Times: 1
+	Query: "genus:Xyliphius specificepithet:lepturus" ; Times: 1
+	Query: "genus:Tridentiger specificepithet:obscurus" ; Times: 1
+	Query: "genus:Lythrypnus specificepithet:dalli" ; Times: 1
+	Query: "Bathyraja smirnovi" ; Times: 2
+	Query: "Triakis maculata" ; Times: 2
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "genus:Liparis specificepithet:fucensis" ; Times: 1
+	Query: "Halichoeres pictus mappable:1" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:testudineus" ; Times: 1
+	Query: "Etmopterus virens" ; Times: 2
+	Query: "Elacatinus evelynae mappable:1" ; Times: 8
+	Query: "genus:Gnatholepis specificepithet:anjerensis" ; Times: 1
+	Query: "genus:Sternarchorhynchus specificepithet:cramptoni" ; Times: 2
+	Query: "genus:Barbus specificepithet:atromaculatus" ; Times: 1
+	Query: "genus:Genyochromis specificepithet:mento" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:inermis" ; Times: 1
+	Query: "Bathyraja isotrachys" ; Times: 2
+	Query: "Galeus piperatus" ; Times: 2
+	Query: "genus:Forcipiger specificepithet:longirostris" ; Times: 1
+	Query: "genus:Aethotaxis specificepithet:mitopteryx" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "genus:Roeboides specificepithet:affinis" ; Times: 1
+	Query: "Chimaera jordani" ; Times: 2
+	Query: "Gramma loreto mappable:1" ; Times: 8
+	Query: "genus:Chaenodraco specificepithet:wilsoni" ; Times: 1
+	Query: "genus:Hybognathus specificepithet:hayi" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 2
+	Query: "SU 4330" ; Times: 1
+	Query: "genus:Paraconger specificepithet:caudilimbatus" ; Times: 1
+	Query: "genus:Gastromyzon specificepithet:borneensis" ; Times: 2
+	Query: "genus:Loweina specificepithet:rara" ; Times: 1
+	Query: "genus:Porichthys specificepithet:pauciradiatus" ; Times: 1
+	Query: "genus:Perca specificepithet:fluviatilis" ; Times: 1
+	Query: "genus:Eremichthys specificepithet:acros" ; Times: 1
+	Query: "genus:Pterycombus specificepithet:brama" ; Times: 1
+	Query: "genus:Dolloidraco specificepithet:longedorsalis" ; Times: 1
+	Query: "genus:Brachyistius specificepithet:frenatus" ; Times: 1
+	Query: "genus:Paracheilinus specificepithet:filamentosus" ; Times: 1
+	Query: "USNM 7364" ; Times: 2
+	Query: "genus:Anomalochromis specificepithet:thomasi" ; Times: 1
+	Query: "USNM 90349" ; Times: 1
+	Query: "genus:Brycinus specificepithet:nurse" ; Times: 1
+	Query: "USNM 7369" ; Times: 3
+	Query: "genus:Phucocoetes specificepithet:latitans" ; Times: 1
+	Query: "genus:Anampses specificepithet:cuvier" ; Times: 1
+	Query: "Galeus polli" ; Times: 2
+	Query: "H. E. ANthony AND Island" ; Times: 1
+	Query: "genus:Artedius specificepithet:lateralis" ; Times: 2
+	Query: "Trygonorrhina fasciata" ; Times: 2
+	Query: "USNM 258179" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:leucurus" ; Times: 1
+	Query: "genus:Alosa specificepithet:aestivalis" ; Times: 1
+	Query: "genus:Xenomystax specificepithet:atrarius" ; Times: 1
+	Query: "genus:Oxygaster specificepithet:anomalura" ; Times: 1
+	Query: "genus:Roeboides specificepithet:dayi" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "Apristurus profundorum" ; Times: 2
+	Query: "genus:Thryssa specificepithet:hamiltonii" ; Times: 1
+	Query: "genus:Barbus specificepithet:unitaeniatus" ; Times: 1
+	Query: "genus:Artediellichthys" ; Times: 1
+	Query: "genus:Setipinna specificepithet:taty" ; Times: 1
+	Query: "190276" ; Times: 1
+	Query: "Gymnura zonura" ; Times: 2
+	Query: "genus pod" ; Times: 1
+	Query: "genus:Neoplecostomus specificepithet:microps" ; Times: 1
+	Query: "genus:Bero specificepithet:elegans" ; Times: 1
+	Query: "genus:Rondeletia specificepithet:bicolor" ; Times: 1
+	Query: "genus:Cryptopsaras specificepithet:couesii" ; Times: 1
+	Query: "genus:Batrachomoeus specificepithet:trispinosus" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 2
+	Query: "USNM 130743" ; Times: 1
+	Query: "genus:Sewellia specificepithet:elongata" ; Times: 1
+	Query: "catalognumber:52358 institutioncode:USNM" ; Times: 1
+	Query: "Puntius sealei" ; Times: 1
+	Query: "genus:Diplospinus specificepithet:multistriatus" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 2
+	Query: "genus:Pygocentrus specificepithet:piraya" ; Times: 1
+	Query: "genus:Medialuna specificepithet:californiensis" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "genus:Canthigaster specificepithet:compressa" ; Times: 1
+	Query: "genus:Macropharyngodon specificepithet:geoffroy" ; Times: 1
+	Query: "genus:Rimicola specificepithet:muscarum" ; Times: 1
+	Query: "Furgaleus macki" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "genus:Hypophthalmichthys specificepithet:molitrix" ; Times: 1
+	Query: "Urotrygon aspidura" ; Times: 2
+	Query: "genus:Campostoma specificepithet:pauciradii" ; Times: 1
+	Query: "genus:Auriglobus specificepithet:silus" ; Times: 1
+	Query: "Rhinobatos lionotus" ; Times: 2
+	Query: "genus:Sabanejewia specificepithet:larvata" ; Times: 1
+	Query: "genus:Pimelodus specificepithet:blochii" ; Times: 1
+	Query: "genus:Evermannichthys specificepithet:spongicola" ; Times: 1
+	Query: "Rhinochimaera pacifica" ; Times: 2
+	Query: "genus:Himantura specificepithet:walga" ; Times: 1
+	Query: "genus:Hemiemblemaria specificepithet:simulus" ; Times: 1
+	Query: "genus:Gomphosus specificepithet:varius" ; Times: 1
+	Query: "catalognumber:376525 institutioncode:USNM" ; Times: 5
+	Query: "Urolophus halleri" ; Times: 2
+	Query: "genus:Emblemariopsis specificepithet:randalli" ; Times: 1
+	Query: "genus:Acanthemblemaria specificepithet:exilispinus" ; Times: 1
+	Query: "genus:Johnsonina specificepithet:eriomma" ; Times: 1
+	Query: "genus:Pristis specificepithet:pectinata" ; Times: 1
+	Query: "genus:Paragoniates specificepithet:alburnus" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 2
+	Query: "genus:Metynnis specificepithet:hypsauchen" ; Times: 1
+	Query: "371180" ; Times: 1
+	Query: "genus:Apodichthys specificepithet:flavidus" ; Times: 1
+	Query: "Trygonoptera testacea" ; Times: 2
+	Query: "Bodianus pulchellus mappable:1" ; Times: 2
+	Query: "genus:Corematodus specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Paraclinus specificepithet:walkeri" ; Times: 1
+	Query: "Pristiophorus japonicus" ; Times: 2
+	Query: "genus:Paraliparis specificepithet:cephalus" ; Times: 1
+	Query: "genus:Liparis specificepithet:rutteri" ; Times: 1
+	Query: "Pentanchus profundicolus" ; Times: 2
+	Query: "genus:Leptoscarus specificepithet:vaigiensis" ; Times: 1
+	Query: "Cirrhigaleus asper" ; Times: 2
+	Query: "genus:Pseudochaenichthys specificepithet:georgianus" ; Times: 1
+	Query: "genus:Floridichthys specificepithet:carpio" ; Times: 1
+	Query: "genus:Danacetichthys specificepithet:galathenus" ; Times: 1
+	Query: "genus:Chilotilapia specificepithet:rhoadesii" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 2
+	Query: "Bathyraja pseudoisotrachys" ; Times: 2
+	Query: "genus:Nannocharax specificepithet:fasciatus" ; Times: 1
+	Query: "Halaelurus lineatus" ; Times: 2
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "genus:Bathyraja specificepithet:interrupta" ; Times: 1
+	Query: "Gillellus greyae mappable:1" ; Times: 8
+	Query: "Pristis perotteti" ; Times: 2
+	Query: "Chiloscyllium arabicum" ; Times: 2
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:prosopeion" ; Times: 1
+	Query: "genus:Arothron specificepithet:diadematus" ; Times: 1
+	Query: "genus:Coelorinchus specificepithet:caelorhincus" ; Times: 1
+	Query: "genus:Cymolutes specificepithet:torquatus" ; Times: 1
+	Query: "genus:Planiloricaria specificepithet:cryptodon" ; Times: 1
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Acentronura" ; Times: 2
+	Query: "genus:Gobiesox specificepithet:schultzi" ; Times: 1
+	Query: "genus:Stolephorus specificepithet:nelsoni" ; Times: 1
+	Query: "genus:Bujurquina specificepithet:eurhinus" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "genus:Trinectes specificepithet:fimbriatus" ; Times: 1
+	Query: "genus:Hexagrammos specificepithet:lagocephalus" ; Times: 1
+	Query: "genus:Echidna specificepithet:nebulosa" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "genus:Serraniculus specificepithet:pumilio" ; Times: 1
+	Query: "38252" ; Times: 1
+	Query: "genus:Barbus specificepithet:callensis" ; Times: 1
+	Query: "Narcine timlei" ; Times: 2
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "genus:Paranebris specificepithet:bauchotae" ; Times: 1
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Dactylobatus clarkii" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "84342" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "Atelomycterus macleayi" ; Times: 2
+	Query: "genus:Barbus specificepithet:stigmatopygus" ; Times: 1
+	Query: "genus:Marcusenius specificepithet:cyprinoides" ; Times: 1
+	Query: "genus:Loricaria specificepithet:clavipinna" ; Times: 1
+	Query: "Triakis acutipinna" ; Times: 2
+	Query: "genus:Eumicrotremus specificepithet:andriashevi" ; Times: 1
+	Query: "Deania profundorum" ; Times: 2
+	Query: "genus:Rivulus specificepithet:atratus" ; Times: 1
+	Query: "genus:Trachipterus specificepithet:altivelis" ; Times: 1
+	Query: "Hexanchus nakamurai" ; Times: 2
+	Query: "genus:Notropis specificepithet:anogenus" ; Times: 1
+	Query: "genus:Plecoglossus specificepithet:altivelis" ; Times: 1
+	Query: "genus:Labrus specificepithet:merula" ; Times: 1
+	Query: "Cephaloscyllium ventriosum" ; Times: 2
+	Query: "genus:Pteragogus specificepithet:cryptus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:xanthiprora" ; Times: 1
+	Query: "genus:Alepes specificepithet:melanoptera" ; Times: 1
+	Query: "genus:Siluranodon specificepithet:auritus" ; Times: 1
+	Query: "Bathyraja macloviana" ; Times: 2
+	Query: "genus:Synchirus specificepithet:gilli" ; Times: 1
+	Query: "genus:Careproctus specificepithet:melanurus" ; Times: 1
+	Query: "catalognumber:38834" ; Times: 1
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 2
+	Query: "Rhinoptera javanica" ; Times: 2
+	Query: "genus:Mulloidichthys specificepithet:flavolineatus" ; Times: 1
+	Query: "genus:Thalassoma specificepithet:lutescens" ; Times: 1
+	Query: "Centroscyllium nigrum" ; Times: 2
+	Query: "Torpedo panthera" ; Times: 2
+	Query: "Urotrygon peruanus" ; Times: 2
+	Query: "genus:Acanthemblemaria specificepithet:chaplini" ; Times: 1
+	Query: "genus:Barbus specificepithet:anema" ; Times: 1
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Chiloscyllium griseum" ; Times: 2
+	Query: "Scyliorhinus garmani" ; Times: 2
+	Query: "Sargocentron coruscum mappable:1" ; Times: 2
+	Query: "214058" ; Times: 1
+	Query: "Lithognathus mormyrus" ; Times: 2
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 1
+	Query: "Heterodontus quoyi" ; Times: 2
+	Query: "genus:Icelinus specificepithet:quadriseriatus" ; Times: 1
+	Query: "USNM 65512" ; Times: 1
+	Query: "genus:Parapercis specificepithet:cylindrica" ; Times: 1
+	Query: "genus:Adontosternarchus specificepithet:sachsi" ; Times: 1
+	Query: "genus:Microsternarchus specificepithet:bilineatus" ; Times: 1
+	Query: "usnm 337654" ; Times: 1
+	Query: "Hemiscyllium michaeli" ; Times: 2
+	Query: "genus:Variola specificepithet:louti" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "genus:Roeboides specificepithet:myersii" ; Times: 1
+	Query: "genus:Caranx specificepithet:hippos" ; Times: 1
+	Query: "Pseudoraja fischeri" ; Times: 2
+	Query: "genus:Panaque specificepithet:nigrolineatus" ; Times: 1
+	Query: "191092" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "genus:Meiacanthus specificepithet:atrodorsalis" ; Times: 2
+	Query: "genus:Barbus specificepithet:barbus" ; Times: 1
+	Query: "genus:Symbolophorus specificepithet:californiensis" ; Times: 1
+	Query: "genus:Sternarchorhamphus specificepithet:muelleri" ; Times: 1
+	Query: "genus:Echeneis specificepithet:naucrates" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "genus:Barbus specificepithet:perince" ; Times: 1
+	Query: "genus:Aluterus specificepithet:monoceros" ; Times: 1
+	Query: "genus:Anodontostoma specificepithet:chacunda" ; Times: 1
+	Query: "205751" ; Times: 1
+	Query: "genus:Rhacochilus specificepithet:vacca" ; Times: 1
+	Query: "41814" ; Times: 1
+	Query: "genus:Algansea specificepithet:tincella" ; Times: 1
+	Query: "genus:Apagesoma specificepithet:edentatum" ; Times: 1
+	Query: "genus:Icelus specificepithet:ochotensis" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:serranilla" ; Times: 1
+	Query: "genus:Icichthys specificepithet:lockingtoni" ; Times: 1
+	Query: "genus:Scarus specificepithet:niger" ; Times: 1
+	Query: "genus:Nautichthys specificepithet:oculofasciatus" ; Times: 1
+	Query: "Urotrygon munda" ; Times: 2
+	Query: "genus:Cyphocharax specificepithet:spilurus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 4
+	Query: "genus:Enophrys specificepithet:diceraus" ; Times: 1
+	Query: "genus:Roeboides specificepithet:occidentalis" ; Times: 1
+	Query: "Elacatinus horsti mappable:1" ; Times: 8
+	Query: "genus:Apteronotus specificepithet:cuchillo" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:punctatissima" ; Times: 1
+	Query: "genus:Batrachoides specificepithet:walkeri" ; Times: 1
+	Query: "genus:Bassozetus specificepithet:normalis" ; Times: 1
+	Query: "genus:Metriaclima" ; Times: 1
+	Query: "genus:Tetraodon specificepithet:miurus" ; Times: 1
+	Query: "genus:Cremnochorites specificepithet:capensis" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:nipponensis" ; Times: 1
+	Query: "genus:Benthosema specificepithet:glaciale" ; Times: 1
+	Query: "genus:Gadopsis specificepithet:marmoratus" ; Times: 1
+	Query: "USNM 306534" ; Times: 1
+	Query: "genus:Lacantunia specificepithet:enigmatica" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "genus:Simochromis specificepithet:diagramma" ; Times: 1
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "genus:Dascyllus specificepithet:aruanus" ; Times: 1
+	Query: "catalognumber:124944 institutioncode:USNM" ; Times: 2
+	Query: "genus:Enoplosus specificepithet:armatus" ; Times: 1
+	Query: "genus:Mylopharodon specificepithet:conocephalus" ; Times: 1
+	Query: "genus:Sympterygia specificepithet:bonapartii" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Pastinachus sephen" ; Times: 2
+	Query: "Apristurus platyrhynchus" ; Times: 2
+	Query: "genus:Porogadus specificepithet:miles" ; Times: 1
+	Query: "genus:Bassozetus specificepithet:zenkevitchi" ; Times: 1
+	Query: "genus:Ogcocephalus specificepithet:cubifrons" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:binotopsis" ; Times: 1
+	Query: "genus:Pimelodella specificepithet:cristata" ; Times: 1
+	Query: "genus:Pungitius specificepithet:sinensis" ; Times: 1
+	Query: "347916" ; Times: 1
+	Query: "genus:Neoditrema specificepithet:ransonnetii" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 6
+	Query: "genus:Fistularia specificepithet:petimba" ; Times: 1
+	Query: "genus:Microthrissa specificepithet:congica" ; Times: 1
+	Query: "genus:Paralaubuca specificepithet:typus" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:boehlkei" ; Times: 1
+	Query: "genus:Mormyrus specificepithet:rume" ; Times: 1
+	Query: "Orectolobus japonicus" ; Times: 2
+	Query: "53533" ; Times: 1
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 1
+	Query: "NMNH 337312" ; Times: 1
+	Query: "genus:Amblycirrhitus specificepithet:pinos" ; Times: 1
+	Query: "genus:Agonopsis specificepithet:vulsa" ; Times: 1
+	Query: "genus:Ptychocheilus specificepithet:oregonensis" ; Times: 1
+	Query: "genus:Phenacobius specificepithet:teretulus" ; Times: 1
+	Query: "genus:Paraliparis specificepithet:pectoralis" ; Times: 1
+	Query: "genus:Chiasmodon specificepithet:niger" ; Times: 1
+	Query: "genus:Coryphaenoides specificepithet:filifer" ; Times: 1
+	Query: "genus:Bascanichthys specificepithet:bascanium" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "genus:Pseudocoris specificepithet:yamashiroi" ; Times: 1
+	Query: "Scyliorhinus besnardi" ; Times: 2
+	Query: "genus:Etropus specificepithet:crossotus" ; Times: 1
+	Query: "Cephalurus cephalus" ; Times: 2
+	Query: "NMNH 307233" ; Times: 2
+	Query: "genus:Pervagor specificepithet:spilosoma" ; Times: 1
+	Query: "genus:Jupiaba specificepithet:poranga" ; Times: 1
+	Query: "Heterodontus ramalheira" ; Times: 2
+	Query: "genus:Clarias specificepithet:batrachus" ; Times: 1
+	Query: "genus:Platytroctes specificepithet:apus" ; Times: 1
+	Query: "Mustelus dorsalis" ; Times: 2
+	Query: "genus:Elacatinus specificepithet:chancei" ; Times: 1
+	Query: "genus:Parastromateus specificepithet:niger" ; Times: 1
+	Query: "genus:Hesperoleucus specificepithet:symmetricus" ; Times: 1
+	Query: "genus:Monocentris specificepithet:japonica" ; Times: 1
+	Query: "Gymnura australis" ; Times: 2
+	Query: "genus:Labeotropheus specificepithet:trewavasae" ; Times: 1
+	Query: "genus:Labroides specificepithet:pectoralis" ; Times: 1
+	Query: "Rhinobatos irvinei" ; Times: 2
+	Query: "genus:Bodianus specificepithet:mesothorax" ; Times: 1
+	Query: "genus:Hipposcarus specificepithet:longiceps" ; Times: 1
+	Query: "genus:Ambassis specificepithet:ambassis" ; Times: 1
+	Query: "Cirrhoscyllium expolitum" ; Times: 2
+	Query: "Rhinobatos annandalei" ; Times: 2
+	Query: "Aetomylaeus nichofii" ; Times: 2
+	Query: "genus:Amblyrhynchichthys specificepithet:truncatus" ; Times: 1
+	Query: "genus:Pseudolaguvia specificepithet:kapuri" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 2
+	Query: "genus:Icelus specificepithet:uncinalis" ; Times: 1
+	Query: "Benthobatis kreffti" ; Times: 2
+	Query: "genus:Phallocottus specificepithet:obtusus" ; Times: 1
+	Query: "genus:Heminodus specificepithet:philippinus" ; Times: 1
+	Query: "genus:Fistularia specificepithet:tabacaria" ; Times: 1
+	Query: "genus:Ranzania specificepithet:laevis" ; Times: 1
+	Query: "40509" ; Times: 1
+	Query: "Fenestraja sinusmexicanus" ; Times: 2
+	Query: "Chaetodon striatus mappable:1" ; Times: 9
+	Query: "genus:Perulibatrachus specificepithet:rossignoli" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:strumosus" ; Times: 1
+	Query: "Leptocharias smithii" ; Times: 2
+	Query: "genus:Stylephorus specificepithet:chordatus" ; Times: 1
+	Query: "Rhina ancylostoma" ; Times: 2
+	Query: "genus:Myxodes specificepithet:viridis" ; Times: 1
+	Query: "genus:Rhamdia specificepithet:quelen" ; Times: 1
+	Query: "genus:Thalassophryne specificepithet:nattereri" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:costata" ; Times: 2
+	Query: "genus:Neocottus specificepithet:thermalis" ; Times: 1
+	Query: "genus:Enneanectes specificepithet:reticulatus" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Eucrossorhinus dasypogon" ; Times: 2
+	Query: "Neoharriotta pumila" ; Times: 2
+	Query: "genus:Oxycheilinus specificepithet:orientalis" ; Times: 1
+	Query: "genus:Tilapia specificepithet:sparrmanii" ; Times: 1
+	Query: "genus:Noturus specificepithet:flavus" ; Times: 1
+	Query: "genus:Artediellus specificepithet:fuscimentus" ; Times: 1
+	Query: "genus:Bellator specificepithet:militaris" ; Times: 2
+	Query: "genus:Enophrys specificepithet:bison" ; Times: 1
+	Query: "zungaro zungaro" ; Times: 1
+	Query: "genus:Hypomasticus specificepithet:megalepis" ; Times: 1
+	Query: "genus:Chlorurus specificepithet:bleekeri" ; Times: 1
+	Query: "genus:Labichthys specificepithet:carinatus" ; Times: 1
+	Query: "genus:Sternarchorhynchus specificepithet:stewarti" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Bathyraja magellanica" ; Times: 2
+	Query: "genus:Pristiapogon specificepithet:fraenatus" ; Times: 1
+	Query: "Bathyraja lindbergi" ; Times: 2
+	Query: "Psammobatis rudis" ; Times: 2
+	Query: "genus:Oncorhynchus specificepithet:keta" ; Times: 1
+	Query: "genus:Akarotaxis specificepithet:nudiceps" ; Times: 1
+	Query: "genus:Labeo specificepithet:parvus" ; Times: 1
+	Query: "genus:Asprocottus specificepithet:herzensteini" ; Times: 1
+	Query: "genus:Placidochromis specificepithet:milomo" ; Times: 1
+	Query: "genus:Decodon specificepithet:puellaris" ; Times: 1
+	Query: "Discopyge tschudii" ; Times: 2
+	Query: "genus:Zacco specificepithet:platypus" ; Times: 1
+	Query: "genus:Ichthyococcus specificepithet:ovatus" ; Times: 1
+	Query: "genus:Notropis specificepithet:hypsilepis" ; Times: 1
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "genus:Acanthostracion specificepithet:quadricornis" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 2
+	Query: "genus:Symphurus specificepithet:plagiusa" ; Times: 1
+	Query: "Solea impar" ; Times: 3
+	Query: "genus:Cochleoceps specificepithet:spatula" ; Times: 2
+	Query: "371181" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 2
+	Query: "Rotuma" ; Times: 3
+	Query: "Brachaelurus waddi" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "USNM 370046" ; Times: 2
+	Query: "genus:Albula specificepithet:vulpes" ; Times: 1
+	Query: "genus:Emblemaria specificepithet:diphyodontis" ; Times: 1
+	Query: "Heterodontus galeatus" ; Times: 2
+	Query: "genus:Hypoptopoma specificepithet:thoracatum" ; Times: 2
+	Query: "Bathyraja spinicauda" ; Times: 2
+	Query: "Raja polystigma" ; Times: 2
+	Query: "genus:Halichoeres specificepithet:bivittatus" ; Times: 1
+	Query: "genus:Acyrtus specificepithet:artius" ; Times: 1
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "genus:Colletteichthys specificepithet:occidentalis" ; Times: 1
+	Query: "genus:Hybopsis specificepithet:lineapunctata" ; Times: 1
+	Query: "214269" ; Times: 1
+	Query: "genus:Batrachomoeus specificepithet:dubius" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "genus:Rhynchocypris" ; Times: 1
+	Query: "genus:Xenomedea specificepithet:rhodopyga" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "genus:Prionotus specificepithet:ophryas" ; Times: 1
+	Query: "Hemitriakis japanica" ; Times: 2
+	Query: "USNM 271584" ; Times: 4
+	Query: "genus:Neoclinus specificepithet:blanchardi" ; Times: 1
+	Query: "genus:Leporinus specificepithet:fasciatus" ; Times: 1
+	Query: "Mobula eregoodootenkee" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "genus:Gobiesox specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Hypsoblennius specificepithet:brevipinnis" ; Times: 1
+	Query: "genus:Acreichthys specificepithet:tomentosus" ; Times: 1
+	Query: "genus:Gasterosteus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Cheimerius specificepithet:nufar" ; Times: 1
+	Query: "Narcine vermiculatus" ; Times: 2
+	Query: "genus:Puntius specificepithet:sophore" ; Times: 1
+	Query: "genus:Psilorhynchus specificepithet:sucatio" ; Times: 1
+	Query: "genus:Notropis specificepithet:nazas" ; Times: 1
+	Query: "genus:Stethojulis specificepithet:balteata" ; Times: 1
+	Query: "genus:Belonion specificepithet:apodion" ; Times: 1
+	Query: "217226 fish" ; Times: 1
+	Query: "genus:Catathyridium specificepithet:jenynsii" ; Times: 1
+	Query: "Sympterygia acuta" ; Times: 2
+	Query: "genus:Callechelys specificepithet:marmorata" ; Times: 1
+	Query: "genus:Thaleichthys specificepithet:pacificus" ; Times: 1
+	Query: "genus:Arothron specificepithet:meleagris" ; Times: 1
+	Query: "genus:Myloplus specificepithet:rhomboidalis" ; Times: 1
+	Query: "genus:Gnathopogon specificepithet:elongatus" ; Times: 1
+	Query: "genus:Zanclus specificepithet:cornutus" ; Times: 1
+	Query: "genus:Pristella specificepithet:maxillaris" ; Times: 1
+	Query: "Leucoraja circularis" ; Times: 2
+	Query: "genus:Cantherhines specificepithet:sandwichiensis" ; Times: 1
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 1
+	Query: "genus:Xeneretmus specificepithet:ritteri" ; Times: 1
+	Query: "genus:Barbus specificepithet:callipterus" ; Times: 1
+	Query: "genus:Barbus specificepithet:holotaenia" ; Times: 1
+	Query: "genus:Chanos specificepithet:chanos" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:margaritae" ; Times: 1
+	Query: "paralabrax auroguttatus" ; Times: 3
+	Query: "Sphyrna media" ; Times: 2
+	Query: "Aptychotrema rostrata" ; Times: 2
+	Query: "Haploblepharus edwardsii" ; Times: 2
+	Query: "genus:Serrasalmus specificepithet:rhombeus" ; Times: 1
+	Query: "Fenestraja plutonia" ; Times: 2
+	Query: "genus:Dysomma specificepithet:anguillare" ; Times: 1
+	Query: "genus:Vanderhorstia specificepithet:delagoae" ; Times: 1
+	Query: "genus:Erilepis specificepithet:zonifer" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Myripristis specificepithet:jacobus" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:quadricornis" ; Times: 1
+	Query: "genus:Notropis specificepithet:amabilis" ; Times: 1
+	Query: "genus:Rhinoliparis specificepithet:barbulifer" ; Times: 1
+	Query: "genus:Gnathanodon specificepithet:speciosus" ; Times: 1
+	Query: "genus:Cosmocampus specificepithet:albirostris" ; Times: 1
+	Query: "genus:Labiobarbus specificepithet:leptocheilus" ; Times: 1
+	Query: "58088" ; Times: 1
+	Query: "Lipogramma anabantoides mappable:1" ; Times: 8
+	Query: "Callionymus bairdi mappable:1" ; Times: 9
+	Query: "Scyliorhinus torazame" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 2
+	Query: "Mustelus mento" ; Times: 2
+	Query: "genus:Gila specificepithet:robusta" ; Times: 1
+	Query: "135721" ; Times: 1
+	Query: "genus:Parmaturus specificepithet:xaniurus" ; Times: 1
+	Query: "genus:Notropis specificepithet:heterodon" ; Times: 1
+	Query: "genus:Pectenocypris specificepithet:korthausae" ; Times: 1
+	Query: "USNM 194125" ; Times: 1
+	Query: "genus:Eumicrotremus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Pseudocheilinus specificepithet:evanidus" ; Times: 1
+	Query: "genus:Epiplatys specificepithet:sexfasciatus" ; Times: 1
+	Query: "Dasyatis brevis" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "genus:Cryodraco specificepithet:antarcticus" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "genus:Coris specificepithet:julis" ; Times: 1
+	Query: "Centroscymnus crepidater" ; Times: 2
+	Query: "genus:Neoclinus specificepithet:toshimaensis" ; Times: 1
+	Query: "Apristurus aphyodes" ; Times: 2
+	Query: "genus:Osteobrama specificepithet:cunma" ; Times: 1
+	Query: "genus:Otopharynx specificepithet:brooksi" ; Times: 2
+	Query: "Hemiscyllium ocellatum" ; Times: 2
+	Query: "genus:Gobioides specificepithet:broussonnetii" ; Times: 1
+	Query: "genus:Hypopygus specificepithet:lepturus" ; Times: 1
+	Query: "Halaelurus buergeri" ; Times: 2
+	Query: "genus:Diplocrepis specificepithet:puniceus" ; Times: 1
+	Query: "genus:Barbus specificepithet:camptacanthus" ; Times: 1
+	Query: "genus:Oxycheilinus specificepithet:celebicus" ; Times: 1
+	Query: "Histiobranchus australis" ; Times: 1
+	Query: "genus:Paricelinus specificepithet:hopliticus" ; Times: 1
+	Query: "genus:Chrysichthys specificepithet:auratus" ; Times: 1
+	Query: "genus:Bujurquina specificepithet:mariae" ; Times: 1
+	Query: "genus:Micropogonias specificepithet:undulatus" ; Times: 1
+	Query: "Apristurus nasutus" ; Times: 2
+	Query: "Breviraja marklei" ; Times: 2
+	Query: "genus:Abramis specificepithet:brama" ; Times: 1
+	Query: "genus:Indostomus specificepithet:paradoxus" ; Times: 1
+	Query: "USNM 199011" ; Times: 1
+	Query: "genus:Diceratias specificepithet:bispinosus" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "genus:Polypterus specificepithet:senegalus" ; Times: 1
+	Query: "genus:Gramma specificepithet:loreto" ; Times: 1
+	Query: "Cephaloscyllium isabellum" ; Times: 2
+	Query: "Somniosus microcephalus" ; Times: 2
+	Query: "genus:Nicholsina specificepithet:usta" ; Times: 1
+	Query: "99520 fish" ; Times: 1
+	Query: "genus:Trematomus specificepithet:bernacchii" ; Times: 1
+	Query: "genus:Diodon specificepithet:hystrix" ; Times: 1
+	Query: "genus:Tigrigobius specificepithet:multifasciatus" ; Times: 2
+	Query: "genus:Pinjalo specificepithet:pinjalo" ; Times: 1
+	Query: "genus:Doryrhamphus specificepithet:excisus" ; Times: 1
+	Query: "genus:Astroscopus specificepithet:y-graecum" ; Times: 1
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "rabbits" ; Times: 3
+	Query: "Cirrhoscyllium formosanum" ; Times: 2
+	Query: "Dasyatis hastata" ; Times: 2
+	Query: "genus:Leptobarbus specificepithet:hoevenii" ; Times: 1
+	Query: "genus:Anampses specificepithet:chrysocephalus" ; Times: 1
+	Query: "Eridacnis barbouri" ; Times: 2
+	Query: "genus:Galaxias specificepithet:truttaceus" ; Times: 1
+	Query: "genus:Cottunculus specificepithet:microps" ; Times: 1
+	Query: "genus:Barbus specificepithet:eutaenia" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:figueiredoi" ; Times: 1
+	Query: "USNM 265911" ; Times: 1
+	Query: "Squatina australis" ; Times: 2
+	Query: "genus:Porichthys specificepithet:margaritatus" ; Times: 1
+	Query: "genus:Malacoctenus specificepithet:hubbsi" ; Times: 1
+	Query: "genus:Acyrtops specificepithet:beryllinus" ; Times: 1
+	Query: "genus:Neoclinus specificepithet:bryope" ; Times: 1
+	Query: "catalognumber:316169 institutioncode:USNM" ; Times: 4
+	Query: "genus:Engraulis specificepithet:japonicus" ; Times: 1
+	Query: "genus:Alticorpus specificepithet:mentale" ; Times: 1
+	Query: "genus:Nimbochromis specificepithet:linni" ; Times: 1
+	Query: "genus:Sarritor specificepithet:frenatus" ; Times: 1
+	Query: "genus:Meiacanthus specificepithet:kamoharai" ; Times: 1
+	Query: "genus:Clinostomus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Thryssa specificepithet:dussumieri" ; Times: 1
+	Query: "Isurus paucus" ; Times: 2
+	Query: "genus:Sanopus specificepithet:greenfieldorum" ; Times: 1
+	Query: "genus:Xenodexia specificepithet:ctenolepis" ; Times: 1
+	Query: "genus:Alburnus specificepithet:alburnus" ; Times: 1
+	Query: "genus:Hippopotamyrus specificepithet:psittacus" ; Times: 1
+	Query: "genus:Emblemaria specificepithet:walkeri" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 9
+	Query: "Galeus cadenati" ; Times: 4
+	Query: "genus:Batrachoides specificepithet:goldmani" ; Times: 1
+	Query: "catalognumber:88913" ; Times: 1
+	Query: "genus:Gillichthys specificepithet:mirabilis" ; Times: 1
+	Query: "Bathyraja peruana" ; Times: 2
+	Query: "genus:Patagonotothen specificepithet:tessellata" ; Times: 1
+	Query: "genus:Mastacembelus specificepithet:crassus" ; Times: 2
+	Query: "Raja ackleyi" ; Times: 2
+	Query: "genus:Cottus specificepithet:reinii" ; Times: 2
+	Query: "genus:Telmatochromis specificepithet:temporalis" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "genus:Paraclinus specificepithet:sini" ; Times: 1
+	Query: "Elacatinus oceanops mappable:1" ; Times: 8
+	Query: "Galeus schultzi" ; Times: 2
+	Query: "genus:Arothron specificepithet:nigropunctatus" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:chrysus" ; Times: 1
+	Query: "catalognumber:367525 institutioncode:USNM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1182 download events in this period)
+Total number of records downloaded: 1444
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-25 ; Times: 2
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-06 ; Times: 8
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 17
+	Date: 2019-06-05 ; Times: 7
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "distance(location,geopoint(8.046130061900207,-77.21788702584513))&lt;24267.256569771595" ; Times: 1
+	Query: "coho" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "Rathbun" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 2
+	Query: "specificepithet:lepidum genus:etheostoma" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 2
+	Query: "cougar" ; Times: 5
+	Query: "distance(location,geopoint(8.266781347761965,-77.29522602639759))&lt;33248" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 1
+	Query: "benthosema panamense" ; Times: 1
+	Query: "lifestage:juvenile basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "bald eagle north america" ; Times: 1
+	Query: "alewife" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "lionfish" ; Times: 1
+	Query: "Ptychocheilus grandis" ; Times: 1
+	Query: "bald eagle" ; Times: 7
+	Query: "jaguar" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+
+
+End of report.
