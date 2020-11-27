@@ -1,0 +1,690 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 725
+Number of records retrieved in searches: 6539
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 8
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 6
+	Country: Mexico ; Times: 23
+	Country: France ; Times: 68
+	Country: United Kingdom ; Times: 8
+	Country: Japan ; Times: 84
+	Country: Slovakia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 7
+	Country: United States ; Times: 496
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 56
+	Date: 2020-02-05 ; Times: 133
+	Date: 2020-02-02 ; Times: 55
+	Date: 2020-02-03 ; Times: 67
+	Date: 2020-02-26 ; Times: 17
+	Date: 2020-02-27 ; Times: 20
+	Date: 2020-02-20 ; Times: 16
+	Date: 2020-02-21 ; Times: 14
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-08 ; Times: 9
+	Date: 2020-02-09 ; Times: 15
+	Date: 2020-02-28 ; Times: 29
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 49
+	Date: 2020-02-10 ; Times: 36
+	Date: 2020-02-13 ; Times: 14
+	Date: 2020-02-12 ; Times: 24
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 20
+	Date: 2020-02-17 ; Times: 44
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 8
+	Date: 2020-02-18 ; Times: 19
+	Date: 2020-02-24 ; Times: 12
+	Date: 2020-02-25 ; Times: 27
+	Date: 2020-02-06 ; Times: 20
+	Date: 2020-02-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "220092" ; Times: 1
+	Query: "mulloidichthys pfluegeri" ; Times: 1
+	Query: "275640" ; Times: 1
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "226046" ; Times: 1
+	Query: "226047" ; Times: 1
+	Query: "scientificname:Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "catalognumber:374612 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "Brycon argenteus" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "Glaucostegus" ; Times: 1
+	Query: "255730" ; Times: 2
+	Query: "255733" ; Times: 1
+	Query: "338438" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "bussingi" ; Times: 1
+	Query: "241456" ; Times: 1
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "catalognumber:201533" ; Times: 1
+	Query: "247798" ; Times: 1
+	Query: "catalognumber:393435 institutioncode:USNM" ; Times: 1
+	Query: "Paralichthodes" ; Times: 1
+	Query: "vntype:specimen (Skulls) hasmedia:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Cuatro ciénegas stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 1
+	Query: "Manducus" ; Times: 1
+	Query: "scientificname:Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "catalognumber:21693 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:16460 institutioncode:USNM" ; Times: 1
+	Query: "333788" ; Times: 1
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "USNM 437308" ; Times: 2
+	Query: "catalognumber:211687" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "catalognumber:206219 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Araiophos" ; Times: 1
+	Query: "Rhynchophorus" ; Times: 1
+	Query: "poroderma" ; Times: 1
+	Query: "locality:st paul stateprovince:&#34;alaska&#34; recordedby:hanna" ; Times: 1
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "253952" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Mulloidichthys mimicus mappable:1" ; Times: 1
+	Query: "15-1013-9" ; Times: 2
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Brachyrhaphis roseni" ; Times: 1
+	Query: "393877" ; Times: 1
+	Query: "372441 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus minys mappable:1" ; Times: 3
+	Query: "98211" ; Times: 1
+	Query: "catalognumber:360052 institutioncode:USNM" ; Times: 1
+	Query: "(2256) institutioncode:USNM" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "coppingeri" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "USNM 211945" ; Times: 1
+	Query: "Polyipnus spinosus" ; Times: 3
+	Query: "USNM 350242" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "usnm 312015" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "scientificname:Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "USNM 377016" ; Times: 2
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "242112" ; Times: 1
+	Query: "scientificname:Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus insularis mappable:1" ; Times: 3
+	Query: "catalognumber:251924 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "188093" ; Times: 1
+	Query: "specificepithet:fontinalis genus:Salvelinus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "USNM 377789" ; Times: 1
+	Query: "Mulloidichthys mimicus mappable:1" ; Times: 1
+	Query: "USNM 275661" ; Times: 1
+	Query: "Rineloricaria altipinnis" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 1
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "278489" ; Times: 1
+	Query: "scientificname:Mulloidichthys pfluegeri mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "catalognumber:374606 institutioncode:USNM" ; Times: 2
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "Brycon chagrensis" ; Times: 1
+	Query: "Bidenichthys" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "243161" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 1
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "catalognumber:374608 institutioncode:USNM" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 2
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "241965" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "278665" ; Times: 1
+	Query: "catalognumber:374607 institutioncode:USNM" ; Times: 1
+	Query: "275435" ; Times: 1
+	Query: "Triplophos hemingi" ; Times: 1
+	Query: "Guyana (Ceiba)" ; Times: 1
+	Query: "Psephurus gladius" ; Times: 1
+	Query: "hippocampus zosterae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "277123" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "Aby" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "scientificname:(Percina kusha) country:United States mappable:1" ; Times: 1
+	Query: "Krusensterniella" ; Times: 1
+	Query: "263772" ; Times: 1
+	Query: "263775" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "229994" ; Times: 2
+	Query: "mauligobius" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "318051 usnm" ; Times: 1
+	Query: "370431" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Vanneaugobius pruvoti" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "Pseudocheirodon terrabae" ; Times: 1
+	Query: "Malacoctenus tetranemus" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "242092" ; Times: 1
+	Query: "Gymnelopsis" ; Times: 1
+	Query: "Mulloidichthys pfluegeri mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "balanus balanus" ; Times: 3
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "Argyripnus ephippiatus" ; Times: 7
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Upeneus francisi mappable:1" ; Times: 1
+	Query: "chatham albatross" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "catalognumber:305741 institutioncode:USNM" ; Times: 2
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Parupeneus biaculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:427029 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "110015" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 2
+	Query: "14846" ; Times: 2
+	Query: "217680" ; Times: 1
+	Query: "scientificname:Parupeneus biaculeatus mappable:1" ; Times: 1
+	Query: "MCZ 3744" ; Times: 1
+	Query: "226052" ; Times: 1
+	Query: "Pomadasys corvinaeformis mappable:1" ; Times: 1
+	Query: "USNM 192544" ; Times: 1
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "markhami" ; Times: 1
+	Query: "297172" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "247605" ; Times: 1
+	Query: "catalognumber:36394 institutioncode:USNM" ; Times: 1
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Sonoda megalophthalma" ; Times: 3
+	Query: "USNM 181117" ; Times: 2
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "333790" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "214833" ; Times: 1
+	Query: "scientificname:Upeneus mouthami mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus itoui mappable:1" ; Times: 1
+	Query: "Gephyrocharax whaleri" ; Times: 1
+	Query: "247770" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "37880 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:Mullus argentinae mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "172160" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "Pterobrycon" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "catalognumber:150655 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "heterodon stateprovince:&#34;pennsylvania&#34;" ; Times: 5
+	Query: "hetereleotris" ; Times: 3
+	Query: "Gambusia hubbsi" ; Times: 2
+	Query: "Solea ovata" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Pimelodus punctatus" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "nmnh 286470" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "Astyanax kompi" ; Times: 3
+	Query: "loxodon" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "176095" ; Times: 1
+	Query: "Parupeneus moffitti mappable:1" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "239399" ; Times: 1
+	Query: "Eremophilus mutisii" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "catalognumber:141203 institutioncode:USNM" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "221428" ; Times: 1
+	Query: "sulcatus" ; Times: 1
+	Query: "Hoplosternum punctatum" ; Times: 2
+	Query: "sufflogobius" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "210712" ; Times: 1
+	Query: "locality:Yasuni " ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:398776 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "USNM 256659" ; Times: 1
+	Query: "scientificname:Upeneus guttatus mappable:1" ; Times: 1
+	Query: "hippocampus regulus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Mushroom" ; Times: 1
+	Query: "181285" ; Times: 1
+	Query: "padogobius" ; Times: 1
+	Query: "Barbus anoplus" ; Times: 1
+	Query: "149887" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "277686" ; Times: 1
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "225548" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "191582" ; Times: 1
+	Query: "241470" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "USNM 26194" ; Times: 1
+	Query: "Hippocampus zosterae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gorogobius" ; Times: 1
+	Query: "181212" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio Pesqueria country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rivulus montium" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "zosterisessor" ; Times: 1
+	Query: "242421" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "catalognumber:398780 institutioncode:USNM" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "Lucifuga subterranea" ; Times: 2
+	Query: "332849" ; Times: 1
+	Query: "Poecilopsetta zanzibarensis" ; Times: 4
+	Query: "151306" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "USNM 20591" ; Times: 1
+	Query: "catalognumber:228542 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:111667 institutioncode:USNM" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "Leptoancistrus" ; Times: 2
+	Query: "209785" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "Cataetyx messieri" ; Times: 1
+	Query: "230175" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "Thorophos" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus nansen mappable:1" ; Times: 1
+	Query: "porogobius" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "USNM 103677" ; Times: 1
+	Query: "237490" ; Times: 2
+	Query: "USNM 182432" ; Times: 2
+	Query: "Poecilopsetta inermis" ; Times: 1
+	Query: "catalognumber:369688 institutioncode:USNM" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 1
+	Query: "vanneaugobius" ; Times: 1
+	Query: "190692" ; Times: 1
+	Query: "Brycon obscurus" ; Times: 1
+	Query: "scientificname:Parupeneus moffitti mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "255198" ; Times: 1
+	Query: "170267" ; Times: 1
+	Query: "catalognumber:159053 institutioncode:USNM" ; Times: 2
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Catostomus insignis Sonoita" ; Times: 1
+	Query: "Poecilopsetta dorsialta" ; Times: 1
+	Query: "184512" ; Times: 1
+	Query: "USNM 256661" ; Times: 3
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "etheostoma phytophilum" ; Times: 4
+	Query: "189994" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "168967" ; Times: 1
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "265898" ; Times: 1
+	Query: "Calamopteryx" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "biosfera montes azules" ; Times: 6
+	Query: "sierra de lobos" ; Times: 1
+	Query: "Saccogaster" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "USNM 435694" ; Times: 2
+	Query: "trichomycterus tiraquae" ; Times: 1
+	Query: "Astroblepus Panama" ; Times: 2
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "259264" ; Times: 2
+	Query: "154450" ; Times: 1
+	Query: "Diplobatis colombiensis" ; Times: 3
+	Query: "242183" ; Times: 1
+	Query: "247462" ; Times: 1
+	Query: "Parupeneus minys mappable:1" ; Times: 2
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "pantostictus" ; Times: 1
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "USNM 330897" ; Times: 2
+	Query: "USNM 330896" ; Times: 2
+	Query: "Sladenia" ; Times: 2
+	Query: "tukugobius" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "catalognumber:369691 institutioncode:USNM" ; Times: 1
+	Query: "USNM 437307" ; Times: 2
+	Query: "locality:reading recordedby:hammond" ; Times: 1
+	Query: "order:Myxiniformes stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Cichlasoma diquis" ; Times: 4
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Samariscus corallinus" ; Times: 7
+	Query: "207191" ; Times: 1
+	Query: "386764 institutioncode:USNM" ; Times: 1
+	Query: "USNM 337015" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "Sonoda paucilampa" ; Times: 1
+	Query: "USNM 284148" ; Times: 1
+	Query: "Pseudonus" ; Times: 1
+	Query: "eridacnis" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "scientificname:Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "00628" ; Times: 1
+	Query: "catalognumber:219711 institutioncode:USNM" ; Times: 2
+	Query: "molidae" ; Times: 2
+	Query: "Poecilopsetta praelonga" ; Times: 3
+	Query: "225994" ; Times: 2
+	Query: "catalognumber:146315 institutioncode:USNM" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "Grammonus" ; Times: 2
+	Query: "228723" ; Times: 1
+	Query: "odondebuenia" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 2
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "Coregonus albula" ; Times: 1
+	Query: "catalognumber:312015 institutioncode:USNM" ; Times: 2
+	Query: "USNM 179493" ; Times: 2
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:69829 institutioncode:USNM" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "Hephthocara" ; Times: 1
+	Query: "324563" ; Times: 1
+	Query: "Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "275489" ; Times: 1
+	Query: "scientificname:Upeneus vanuatu mappable:1" ; Times: 1
+	Query: "didogobius" ; Times: 1
+	Query: "catalognumber:369689 institutioncode:USNM" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "USNM 197851" ; Times: 4
+	Query: "scientificname:Parupeneus forsskali mappable:1" ; Times: 2
+	Query: "catalognumber:293666 institutioncode:USNM" ; Times: 1
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "Microbrotula rubra" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "catalognumber:360053 institutioncode:USNM" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "432337 USNM" ; Times: 1
+	Query: "scientificname:Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "Characidium marshi" ; Times: 1
+	Query: "144987" ; Times: 1
+	Query: "USNM 399979" ; Times: 1
+	Query: "catalognumber:374611 institutioncode:USNM" ; Times: 1
+	Query: "Careproctus georgianus" ; Times: 2
+	Query: "Poecilia picta" ; Times: 3
+	Query: "387935" ; Times: 1
+	Query: "387938" ; Times: 1
+	Query: "Parupeneus forsskali mappable:1" ; Times: 2
+	Query: "Thyrsitops" ; Times: 1
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "396065" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "247571" ; Times: 2
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma maydeni) country:United States mappable:1" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "184986" ; Times: 1
+	Query: "scientificname:Upeneus francisi mappable:1" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "catalognumber:270383" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "león guanajuato" ; Times: 4
+	Query: "374760" ; Times: 1
+	Query: "197804 institutioncode:USNM" ; Times: 1
+	Query: "Opaeophacus" ; Times: 1
+	Query: "scientificname:Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "USNM 169605" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "genus:bathygobius locality:Clipperton" ; Times: 1
+	Query: "Tilapia guineensis" ; Times: 1
+	Query: "Careproctus ovigerus" ; Times: 1
+	Query: "catalognumber:382474" ; Times: 1
+	Query: "347659 usnm" ; Times: 1
+	Query: "scientificname:(Gambusia affinis OR Gambusia patruelis OR Gambusia affinis affinis OR Gambusia holbrooki) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "locality:Lagarto Cocha " ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "255642" ; Times: 1
+	Query: "255643" ; Times: 1
+	Query: "213330" ; Times: 1
+	Query: "241251" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "Nematops" ; Times: 7
+	Query: "(20938) institutioncode:USNM" ; Times: 1
+	Query: "USNM 113858" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:222555 institutioncode:USNM" ; Times: 2
+	Query: "locality:reading stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "286917" ; Times: 1
+	Query: "Makaira nigricans  mappable:1" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Rivulus weberi" ; Times: 1
+	Query: "catalognumber:374609 institutioncode:USNM" ; Times: 1
+	Query: "286919" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "297173" ; Times: 1
+	Query: "238141" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Crystallichthys cyclospilus" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "USNM 313527" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "Araiophos eastropas" ; Times: 1
+	Query: "Haemulon bonariense mappable:1" ; Times: 1
+	Query: "284148" ; Times: 1
+	Query: "scientificname:Upeneus supravittatus mappable:1" ; Times: 1
+	Query: "catalognumber:41242 institutioncode:USNM" ; Times: 2
+	Query: "221957" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "USNM 160001" ; Times: 2
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Tetrapturus pfluegeri mappable:1" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "scientificname:Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "244028" ; Times: 1
+	Query: "237931" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "specificepithet:lombardoi" ; Times: 2
+	Query: "usnm 41501" ; Times: 2
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "scientificname:Upeneus heemstra mappable:1" ; Times: 3
+	Query: "thorogobius" ; Times: 1
+	Query: "catalognumber:346351 institutioncode:USNM" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Microdesmus" ; Times: 1
+	Query: "rhinogobius" ; Times: 7
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Upeneus margarethae mappable:1" ; Times: 1
+	Query: "242496" ; Times: 1
+	Query: "164850" ; Times: 1
+	Query: "scientificname:(Notropis stramineus OR Notropis ludibundus) country:United States mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "USNM 388699" ; Times: 1
+	Query: "320470" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Hypostomus cochliodon" ; Times: 1
+	Query: "USNM 255800" ; Times: 1
+	Query: "Microbrotula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1023 download events in this period)
+Total number of records downloaded: 6207
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: South Africa ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Iraq ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "kurdistan" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "trichomycterus tiraquae" ; Times: 2
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "class:Actinopterygii locality:Cuatro ciénegas stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "Malacoctenus tetranemus" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+
+
+End of report.
