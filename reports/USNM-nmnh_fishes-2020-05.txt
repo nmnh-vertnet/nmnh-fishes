@@ -1,0 +1,893 @@
+Report for Institution Code USNM, Resource nmnh_fishes
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 964
+Number of records retrieved in searches: 3627
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Ireland ; Times: 17
+	Country: Australia ; Times: 6
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 15
+	Country: Austria ; Times: 1
+	Country: United States ; Times: 843
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 10
+	Country: Iraq ; Times: 1
+	Country: Russia ; Times: 21
+	Country: Brazil ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 41
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 17
+	Date: 2020-05-26 ; Times: 23
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 18
+	Date: 2020-05-29 ; Times: 19
+	Date: 2020-05-28 ; Times: 16
+	Date: 2020-05-18 ; Times: 31
+	Date: 2020-05-19 ; Times: 10
+	Date: 2020-05-10 ; Times: 49
+	Date: 2020-05-11 ; Times: 61
+	Date: 2020-05-12 ; Times: 55
+	Date: 2020-05-13 ; Times: 75
+	Date: 2020-05-14 ; Times: 14
+	Date: 2020-05-15 ; Times: 84
+	Date: 2020-05-16 ; Times: 22
+	Date: 2020-05-17 ; Times: 96
+	Date: 2020-05-30 ; Times: 19
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 31
+	Date: 2020-05-07 ; Times: 67
+	Date: 2020-05-06 ; Times: 62
+	Date: 2020-05-04 ; Times: 68
+	Date: 2020-05-03 ; Times: 12
+	Date: 2020-05-02 ; Times: 50
+	Date: 2020-05-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "390653" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "390650" ; Times: 1
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "390654" ; Times: 1
+	Query: "Lepophidium microlepis" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "372327" ; Times: 1
+	Query: "313574" ; Times: 2
+	Query: "catalognumber:13939 institutioncode:USNM" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "USNM 316770" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "USNM 375832" ; Times: 1
+	Query: "283387" ; Times: 1
+	Query: "268213" ; Times: 1
+	Query: "USNM 387224" ; Times: 1
+	Query: "334509" ; Times: 1
+	Query: "334508" ; Times: 1
+	Query: "268214" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus mappable:1" ; Times: 1
+	Query: "165471" ; Times: 1
+	Query: "165473" ; Times: 1
+	Query: "locality:La Yeguada country:&#34;Panama&#34;" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panamá&#34;" ; Times: 2
+	Query: "66672" ; Times: 1
+	Query: "423504" ; Times: 1
+	Query: "USNM 284466" ; Times: 1
+	Query: "387191" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "338429" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "Uropterygius versutus" ; Times: 3
+	Query: "evermannella indica" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "USNM 45780" ; Times: 2
+	Query: "331880" ; Times: 1
+	Query: "inegocia japonica" ; Times: 2
+	Query: "201535" ; Times: 1
+	Query: "USNM 201314" ; Times: 1
+	Query: "413510" ; Times: 1
+	Query: "class:Actinopterygii locality:iguazu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "257330" ; Times: 1
+	Query: "413517" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "USNM 38953" ; Times: 2
+	Query: "catalognumber:254019 institutioncode:USNM" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "323376" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "USNM 215898" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "372322" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "country:&#34;aruba&#34;" ; Times: 1
+	Query: "USNM 106350" ; Times: 1
+	Query: "Gymnothorax castaneus" ; Times: 1
+	Query: "USNM 212062" ; Times: 1
+	Query: "308873" ; Times: 1
+	Query: "USNM 144253" ; Times: 1
+	Query: "catalognumber:396259" ; Times: 2
+	Query: "276965" ; Times: 1
+	Query: "257220" ; Times: 1
+	Query: "387321" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "387324" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "USNM 351812" ; Times: 1
+	Query: "229057" ; Times: 1
+	Query: "284132" ; Times: 1
+	Query: "Museum of Biological Diversity" ; Times: 2
+	Query: "79663" ; Times: 2
+	Query: "298398" ; Times: 1
+	Query: "gymnothorax buroensis" ; Times: 1
+	Query: "427582" ; Times: 1
+	Query: "175967" ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "USNM 188616" ; Times: 2
+	Query: "159583" ; Times: 1
+	Query: "191514" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "284910" ; Times: 1
+	Query: "catalognumber:334283" ; Times: 1
+	Query: "387373" ; Times: 1
+	Query: "KU 20893" ; Times: 2
+	Query: "205970" ; Times: 1
+	Query: "388043" ; Times: 1
+	Query: "USNM 387226" ; Times: 2
+	Query: "catalognumber:250282 institutioncode:USNM" ; Times: 2
+	Query: "USNM 284523" ; Times: 1
+	Query: "USNM 284522" ; Times: 1
+	Query: "USNM 284521" ; Times: 1
+	Query: "226537" ; Times: 1
+	Query: "Gastrocyathus gracilis" ; Times: 1
+	Query: "416259" ; Times: 1
+	Query: "odontanthias rhodopeplus" ; Times: 1
+	Query: "USNM B-3611" ; Times: 1
+	Query: "722083" ; Times: 1
+	Query: "190233" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "Balistes punctatus mappable:1" ; Times: 1
+	Query: "USNM 153561" ; Times: 1
+	Query: "338079" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "342217" ; Times: 1
+	Query: "Red River Gunn" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "USNM 49462" ; Times: 2
+	Query: "297682" ; Times: 1
+	Query: "USNM 49466" ; Times: 1
+	Query: "297681" ; Times: 1
+	Query: "USNM 20626" ; Times: 1
+	Query: "USNM 20624" ; Times: 1
+	Query: "catalognumber:1450 institutioncode:USNM" ; Times: 1
+	Query: "USNM 273189" ; Times: 1
+	Query: "usnm 203478" ; Times: 2
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "USNM 351968" ; Times: 2
+	Query: "usnm 203471" ; Times: 2
+	Query: "usnm 203472" ; Times: 1
+	Query: "429084" ; Times: 1
+	Query: "usnm 203474" ; Times: 3
+	Query: "usnm 203475" ; Times: 3
+	Query: "USNM 255787" ; Times: 1
+	Query: "usnm 203477" ; Times: 2
+	Query: "USNM 247463" ; Times: 1
+	Query: "ZMH" ; Times: 1
+	Query: "383730" ; Times: 1
+	Query: "373190" ; Times: 1
+	Query: "USNM 247464" ; Times: 1
+	Query: "156311" ; Times: 1
+	Query: "Samariscus luzonensis" ; Times: 2
+	Query: "413555" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "147948" ; Times: 1
+	Query: "268222" ; Times: 1
+	Query: "411732" ; Times: 1
+	Query: "USNM 45781" ; Times: 1
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "USNM 181380" ; Times: 2
+	Query: "424780" ; Times: 1
+	Query: "Cynoscion hasmedia:1" ; Times: 2
+	Query: "locality:accotink" ; Times: 3
+	Query: "303096" ; Times: 1
+	Query: "269591" ; Times: 2
+	Query: "269646" ; Times: 1
+	Query: "269644" ; Times: 1
+	Query: "USNM 387219" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "Megalobrama terminalis" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "229081" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "229082" ; Times: 1
+	Query: "321685" ; Times: 1
+	Query: "323096" ; Times: 1
+	Query: "409296" ; Times: 1
+	Query: "335278" ; Times: 1
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "USNM 284456" ; Times: 2
+	Query: "231029" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "USNM 284452" ; Times: 2
+	Query: "169592" ; Times: 1
+	Query: "141379" ; Times: 1
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "euristhmus lepturus" ; Times: 2
+	Query: "344695" ; Times: 1
+	Query: "255227" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "USNM 411338" ; Times: 2
+	Query: "USNM 411336" ; Times: 2
+	Query: "USNM 375628" ; Times: 1
+	Query: "USNM 30551" ; Times: 1
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "genypterus chilensis" ; Times: 1
+	Query: "USNM 326212" ; Times: 1
+	Query: "USNM 237186" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "294456" ; Times: 1
+	Query: "USNM 257419" ; Times: 1
+	Query: "USNM 373222" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "372349" ; Times: 1
+	Query: "261999" ; Times: 2
+	Query: "USNM 333054" ; Times: 1
+	Query: "387312" ; Times: 1
+	Query: "196565" ; Times: 1
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "iracundus signifer" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+	Query: "344906" ; Times: 1
+	Query: "344696" ; Times: 1
+	Query: "USNM 28546" ; Times: 1
+	Query: "crenichthys nevadae" ; Times: 1
+	Query: "USNM 284561" ; Times: 1
+	Query: "tai o country:&#34;china&#34;" ; Times: 1
+	Query: "297259" ; Times: 1
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "327264" ; Times: 1
+	Query: "Gymnothorax phalarus" ; Times: 1
+	Query: "351189" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "270401" ; Times: 1
+	Query: "274043" ; Times: 1
+	Query: "274042" ; Times: 1
+	Query: "274041" ; Times: 2
+	Query: "274040" ; Times: 1
+	Query: "325847" ; Times: 1
+	Query: "288684" ; Times: 1
+	Query: "USNM 371255" ; Times: 2
+	Query: "specificepithet:copei genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "288683" ; Times: 1
+	Query: "274049" ; Times: 1
+	Query: "262135" ; Times: 1
+	Query: "359021" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "190199" ; Times: 1
+	Query: "286932" ; Times: 1
+	Query: "286933" ; Times: 2
+	Query: "205957" ; Times: 1
+	Query: "190207" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "223574" ; Times: 1
+	Query: "346029" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 5
+	Query: "USNM 402036" ; Times: 2
+	Query: "389700" ; Times: 1
+	Query: "Sufflamen fraenatum mappable:1" ; Times: 1
+	Query: "Echidna nocturna" ; Times: 1
+	Query: "USNM 353367" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "225006" ; Times: 1
+	Query: "Samariscus longimanus" ; Times: 3
+	Query: "44752" ; Times: 1
+	Query: "413526" ; Times: 1
+	Query: "USNM 279404" ; Times: 2
+	Query: "USNM 112981" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "USNM 147447" ; Times: 1
+	Query: "175281" ; Times: 1
+	Query: "262000" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "60453" ; Times: 1
+	Query: "halidesmus scapularis" ; Times: 2
+	Query: "USNM 198296" ; Times: 2
+	Query: "63237" ; Times: 1
+	Query: "218510" ; Times: 1
+	Query: "257328" ; Times: 1
+	Query: "USNM 181116" ; Times: 2
+	Query: "79125" ; Times: 1
+	Query: "331875" ; Times: 1
+	Query: "catalognumber:246921 institutioncode:USNM" ; Times: 2
+	Query: "429161" ; Times: 1
+	Query: "iso flosmaris" ; Times: 1
+	Query: "264653" ; Times: 1
+	Query: "372325" ; Times: 1
+	Query: "316456" ; Times: 1
+	Query: "288698" ; Times: 1
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "Chauvin" ; Times: 2
+	Query: "324549" ; Times: 1
+	Query: "jaydia ellioti" ; Times: 1
+	Query: "USNM 285036" ; Times: 1
+	Query: "USNM 383743" ; Times: 1
+	Query: "165634" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "USNM 284547" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Gymnothorax javanicus" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "USNM 316768" ; Times: 1
+	Query: "margaritophorus indonesia" ; Times: 1
+	Query: "325851" ; Times: 1
+	Query: "338712" ; Times: 1
+	Query: "USNM 284540" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "USNM 284918" ; Times: 1
+	Query: "USNM 284917" ; Times: 1
+	Query: "171353" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "USNM 263742" ; Times: 2
+	Query: "USNM 112980" ; Times: 1
+	Query: "Bathysphyraenops simplex" ; Times: 3
+	Query: "93857" ; Times: 1
+	Query: "429162" ; Times: 1
+	Query: "223154" ; Times: 1
+	Query: "guavina guavina" ; Times: 1
+	Query: "USNM 333063" ; Times: 2
+	Query: "223153" ; Times: 1
+	Query: "223152" ; Times: 1
+	Query: "USNM 404662" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "228369" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "326515" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "239883" ; Times: 1
+	Query: "305688" ; Times: 1
+	Query: "387340" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "387167" ; Times: 1
+	Query: "190224" ; Times: 1
+	Query: "USNM Chuck" ; Times: 1
+	Query: "393038" ; Times: 1
+	Query: "274212" ; Times: 1
+	Query: "180130" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "259373" ; Times: 1
+	Query: "309928" ; Times: 1
+	Query: "USNM 55802" ; Times: 1
+	Query: "347969" ; Times: 1
+	Query: "309927" ; Times: 1
+	Query: "225227" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "USNM 273192" ; Times: 1
+	Query: "USNM 373248" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "USNM 355118" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "239074" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "229466" ; Times: 1
+	Query: "229465" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "210714" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "Gymnothorax equatorialis" ; Times: 2
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "225044" ; Times: 1
+	Query: "390187" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "muraena argus" ; Times: 1
+	Query: "USNM 117949" ; Times: 2
+	Query: "USNM 217327" ; Times: 1
+	Query: "369092" ; Times: 1
+	Query: "321689" ; Times: 1
+	Query: "upeneus heemstra" ; Times: 1
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "echiichthys vipera" ; Times: 1
+	Query: "USNM 182803" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "megalobrama terminalis" ; Times: 4
+	Query: "274213" ; Times: 2
+	Query: "65127" ; Times: 1
+	Query: "Enchelycore lichenosa" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "USNM 284920" ; Times: 1
+	Query: "usnm 203479" ; Times: 2
+	Query: "251327" ; Times: 1
+	Query: "231033" ; Times: 1
+	Query: "179064" ; Times: 1
+	Query: "165467" ; Times: 1
+	Query: "neolissochilus hexagonolepis" ; Times: 1
+	Query: "USNM 222340" ; Times: 2
+	Query: "Hyporhamphus gilli" ; Times: 2
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "368245" ; Times: 1
+	Query: "413533" ; Times: 1
+	Query: "USNM 181698" ; Times: 1
+	Query: "esomus metallicus" ; Times: 1
+	Query: "USNM 71718" ; Times: 1
+	Query: "USNM 315019" ; Times: 1
+	Query: "354208" ; Times: 1
+	Query: "USNM 284958" ; Times: 2
+	Query: "234260" ; Times: 1
+	Query: "280566" ; Times: 1
+	Query: "USNM 388669" ; Times: 1
+	Query: "USNM 388668" ; Times: 2
+	Query: "34415" ; Times: 1
+	Query: "388062" ; Times: 1
+	Query: "330422" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "330421" ; Times: 1
+	Query: "210113" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "223118" ; Times: 1
+	Query: "200187" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "431648" ; Times: 1
+	Query: "196541" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "233345" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "233349" ; Times: 1
+	Query: "288625" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "USNM 255788" ; Times: 1
+	Query: "iguaçu" ; Times: 1
+	Query: "usnm 203473" ; Times: 1
+	Query: "Columbia county ny" ; Times: 1
+	Query: "350946" ; Times: 1
+	Query: "USNM 343400" ; Times: 1
+	Query: "355198" ; Times: 1
+	Query: "USNM 383753" ; Times: 2
+	Query: "230073" ; Times: 1
+	Query: "352002" ; Times: 1
+	Query: "359137" ; Times: 1
+	Query: "350823" ; Times: 2
+	Query: "325995" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "288699" ; Times: 1
+	Query: "325991" ; Times: 1
+	Query: "USNM 284545" ; Times: 1
+	Query: "327370" ; Times: 1
+	Query: "USNM 404658" ; Times: 1
+	Query: "USNM 284541" ; Times: 2
+	Query: "USNM 377422" ; Times: 2
+	Query: "USNM 284542" ; Times: 2
+	Query: "387057" ; Times: 1
+	Query: "387056" ; Times: 1
+	Query: "359133" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "362639" ; Times: 1
+	Query: "USNM 181378" ; Times: 1
+	Query: "387058" ; Times: 1
+	Query: "196725" ; Times: 1
+	Query: "284104" ; Times: 1
+	Query: "386932" ; Times: 1
+	Query: "class:Actinopterygii locality:Iguaçu" ; Times: 1
+	Query: "USNM 45779" ; Times: 2
+	Query: "373173" ; Times: 1
+	Query: "USNM 278217" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "USNM 345401" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "Rhinecanthus lunula mappable:1" ; Times: 1
+	Query: "351930" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "USNM 43990" ; Times: 4
+	Query: "406502" ; Times: 1
+	Query: "USNM 247489" ; Times: 2
+	Query: "437945" ; Times: 1
+	Query: "histiodraco velifer" ; Times: 1
+	Query: "USNM 329708" ; Times: 1
+	Query: "310828" ; Times: 1
+	Query: "350995" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "specificepithet:orcutti genus:gila county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "318107" ; Times: 1
+	Query: "USNM 406309" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "USNM 406300" ; Times: 1
+	Query: "288250" ; Times: 1
+	Query: "413525" ; Times: 1
+	Query: "USNM 279248" ; Times: 1
+	Query: "211153" ; Times: 1
+	Query: "USNM 373139" ; Times: 1
+	Query: "378688" ; Times: 1
+	Query: "Uropterygius polystictus" ; Times: 1
+	Query: "USNM 247435" ; Times: 1
+	Query: "USNM 373136" ; Times: 1
+	Query: "USNM 247433" ; Times: 1
+	Query: "Bellapiscis medius" ; Times: 1
+	Query: "240986" ; Times: 2
+	Query: "297765" ; Times: 1
+	Query: "240981" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "424882" ; Times: 1
+	Query: "336363" ; Times: 1
+	Query: "USNM 383754" ; Times: 2
+	Query: "USNM 285128" ; Times: 2
+	Query: "360358" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "421666" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "415750" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panama&#34;" ; Times: 6
+	Query: "scolopsis vosmeri gulf" ; Times: 1
+	Query: "297045" ; Times: 2
+	Query: "38633" ; Times: 1
+	Query: "USNM 62916" ; Times: 2
+	Query: "38592" ; Times: 1
+	Query: "288701" ; Times: 1
+	Query: "JAÍBA" ; Times: 2
+	Query: "USNM 284546" ; Times: 1
+	Query: "372329" ; Times: 1
+	Query: "372328" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "372326" ; Times: 1
+	Query: "303156" ; Times: 1
+	Query: "372324" ; Times: 1
+	Query: "372323" ; Times: 1
+	Query: "dolopichthys allector" ; Times: 1
+	Query: "372321" ; Times: 1
+	Query: "372320" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "choerodon robustus aden" ; Times: 2
+	Query: "Jaíba" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "387370" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 1
+	Query: "387374" ; Times: 1
+	Query: "290981" ; Times: 1
+	Query: "158103" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "265596" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "274202" ; Times: 1
+	Query: "USNM 177724" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "USNM 248949" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "USNM 406504" ; Times: 2
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "33368 usnm" ; Times: 1
+	Query: "corvula batabana" ; Times: 1
+	Query: "302588" ; Times: 1
+	Query: "USNM 217329" ; Times: 1
+	Query: "upeneus somalia" ; Times: 6
+	Query: "USNM 373257" ; Times: 2
+	Query: "269531" ; Times: 1
+	Query: "USNM 373253" ; Times: 1
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "catalognumber:48594 institutioncode:USNM" ; Times: 2
+	Query: "141074" ; Times: 1
+	Query: "162694" ; Times: 1
+	Query: "USNM 330166" ; Times: 1
+	Query: "416251" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "265373" ; Times: 1
+	Query: "USNM 316769" ; Times: 1
+	Query: "373185" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "373181" ; Times: 1
+	Query: "226539" ; Times: 1
+	Query: "387498" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "usnm 203480" ; Times: 2
+	Query: "157122" ; Times: 1
+	Query: "255709" ; Times: 1
+	Query: "Pseudobalistes naufragium mappable:1" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "269588" ; Times: 1
+	Query: "269589" ; Times: 1
+	Query: "graus nigra" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "catalognumber:35128 institutioncode:USNM" ; Times: 1
+	Query: "locality:Yeguada country:&#34;Panamá&#34;" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "(schuster)" ; Times: 1
+	Query: "Aspasmichthys" ; Times: 1
+	Query: "423204" ; Times: 1
+	Query: "eckloniaichthys scylliorhiniceps" ; Times: 1
+	Query: "344734" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "06197" ; Times: 2
+	Query: "usnm 329596" ; Times: 1
+	Query: "284479" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "Gymnothorax buroensis" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "USNM 329707" ; Times: 1
+	Query: "Sufflamen albicaudatum mappable:1" ; Times: 1
+	Query: "USNM 126819" ; Times: 2
+	Query: "USNM 246916" ; Times: 1
+	Query: "USNM 285034" ; Times: 2
+	Query: "USNM 147438" ; Times: 1
+	Query: "holcomycteronus digittatus" ; Times: 1
+	Query: "297127" ; Times: 1
+	Query: "272553" ; Times: 1
+	Query: "USNM 58117" ; Times: 2
+	Query: "234588" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "USNM 196587" ; Times: 3
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "usnm 20348-" ; Times: 1
+	Query: "267071" ; Times: 1
+	Query: "usnm 203481" ; Times: 2
+	Query: "113485" ; Times: 1
+	Query: "usnm 203483" ; Times: 3
+	Query: "usnm 203482" ; Times: 2
+	Query: "usnm 203485" ; Times: 2
+	Query: "usnm 203484" ; Times: 2
+	Query: "usnm 203486" ; Times: 3
+	Query: "Yemen" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "283390" ; Times: 1
+	Query: "431640" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 2
+	Query: "336356" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "277457" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "USNM 285129" ; Times: 2
+	Query: "locality:Yeguada country:&#34;Panama&#34;" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "USNM 06197" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "262233" ; Times: 1
+	Query: "371260" ; Times: 1
+	Query: "262234" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "locality:Iguaçu" ; Times: 1
+	Query: "260192" ; Times: 1
+	Query: "USNM 218011" ; Times: 2
+	Query: "205960" ; Times: 1
+	Query: "351835" ; Times: 1
+	Query: "300618" ; Times: 1
+	Query: "351837" ; Times: 2
+	Query: "205966" ; Times: 1
+	Query: "USNM 361410" ; Times: 1
+	Query: "USNM Antrostomus" ; Times: 1
+	Query: "300617" ; Times: 1
+	Query: "174980" ; Times: 2
+	Query: "USNM 284553" ; Times: 1
+	Query: "327364" ; Times: 1
+	Query: "USNM 249197" ; Times: 2
+	Query: "167134" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "388059" ; Times: 1
+	Query: "387207" ; Times: 1
+	Query: "246653" ; Times: 2
+	Query: "choerodon Aden" ; Times: 1
+	Query: "246651" ; Times: 1
+	Query: "363087" ; Times: 1
+	Query: "246656" ; Times: 1
+	Query: "246655" ; Times: 1
+	Query: "390802" ; Times: 1
+	Query: "284987" ; Times: 2
+	Query: "180098" ; Times: 1
+	Query: "180099" ; Times: 1
+	Query: "370367" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "Adelotremus" ; Times: 2
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "USNM 275772" ; Times: 2
+	Query: "190222" ; Times: 1
+	Query: "USNM 275771" ; Times: 1
+	Query: "class:Actinopterygii locality:iguaçu stateprovince:&#34;Santa Catarina&#34;" ; Times: 1
+	Query: "258512" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "USNM 313958" ; Times: 1
+	Query: "USNM 181015" ; Times: 2
+	Query: "336129" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "159562" ; Times: 1
+	Query: "USNM 49467" ; Times: 1
+	Query: "USNM 49451" ; Times: 1
+	Query: "USNM 49450" ; Times: 1
+	Query: "321686" ; Times: 1
+	Query: "321687" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "335020" ; Times: 1
+	Query: "scolopsis aden" ; Times: 1
+	Query: "USNM 351971" ; Times: 2
+	Query: "USNM 390799" ; Times: 2
+	Query: "211646" ; Times: 1
+	Query: "362886" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "344776" ; Times: 1
+	Query: "363415" ; Times: 1
+	Query: "255567" ; Times: 1
+	Query: "USNM 200800" ; Times: 1
+	Query: "USNM 173383" ; Times: 2
+	Query: "florenciella lugubris" ; Times: 1
+	Query: "pachynema" ; Times: 1
+	Query: "258211" ; Times: 1
+	Query: "lepidocybium" ; Times: 3
+	Query: "vntype:observation county:&#34;Roanoke&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Rhinecanthus assasi mappable:1" ; Times: 1
+	Query: "351857" ; Times: 1
+	Query: "175278" ; Times: 1
+	Query: "USNM 406317" ; Times: 1
+	Query: "254764" ; Times: 1
+	Query: "223291" ; Times: 1
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "catalognumber:253555 institutioncode:USNM" ; Times: 2
+	Query: "411695" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "USNM 180377" ; Times: 1
+	Query: "284494" ; Times: 1
+	Query: "284493" ; Times: 1
+	Query: "284491" ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "hippoglossina macrops" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:301050 institutioncode:USNM" ; Times: 2
+	Query: "USNM 411266" ; Times: 1
+	Query: "USNM 390804" ; Times: 2
+	Query: "USNM 351967" ; Times: 2
+	Query: "159638" ; Times: 2
+	Query: "USNM 213019" ; Times: 2
+	Query: "360367" ; Times: 1
+	Query: "242271" ; Times: 1
+	Query: "242270" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "158356" ; Times: 2
+	Query: "USNM 236468" ; Times: 1
+	Query: "429208" ; Times: 1
+	Query: "usnm 203476" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "HAPLOCYLIX" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "tai o stateprovince:&#34;hong kong&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "274050" ; Times: 1
+	Query: "cubiceps paradoxus" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "hime japonica" ; Times: 1
+	Query: "350648" ; Times: 1
+	Query: "USNM 369080" ; Times: 1
+	Query: "348140" ; Times: 1
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "Gymnothorax australicola" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "catalognumber:43990 institutioncode:USNM" ; Times: 3
+	Query: "class:Actinopterygii country:&#34;Argentina&#34;" ; Times: 1
+	Query: "236272" ; Times: 1
+	Query: "387153" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 2
+	Query: "235808" ; Times: 1
+	Query: "295744" ; Times: 1
+	Query: "3621 institutioncode:USNM" ; Times: 1
+	Query: "362106" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "Samariscus macrognathus" ; Times: 3
+	Query: "296769" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "clarkichthys bilineatus" ; Times: 2
+	Query: "USNM 110962" ; Times: 2
+	Query: "locality:La Yeguada country:&#34;Panamá&#34;" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+	Query: "314059" ; Times: 1
+	Query: "331879" ; Times: 2
+	Query: "162688" ; Times: 1
+	Query: "echelus myrus" ; Times: 2
+	Query: "catalognumber:48595 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "229483" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1106 download events in this period)
+Total number of records downloaded: 2691
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aramberri" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "class:Actinopterygii locality:Iguaçu" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 1
+
+
+End of report.
